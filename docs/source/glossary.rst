@@ -1,14 +1,16 @@
 Glossary
 ========
 
-.. tabs::
+.. list-table::
+   :header-rows: 1
+   :widths: 20 40 40
 
-   .. tab:: Wetlab definition
-
-      **Acceptability criteria**  
-      Predefined specifications or limits used to determine whether a result, process, or product is considered fit for purpose. Must be documented before testing—for example, control values must fall within a certain range, and PCR efficiency must meet specified thresholds.
-
-   .. tab:: Bioinformatics definition
-
-      **Acceptability criteria**  
-      Add your definition here.
+   * - Term
+     - Wetlab Definition
+     - Bioinformatics Definition
+   * - Acceptability criteria
+     - Predefined lab specs for result validity
+     - Thresholds for algorithm/data quality
+   * - Control sample
+     - Known sample for validation
+     - Reference dataset for benchmarking
