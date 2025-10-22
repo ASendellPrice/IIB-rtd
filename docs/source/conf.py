@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'spinx_design'
+    'sphinx_design'
 ]
 
 intersphinx_mapping = {
