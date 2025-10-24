@@ -19,7 +19,7 @@ with open("docs/source/glossary.rst", "w") as f:
         bio_example = row.get("Bioinformatics example sentence", "")
 
         # Write dropdown block
-        f.write(f".. dropdown:: {term}\n   :open:\n\n")
+        f.write(f".. dropdown:: {term}\n\n")
         f.write(f"   {definition.strip()}\n\n")
         f.write(f"   **Example usage:**  \n   {example.strip()}\n\n")
 

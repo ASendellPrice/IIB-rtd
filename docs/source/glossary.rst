@@ -4,7 +4,6 @@ Glossary of ISO terms
 Here you will find definitions for common ISO 15189-related terms.
 
 .. dropdown:: Acceptability criteria 
-   :open:
 
    Predefined specifications or limits used to determine whether a result, process, or product is considered fit for purpose. Must be documented before testing, e.g., control values must fall within a certain range, PCR efficiency must meet specified thresholds.
 
@@ -20,7 +19,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Acceptability criteria required that at least 90% of exome target bases achieved a minimum coverage of 20×”*
 
 .. dropdown:: Accreditation
-   :open:
 
    Formal recognition by an authoritative body that a laboratory or organisation is competent to perform specific tests or activities in accordance with established standards (e.g., ISO 15189).
 
@@ -36,7 +34,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“See wetlab example.”*
 
 .. dropdown:: Adequacy
-   :open:
 
    Suitability of resources, processes, or systems to achieve intended objectives. In ISO 15189, adequacy is judged against documented requirements.
 
@@ -52,7 +49,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“The reference genome and variant database were reviewed for adequacy to ensure they included updated known resistance mutations in pathogen datasets, enabling accurate detection and reporting.”*
 
 .. dropdown:: Authorisation
-   :open:
 
    Official permission granted by a competent person or authority to perform a specific activity, release results, or operate equipment in accordance with established procedures.
 
@@ -68,7 +64,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“nan”*
 
 .. dropdown:: Calibration (Calibration Requirements)
-   :open:
 
    Operation establishing the relationship between instrument indications and reference standards (ISO VIM). Calibration ensures that measurements are accurate, traceable, and reliable.
 
@@ -84,7 +79,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Calibration of the variant quality score model was performed using Genome in a Bottle reference calls to ensure accurate variant classification.”*
 
 .. dropdown:: Change Control
-   :open:
 
    A formal process within the Quality Management System (QMS) for managing modifications to documents, procedures, equipment, or systems. It ensures that any changes are reviewed, approved, implemented, and documented in a controlled manner to maintain quality and compliance.
 
@@ -100,7 +94,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Change control was required when updating the reference genome for Mycobacterium tuberculosis to a new version, ensuring that the updated reference, pipeline re-validation, and impact on drug-resistance mutation reporting were fully documented before implementation.”*
 
 .. dropdown:: Change Request (Document Control)
-   :open:
 
    A formal request submitted to modify a controlled document (e.g., SOP, validation protocol). Change requests must include justification, details of the proposed modification, and undergo review and approval before implementation. All approved change requests must be recorded in the Quality Management System (QMS).
 
@@ -116,7 +109,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“A change request was submitted to update the server IP address specified in the SOP following a change in the server configuration.”*
 
 .. dropdown:: Checklists (under Audits)
-   :open:
 
    Structured tools used to verify compliance with requirements, procedures, or standards during audits. Checklists help ensure that all critical elements are reviewed consistently.
 
@@ -132,7 +124,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“During pipeline audits, a checklist ensured that software versions, reference databases, QC metrics, and documentation were reviewed for compliance with quality standards.”*
 
 .. dropdown:: Clinical Accuracy
-   :open:
 
    Degree to which test results correctly reflect the clinical status of the patient (ISO 15197, CLSI). Clinical accuracy goes beyond analytical correctness to measure how well results correspond to actual patient condition.
 
@@ -148,7 +139,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Clinical accuracy of the TB genomics pipeline was confirmed by comparing detected Mycobacterium tuberculosis sequences and resistance markers with patient microbiology results, ensuring reported variants reflected true infection and drug resistance status.”*
 
 .. dropdown:: Clinical Decision Limits
-   :open:
 
    Predefined values of a biomarker or measurement used for clinical decision-making (ISO 15189).
 
@@ -164,7 +154,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“A clinical decision limit was applied to variant allele frequencies, where only variants present above 20% were reported, as lower-frequency variants could not be reliably distinguished from sequencing or pipeline errors.”*
 
 .. dropdown:: Commutability
-   :open:
 
    Property of a reference material to behave like patient samples across different measurement procedures, ensuring that results are comparable and meaningful.
 
@@ -180,7 +169,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“The synthetic reference dataset lacked commutability and did not represent patient sample variability, highlighting limitations for benchmarking variant detection pipelines.”*
 
 .. dropdown:: Comparability
-   :open:
 
    Ability to compare results across different laboratories, methods, or time points, within defined limits of agreement. Ensures that measurements are consistent and interpretable in different contexts.
 
@@ -196,7 +184,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Comparability of variant calling results across three sequencing centres was ensured by using shared reference datasets, harmonized QC metrics, and agreed tool settings and cut-offs”*
 
 .. dropdown:: Competence 
-   :open:
 
    Demonstrated ability to apply knowledge, skills, and experience to achieve intended results (ISO/IEC 17025:2017; ISO 15189:2022). Includes performing assays, maintaining instruments, following SOPs and safety/QC protocols, and executing analyses with awareness of limitations. Competence must be documented and maintained, e.g., through training records, competency assessments, DOPs, and competency profiles (see competence record).
 
@@ -212,7 +199,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Competence was demonstrated by designing a new pathogen genomics pipeline to meet clinical requirements, selecting appropriate analysis tools, performing QC checks, and interpreting results while considering the limitations of datasets and algorithms.”*
 
 .. dropdown:: Competence record
-   :open:
 
    Demonstrated ability to apply knowledge, skills, and experience to achieve intended results (ISO/IEC 17025:2017; ISO 15189:2022). Includes performing assays, maintaining instruments, following SOPs and safety/QC protocols, and executing analyses with awareness of limitations. Competence must be documented and maintained, e.g., through training records, competency assessments, direct observation of procedures (DOPs), and competency profiles.
 
@@ -228,7 +214,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Competence in bioinformatics was demonstrated by the ability to perform routine computational tasks—including pipeline execution, data preprocessing, QC checks, and result interpretation—while managing software, reference datasets, and computing infrastructure, as assessed through documented observation of procedures (DOPs), competency profiles, and formal training records.”*
 
 .. dropdown:: Consensus Data
-   :open:
 
    Results agreed upon by multiple experts, methods, or laboratories, often serving as a benchmark. In ISO, consensus data underpin reference values or validation and must be determined systematically.
 
@@ -244,7 +229,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“The TB variant-calling pipeline was benchmarked against a consensus dataset compiled from multiple sequencing centers to ensure accuracy and reproducibility of detected resistance mutations.”*
 
 .. dropdown:: Contamination 
-   :open:
 
    Unintended presence of material, organism, or signal that compromises results.
 
@@ -260,7 +244,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Contamination was detected when off-target pathogen reads, such as influenza sequences, appeared in SARS-CoV-2 samples, indicating cross-sample contamination.”*
 
 .. dropdown:: Controls (Positive / Negative)
-   :open:
 
    Specimens with known characteristics used to verify that a test, assay, or procedure is performing correctly. Positive controls contain the target analyte and should yield a positive result, while negative controls lack the analyte and should yield a negative result. Controls help identify assay failures, contamination, or procedural errors.
 
@@ -276,7 +259,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Positive control datasets containing known SNVs were used to confirm variant calling accuracy, while no-template runs served as negative controls to detect contamination.”*
 
 .. dropdown:: Correction Factors
-   :open:
 
    Factors applied to correct for known systematic biases or effects in measurements, ensuring that reported values more accurately reflect the true quantity or state.
 
@@ -292,7 +274,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Correction factors were applied to sequencing data to normalize read counts (e.g., TPM/RPKM), adjust for batch effects, and correct error rates in variant calling.”*
 
 .. dropdown:: Corrective Action
-   :open:
 
    Action taken to eliminate the cause of a detected non-conformance or other undesirable situation. The aim is to prevent recurrence rather than simply address the immediate issue.
 
@@ -308,7 +289,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“A corrective action was implemented by updating the SOP to require version-controlled reference genomes to ensure traceability and reproducibility.”*
 
 .. dropdown:: Cross Audit
-   :open:
 
    A peer-to-peer audit carried out between collaborating organisations or departments to ensure consistent application of quality standards and identify areas for improvement.
 
@@ -324,7 +304,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“A cross audit between two genomic centres reviewed variant-calling pipelines to ensure consistent validation and traceability across sites.”*
 
 .. dropdown:: Development
-   :open:
 
    A structured process of designing, creating, and refining new methods, assays, systems, or workflows. Under ISO 15189, development must follow controlled and documented stages — including design input, design output, verification, validation, and implementation — to ensure the final product or method meets defined performance specifications and intended use.
 
@@ -340,7 +319,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Development of the HIV bioinformatics pipeline was performed under design control, with verification using synthetic datasets and validation against reference genomes to ensure accurate detection of known resistance variants and reliable prediction of their clinical impact.”*
 
 .. dropdown:: Deviations
-   :open:
 
    A documented departure from an approved laboratory procedure, specification, or expected result. Deviations may arise from skipped steps, use of incorrect reagents, instrument malfunction, or environmental control failures. All deviations must be recorded in the QMS, investigated for root cause, and addressed through corrective or preventive actions (CAPA).
 
@@ -356,7 +334,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“A deviation was recorded when the analyst used a reference genome build that was not specified in the validated pipeline SOP.”*
 
 .. dropdown:: Discrepancy
-   :open:
 
    Documented difference between observed and expected results, processes, or records.
 
@@ -372,7 +349,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Pipeline parameters did not match SOP instructions, QC metrics fell outside expected thresholds, or reruns of the same analysis produced differing variant counts.”*
 
 .. dropdown:: Document Control
-   :open:
 
    A formal process to ensure documents are reviewed, approved, distributed, updated, and archived within a quality management system (QMS).
 
@@ -388,7 +364,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Document control procedures ensured the SOP was updated to include the latest validated version of a specific pipeline.”*
 
 .. dropdown:: External Audit
-   :open:
 
    An audit conducted by an independent organisation, such as an accreditation body or regulatory authority, to verify compliance with standards (e.g., ISO 15189, ISO 17025).
 
@@ -404,7 +379,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“An external ISO audit included review of computational processes, confirming that data handling, validation, and documentation met accreditation standards.”*
 
 .. dropdown:: External Quality Assessment (EQA)
-   :open:
 
    Formal evaluation of a laboratory’s or analytical service’s performance through participation in external comparison programmes such as UK NEQAS or equivalent schemes. EQA verifies that internal quality control procedures, methods, and analytical outputs remain accurate, reliable, and consistent with external benchmarks.
 
@@ -420,7 +394,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“The bioinformatics team participated in an inter-laboratory EQA exercise by re-analyzing datasets from the UK NEQAS Molecular SARS-CoV-2 variant typing scheme and comparing variant calls against gold-standard references. This confirmed pipeline accuracy for variant identification.”*
 
 .. dropdown:: Finding
-   :open:
 
    Result of an evaluation against requirements, identifying conformity, non-conformity, or opportunities for improvement.
 
@@ -436,7 +409,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“An audit finding noted that pipeline versions were not recorded in the report.”*
 
 .. dropdown:: Functional Specification
-   :open:
 
    A document detailing what a system, process, or component must achieve, without prescribing how it should be done.
 
@@ -452,7 +424,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“The functional specification for the pipeline required it to accept FASTQ input and produce annotated VCF output within defined runtime parameters.”*
 
 .. dropdown:: Improved Performance
-   :open:
 
    Demonstrated enhancement in the efficiency, effectiveness, or reliability of a process following a change. Improvement must be measured against predefined indicators.
 
@@ -468,7 +439,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Improved performance was demonstrated by reducing false positive variant calls by 20% and adding new functionality for structural variant detection after pipeline optimization.”*
 
 .. dropdown:: Incident
-   :open:
 
    An occurrence that led or could lead to non-conformance, error, or deviation from expected results.
 
@@ -484,7 +454,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“An incident occurred when a misconfigured pipeline parameter caused incorrect variant calls across multiple samples.”*
 
 .. dropdown:: Inconsistencies
-   :open:
 
    Lack of uniformity or agreement in data, documents, or results. ISO expects identification and resolution of inconsistencies.
 
@@ -500,7 +469,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Inconsistencies were identified between pipeline documentation and the parameters actually applied.”*
 
 .. dropdown:: Installation Qualification (IQ)
-   :open:
 
    Documented verification that equipment is installed correctly and meets the manufacturer’s specifications. Part of the validation process (IQ/OQ/PQ).
 
@@ -516,7 +484,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Installation qualification confirmed that the pipeline and HPC environment, including all dependencies and compute nodes, were correctly configured.”*
 
 .. dropdown:: Interferences
-   :open:
 
    Influence from a substance, signal, or condition that alters the true measurement.
 
@@ -532,7 +499,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Interferences from index hopping introduced artefactual reads into the dataset.”*
 
 .. dropdown:: Internal Audit
-   :open:
 
    A systematic, independent evaluation conducted within an organisation to determine whether activities and related results comply with planned arrangements and meet quality management system (QMS) requirements.
 
@@ -548,7 +514,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“An internal audit reviewed pipeline traceability, code version control, and validation records to ensure compliance with documented SOPs.”*
 
 .. dropdown:: Internal Quality Control
-   :open:
 
    Procedures performed within the laboratory’s routine operations to monitor ongoing performance and detect errors in real time. Often involves control samples run alongside test samples.
 
@@ -564,7 +529,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“QC metrics and control datasets were analyzed alongside sample data to identify unexpected coverage drops or variant calling errors.”*
 
 .. dropdown:: Language
-   :open:
 
    System of terms, symbols, or structured vocabulary used for communication. In ISO contexts, clarity and consistency of language is critical for compliance.
 
@@ -580,7 +544,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“nan”*
 
 .. dropdown:: Management System
-   :open:
 
    A set of interrelated or interacting elements used to establish policies, objectives, and processes to achieve them. In laboratories, this typically includes the Quality Management System (QMS) and can extend to cover data analysis, documentation, software versioning, traceability, and validation/verification of pipelines.
 
@@ -596,7 +559,6 @@ Here you will find definitions for common ISO 15189-related terms.
       *“The management system was updated to include documented procedures for software version control and data retention in bioinformatics workflows”*
 
 .. dropdown:: Method / Procedure / Process
-   :open:
 
    Method: A systematic approach or technique used to achieve a specific objective.
 
@@ -624,7 +586,6 @@ Procedure: The variant calling procedure involved sorting BAM files, marking dup
 Process: The computational workflow constitutes a complete process from raw reads through QC, alignment, variant calling, annotation, and report generation.”*
 
 .. dropdown:: Metrological Traceability
-   :open:
 
    In wet labs, metrological traceability is the gold standard for linking measurements (e.g., concentration) back to SI units through reference materials and calibrated instruments.
 
@@ -640,7 +601,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Variant allele frequencies in pathogen genomics were benchmarked against Genome in a Bottle (GIAB) reference datasets to establish metrological traceability of computational measurements.”*
 
 .. dropdown:: Near-miss
-   :open:
 
    An occurrence that could have caused harm or non-conformance but did not.
 
@@ -656,7 +616,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“A near-miss occurred when an outdated HIV resistance database was nearly used, which would have missed a clinically relevant variant in a sample, but the issue was detected before reporting results.”*
 
 .. dropdown:: Noise
-   :open:
 
    Unwanted variation or disturbance that obscures the measurement of the true signal. Noise can be random or systematic and may arise from instrument background signals, contamination, sample degradation, or environmental fluctuations.
 
@@ -672,7 +631,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The signal-to-noise ratio was evaluated in SARS-CoV-2 sequencing data to filter out low-quality reads and minimize spurious variant calls”*
 
 .. dropdown:: Non-conformance
-   :open:
 
    Non-fulfilment of a requirement. May arise from deviations, errors, or failures to meet specifications.
 
@@ -688,7 +646,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“A non-conformance was identified when a non-validated reference database was used for pathogen genome annotation.”*
 
 .. dropdown:: Patient Safety
-   :open:
 
    Reduction of risk of unnecessary harm to patients to an acceptable minimum (ISO 15189).
 
@@ -704,7 +661,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“In clinical bioinformatics, patient safety involves ensuring that analyses and reports do not cause harm through misclassification, delays, or unclear communication, such as false negatives in pathogen detection.”*
 
 .. dropdown:: Performance Qualification (PQ)
-   :open:
 
    Evidence that systems/processes perform as intended under routine (real-world) conditions.
 
@@ -720,7 +676,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“For computational workflows, PQ demonstrates that a pipeline and infrastructure deliver consistent accuracy and throughput under production load with monitored stability. While the term “PQ” is rarely used outside regulated settings, the principle ensures reliable bioinformatics performance in routine use.”*
 
 .. dropdown:: Performance Reporting
-   :open:
 
    Structured communication of performance against defined objectives or indicators, often using agreed metrics to track quality, efficiency, and reliability.
 
@@ -736,7 +691,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“nan”*
 
 .. dropdown:: Performance Review
-   :open:
 
    Formal evaluation of performance against predefined objectives, standards, or indicators, used to identify areas for improvement and ensure ongoing compliance with quality requirements
 
@@ -752,7 +706,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“A performance review of the pathogen genomics pipeline identified recurring pipeline failures and suboptimal mapping rates, leading to revalidation and infrastructure improvements as part of CAPA.”*
 
 .. dropdown:: Performance Verification
-   :open:
 
    Confirmation that a system, method, or pipeline performs according to predefined requirements or specifications. Verification demonstrates that stated performance characteristics are achieved, but is narrower in scope than full validation (which assesses overall suitability for intended use).
 
@@ -768,7 +721,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Performance verification demonstrated that the pathogen genomics pipeline achieved the stated runtime and reproducibility, with sensitivity ≥95% and specificity ≥99% based on the Genome in a bottle (GIAB) test set.”*
 
 .. dropdown:: Preparation
-   :open:
 
    Process of making something ready for use, often referring to specimens, reagents, or documents. Steps are controlled and documented to ensure reproducibility and traceability.
 
@@ -784,7 +736,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Preparation of the sequencing dataset included adapter trimming, QC filtering, file formatting, and metadata standardization before downstream analysis.”*
 
 .. dropdown:: Preventive Actions
-   :open:
 
    Actions taken to eliminate the cause of a potential non-conformance, before it occurs. Preventive actions are proactive measures designed to reduce risk and improve system robustness.
 
@@ -800,7 +751,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“As a preventive action, we added pre-release smoke tests and immutable reference files to avoid silent regressions in the pathogen genomics pipeline. Other examples include enforcing version pinning, implementing storage redundancy, and using continuous integration (CI) checks to prevent configuration drift or silent failures.”*
 
 .. dropdown:: Procedure
-   :open:
 
    Specified way to carry out an activity or process (ISO 9000).
 
@@ -816,7 +766,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The QC procedure details how raw sequencing reads are checked for quality metrics, trimmed, adapters removed, deduplicated, and filtered before downstream analysis, with all steps and parameters documented to ensure reproducibility and traceability.”*
 
 .. dropdown:: Process
-   :open:
 
    Series of interrelated or interacting activities that transform inputs into outputs.
 
@@ -832,7 +781,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The variant analysis process converts raw FASTQ reads into annotated VCF files through sequential steps including mapping, deduplication, variant calling, and variant interpretation.”*
 
 .. dropdown:: Quality 
-   :open:
 
    Degree to which a set of inherent characteristics of an object fulfills requirements. It reflects fitness for intended use under a Quality Management System (QMS).
 
@@ -848,7 +796,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The quality of the sequencing analysis was evaluated by comparing read depth, base quality scores, duplication rates, and alignment metrics to predefined acceptance thresholds.”*
 
 .. dropdown:: Quality control 
-   :open:
 
    Operational techniques and activities used to fulfil quality requirements, ensuring results are consistent, valid, and reliable. Includes checks on reagents, instruments, calibration, and control samples, performed according to documented procedures and predefined thresholds.
 
@@ -864,7 +811,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“QC of RNA-seq reads included trimming adapters, filtering low-quality bases, removing duplicates, and evaluating mapping rates to confirm data suitability for downstream analysis.”*
 
 .. dropdown:: Quality Indicators
-   :open:
 
    Quantitative measures used to monitor and evaluate how well a process meets predefined quality objectives. Indicators should be measurable, predefined, and regularly reviewed to support continuous improvement.
 
@@ -880,7 +826,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“In bioinformatics, quality indicators may include read mapping rates, error rates in variant calls, reproducibility scores, and user satisfaction with reports. These indicators should be predefined, measurable, and regularly reviewed to ensure pipeline performance and reliability.”*
 
 .. dropdown:: Quality Management System (QMS)
-   :open:
 
    A structured set of policies, processes, procedures, and responsibilities used by an organization to ensure quality objectives are achieved, risks are managed, and compliance with applicable standards is maintained (ISO 9000/ISO 15189).
 
@@ -896,7 +841,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“nan”*
 
 .. dropdown:: Reference
-   :open:
 
    A source that provides evidence or context for a decision, requirement, or comparison. In ISO, often refers to authoritative standards or datasets.
 
@@ -912,7 +856,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Variant calls were compared against HIV references and HIV variant databases to detect known resistance mutations and validate accuracy.”*
 
 .. dropdown:: Reference Material 
-   :open:
 
    Material that is sufficiently homogeneous and stable with respect to specified properties, established to be fit for its intended use in measurement. Certified Reference Materials (CRMs) have documented property values with stated uncertainty. Controls run within an experiment are not reference materials; only external standards with traceable properties qualify.
 
@@ -928,7 +871,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The sequencing pipeline was verified using a Genome in a Bottle GIAB reference genome to confirm variant calling accuracy.”*
 
 .. dropdown:: Reporting 
-   :open:
 
    Formal communication of laboratory test results in a controlled and traceable format, ensuring clarity, accuracy, and compliance with the Quality Management System (QMS).
 
@@ -944,7 +886,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Reporting of HIV sequencing data included resistance variants and predicted susceptibility to antiretroviral therapies, delivered as structured outputs (e.g., JSON for databases, PDF for clinicians), and included submission of variants to international databases such as HIVdb (Stanford HIV Drug Resistance Database).”*
 
 .. dropdown:: Requirement for Reports
-   :open:
 
    ISO requires that reports include minimum information to ensure traceability and interpretability, such as sample/patient identification, methods, results, interpretations, and signatures.
 
@@ -960,7 +901,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The requirement for reports mandated inclusion of software version and reference genome used, along with QC metrics, in the sequencing report.”*
 
 .. dropdown:: Result Validity
-   :open:
 
    Extent to which a result can be considered sound, accurate, and supported by evidence. In ISO, validity is linked to adherence to validated methods, QC, and traceability.
 
@@ -976,7 +916,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Result validity is demonstrated when all computational analyses produce consistent, accurate, and reproducible outputs, using validated pipelines, appropriate reference data, and quality-controlled input, so that the results can be confidently used for clinical or public health decisions.”*
 
 .. dropdown:: Review
-   :open:
 
    Systematic examination of activities, results, or documents against requirements. In ISO, a review means a documented, traceable sign-off that ensures accuracy, completeness, and compliance.
 
@@ -992,7 +931,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The updated influenza pipeline underwent code review by a second bioinformatician before deploying the updated pipeline.”*
 
 .. dropdown:: Risk Analysis
-   :open:
 
    Systematic use of information to identify sources of risk and estimate their likelihood and impact (ISO 14971, ISO 31000).
 
@@ -1008,7 +946,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Risk analysis identified the possibility of pipeline failure or data loss due to insufficient storage redundancy, leading to backup systems and version-controlled pipelines.”*
 
 .. dropdown:: Risk Management
-   :open:
 
    Risk management involves identifying, evaluating, and mitigating hazards in laboratory processes, including sample handling errors, contamination, instrument failure, and assay deviations. Controls may include standardized SOPs, staff training, QC procedures, and maintenance schedules.
 
@@ -1024,7 +961,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Risk management for the updated influenza pipeline included version-controlled code review and automated unit testing/continuous integration (CI) testing to reduce the risk of negative impact on results, such as producing erroneous or misleading outputs once deployed.”*
 
 .. dropdown:: Sample 
-   :open:
 
    One or more items taken from a population or individual and intended to provide information about that population or individual (ISO 15189 / ISO 17025). In wet labs, this is usually the patient specimen or aliquot under test, such as whole blood, tissue biopsy, swab, urine, stool, or other biological material.
 
@@ -1040,7 +976,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“For HIV resistance analysis, each sample dataset—including FASTQ and BAM files derived from a patient’s blood specimen—was tracked with a unique identifier, ensuring traceability and reproducibility across the pipeline, even when multiple data types (DNA, RNA) were generated from the same specimen.”*
 
 .. dropdown:: Sample Quality
-   :open:
 
    Degree to which a sample is suitable for intended testing, including integrity, stability, and absence of contamination.
 
@@ -1056,7 +991,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Sample quality was evaluated by examining read length, duplication rate, adapter contamination, and overall sequence integrity to ensure reliable input for variant calling.”*
 
 .. dropdown:: Scope
-   :open:
 
    Extent and boundaries of activities, analyses, or services covered by a document, SOP, or accreditation.
 
@@ -1072,7 +1006,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The scope of this SOP covers analysis of Illumina DNA sequencing data, including quality control, alignment, and variant calling.”*
 
 .. dropdown:: Selection
-   :open:
 
    Choosing appropriate methods, materials, or procedures to meet requirements.
 
@@ -1088,7 +1021,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The selection of the GRCh38 reference genome was documented, including rationale for clinical suitability and compatibility with existing pipelines.”*
 
 .. dropdown:: Selectivity
-   :open:
 
    Ability of a method to distinguish the analyte of interest from other components.
 
@@ -1104,7 +1036,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The bioinformatics pipeline demonstrated high selectivity by correctly identifying viral reads while excluding host and environmental sequences.”*
 
 .. dropdown:: Sensitivity
-   :open:
 
    Ability of a method to correctly identify positives (true positive rate).
 
@@ -1120,7 +1051,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The sequencing pipeline achieved a sensitivity of 98% for SNP detection in the GIAB dataset.”*
 
 .. dropdown:: SI Units
-   :open:
 
    International System of Units — globally agreed reference units for measurement (ISO/IEC 80000).
 
@@ -1136,7 +1066,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Sequencing read depth was reported as coverage per base pair.”*
 
 .. dropdown:: Specificity
-   :open:
 
    Ability of a method to correctly identify negative results (true negative rate).
 
@@ -1152,7 +1081,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The sequencing pipeline demonstrated 99% specificity for SNP detection in the GIAB dataset.”*
 
 .. dropdown:: Standard Operating Procedure (SOP)
-   :open:
 
    Controlled document describing the approved way to perform a specific activity (ISO 9000).
 
@@ -1168,7 +1096,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The SOP for weekly system health checks defines procedures for monitoring software versions, disk usage, pipeline runtimes, and backup status. It is reviewed, approved, and version-controlled to ensure traceability and compliance with the QMS.”*
 
 .. dropdown:: Storage Space
-   :open:
 
    Resources for preserving samples, records, or data safely and accessibly.
 
@@ -1184,7 +1111,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Storage space for sequencing data was monitored monthly to ensure compliance with retention and data integrity policies.”*
 
 .. dropdown:: Suitability
-   :open:
 
    Extent to which something is appropriate for its intended purpose. In ISO, suitability is often assessed during validation or verification, and in wet labs refers to whether materials, reagents, or reference standards are appropriate for their intended use.
 
@@ -1200,7 +1126,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Suitability was ensured by choosing the appropriate reference genome based on the virus of interest and selecting a reference that met a closeness threshold relative to the sample sequence to maximize accuracy of variant calling.”*
 
 .. dropdown:: Technical Knowledge
-   :open:
 
    Evidence-based understanding of principles, methods, and standards required to perform a task competently.
 
@@ -1216,7 +1141,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“During the development of a new analytical pipeline for SARS-CoV-2, the bioinformatician drew on their technical knowledge when selecting appropriate bioinformatics tools and reference genomes, implementing workflow management with Git, coding reproducible modules, and testing the pipeline using datasets representing both standard and edge cases to ensure reliability and reproducibility.”*
 
 .. dropdown:: Traceability
-   :open:
 
    Ability to trace the history, application, or location of an object or activity (ISO 9000). In metrology, often linked to the chain of calibrations to standards.
 
@@ -1232,7 +1156,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Traceability of the variant call was maintained by linking the result to raw FASTQ files, pipeline version 3.2, and the reference genome build.”*
 
 .. dropdown:: Training/ re-training 
-   :open:
 
    Process of developing (training) or updating (re-training) knowledge, skills, and behaviours to ensure competence. In ISO contexts, training applies to personnel — ensuring staff are competent to perform assigned tasks according to current procedures. Re-training occurs following updates to SOPs, new technology implementation, or identification of nonconformances.
 
@@ -1248,7 +1171,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Analysts were re-trained following the introduction of a new variant calling pipeline to ensure consistent and correct usage across the team.”*
 
 .. dropdown:: Test (Examination method / procedure / process)
-   :open:
 
    A test (or examination, per ISO 15189) is the set of controlled operations that apply a defined method to a sample to generate a measurable result. In ISO terms, it represents the act of measurement or analysis performed under specified and validated conditions.
 
@@ -1264,7 +1186,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Variant calling is a bioinformatics test that identifies genomic variants from aligned sequencing data using a validated algorithm and parameters.”*
 
 .. dropdown:: Tolerance
-   :open:
 
    Permissible range of variation in a measurement, value, or condition without invalidating the result (ISO VIM). Tolerance refers to acceptable deviations in experimental measurements or conditions that do not compromise the validity of results.
 
@@ -1280,7 +1201,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“A tolerance of ±5% in mapping rate was allowed between replicate sequencing runs, and QC thresholds defined acceptable mismatch rates in alignments or allowable run-time variance.”*
 
 .. dropdown:: Trueness 
-   :open:
 
    Closeness of agreement between the average of a large number of test results and a reference (true) value (ISO 5725). It reflects systematic error, not random error.
 
@@ -1296,7 +1216,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The trueness of a variant calling pipeline was assessed by comparing called variants against a gold-standard dataset, such as the Genome in a Bottle reference set, to identify and correct systematic biases in the analysis.”*
 
 .. dropdown:: User 
-   :open:
 
    Individuals or organizations that use a product, service, or system (ISO 15189 / ISO 17025). Users can include patients, clinicians, researchers, or other stakeholders relying on laboratory outputs.
 
@@ -1312,7 +1231,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“Users of the SARS-CoV-2 analysis pipeline include virologists accessing curated variant datasets and clinicians using reports to inform treatment decisions.”*
 
 .. dropdown:: User Requirement Specification (URS)
-   :open:
 
    A document that defines what the user needs from a system, device, or process, expressed in functional or performance terms (per ISO/IEC and software validation guidance). The URS forms the foundation for design, verification, and validation activities.
 
@@ -1328,7 +1246,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“The user requirement specification stated that the LIMS must track sample barcodes, record reagent batches, and generate audit reports accessible within 24 hours.”*
 
 .. dropdown:: Validation
-   :open:
 
    Confirmation, through objective evidence, that requirements for a specific intended use are fulfilled (ISO 9000, VIM). Validation ensures that a method, assay, or procedure produces accurate, reliable, and reproducible results for its intended purpose.
 
@@ -1344,7 +1261,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“A variant calling pipeline was validated by demonstrating sensitivity and specificity on gold-standard datasets, ensuring it is appropriate for clinical use.”*
 
 .. dropdown:: Verification (Verification Plan, Schedule of Verification)
-   :open:
 
    Confirmation, through evidence, that a method, pipeline, or tool has been implemented correctly according to specifications (ISO 9000). Verification focuses on technical correctness and adherence to SOPs or design, rather than suitability for the broader intended purpose.
 
@@ -1360,7 +1276,6 @@ Process: The computational workflow constitutes a complete process from raw read
       *“nan”*
 
 .. dropdown:: Workbench
-   :open:
 
    A designated workspace where specific tasks are performed in a controlled way. In ISO/QMS, a workbench is physical or digital, defined by its tools and controls.
 
