@@ -2,22 +2,26 @@ Glossary
 ========
 
 .. dropdown:: Acceptability criteria
+   :open:
 
-   .. dropdown:: Wetlab
-      :open:
+   Definitions across wetlab and bioinformatics contexts.
 
-      **Definition**  
-      Predefined specifications or limits used to determine whether a result, process, or product is considered fit for purpose. Must be documented before testing—for example, control values must fall within a certain range, and PCR efficiency must meet specified thresholds.
+   .. tabs::
 
-      **Example usage**  
-      Acceptability criteria for the qPCR assay required that positive control Ct values fall within ±1.0 of the established mean and that the negative control showed no amplification before results were approved.
+      .. tab:: Wetlab
 
-   .. dropdown:: Bioinformatics translation
+         **Definition**  
+         Predefined specifications or limits used to determine whether a result, process, or product is considered fit for purpose. Must be documented before testing—for example, control values must fall within a certain range, and PCR efficiency must meet specified thresholds.
 
-      **Definition**  
-      Predefined quality control (QC) or performance thresholds applied to sequencing data and pipelines. Examples include minimum read quality (e.g., Phred ≥ 30), acceptable mapping/alignment rate (e.g., ≥ 90%), and validated benchmark performance (e.g., sensitivity, specificity, and PPV for variant calling). May also cover reproducibility and runtime expectations.
+         **Example usage**  
+         Acceptability criteria for the qPCR assay required that positive control Ct values fall within ±1.0 of the established mean and that the negative control showed no amplification before results were approved.
 
-      **Example usage**  
-      Acceptability criteria required that at least 90% of exome target bases achieved a minimum coverage of 20×.
+      .. tab:: Bioinformatics
+
+         **Definition**  
+         Predefined quality control (QC) or performance thresholds applied to sequencing data and pipelines. Examples include minimum read quality (e.g., Phred ≥ 30), acceptable mapping/alignment rate (e.g., ≥ 90%), and validated benchmark performance (e.g., sensitivity, specificity, and PPV for variant calling).
+
+         **Example usage**  
+         Acceptability criteria required that at least 90% of exome target bases achieved a minimum coverage of 20×.
 
 
