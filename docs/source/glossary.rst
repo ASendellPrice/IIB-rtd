@@ -1,16 +1,20 @@
 Glossary
 ========
 
-.. list-table::
-   :header-rows: 1
-   :widths: 20 40 40
+.. tabs::
 
-   * - Term
-     - Wetlab Definition
-     - Bioinformatics Definition
-   * - Acceptability criteria
-     - Predefined lab specs for result validity
-     - Thresholds for algorithm/data quality
-   * - Control sample
-     - Known sample for validation
-     - Reference dataset for benchmarking
+   .. tab:: Wetlab
+
+      **Acceptability criteria**  
+      Predefined specifications used to determine if a result is fit for purpose in lab testing.
+
+      **Control sample**  
+      A known sample used to validate experimental accuracy.
+
+   .. tab:: Bioinformatics
+
+      **Acceptability criteria**  
+      Thresholds for algorithm performance or data quality in computational workflows.
+
+      **Control sample**  
+      Reference dataset used to benchmark pipeline output.
