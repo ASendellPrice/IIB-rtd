@@ -1,20 +1,11 @@
 Glossary
 ========
 
-.. tabs::
+.. dropdown:: Acceptability criteria (Wetlab)
+   :open:
 
-   .. tab:: Wetlab
+   Predefined specifications or limits used to determine whether a result, process, or product is considered fit for purpose. Must be documented before testing—for example, control values must fall within a certain range, and PCR efficiency must meet specified thresholds.
 
-      **Acceptability criteria**  
-      Predefined specifications used to determine if a result is fit for purpose in lab testing.
+.. dropdown:: Acceptability criteria (Bioinformatics)
 
-      **Control sample**  
-      A known sample used to validate experimental accuracy.
-
-   .. tab:: Bioinformatics
-
-      **Acceptability criteria**  
-      Thresholds for algorithm performance or data quality in computational workflows.
-
-      **Control sample**  
-      Reference dataset used to benchmark pipeline output.
+   Thresholds for algorithm performance or data quality in computational workflows. May include metrics like read depth, alignment accuracy, or variant calling precision.
