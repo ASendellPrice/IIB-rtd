@@ -4,10 +4,11 @@ Glossary of ISO terms
 Here you will find definitions for common ISO 15189-related terms.
 
 .. dropdown:: Acceptability criteria
+   :open:
 
    Predefined specifications or limits used to determine whether a result, process, or product is considered fit for purpose. Must be documented before testing—for example, control values must fall within a certain range, and PCR efficiency must meet specified thresholds.
 
-   **Example usage:** 
+   **Example usage:**  
    *“Acceptability criteria for the qPCR assay required that positive control Ct values fall within ±1.0 of the established mean and that the negative control showed no amplification before results were approved.”*
 
    .. admonition:: **💻 Bioinformatics translation**
@@ -18,8 +19,11 @@ Here you will find definitions for common ISO 15189-related terms.
       **Example usage:**  
       *“Acceptability criteria required that at least 90% of exome target bases achieved a minimum coverage of 20×.”*
 
+   **Context of use:**  
+   :bdg:`Validation/verification` :bdg:`SOPs` :bdg:`Quality control` :bdg:`Acceptance reports`
+
+
 .. dropdown:: Metrological Traceability
-   :open:
 
    In wet labs, metrological traceability is the gold standard for linking measurements (e.g., concentration) back to SI units through reference materials and calibrated instruments.
 
