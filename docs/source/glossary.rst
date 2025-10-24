@@ -5,7 +5,8 @@ Here you will find definitions for common ISO 15189-related terms.
 
 .. dropdown:: Acceptability criteria
 
-   **Wetlab definition**  
+   **Definition**
+
    Predefined specifications or limits used to determine whether a result, process, or product is considered fit for purpose. Must be documented before testing—for example, control values must fall within a certain range, and PCR efficiency must meet specified thresholds.
 
    .. card::
@@ -26,7 +27,8 @@ Here you will find definitions for common ISO 15189-related terms.
 
 .. dropdown:: Metrological Traceability
 
-   **Wetlab definition**  
+   **Definition**
+   
    In wet labs, metrological traceability is the gold standard for linking measurements (e.g., concentration) back to SI units through reference materials and calibrated instruments.
 
    .. card::
