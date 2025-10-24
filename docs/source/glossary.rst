@@ -18,6 +18,9 @@ Here you will find definitions for common ISO 15189-related terms.
       **Example usage:**  
       *“Acceptability criteria required that at least 90% of exome target bases achieved a minimum coverage of 20×.”*
 
+   **Ontological reference:**  
+   :bdg-link:`OBI:0000417 <http://purl.obolibrary.org/obo/OBI_0000417>`
+   
    :bdg-primary:`Validation/verification` :bdg-info:`SOPs` :bdg-warning:`QC sections` :bdg-success:`Acceptance reports`
 
 
