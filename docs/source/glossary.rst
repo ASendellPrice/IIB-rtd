@@ -18,7 +18,7 @@ Here you will find definitions for common ISO 15189-related terms.
       Predefined quality control (QC) or performance thresholds applied to sequencing data and pipelines. Examples include minimum read quality (e.g., Phred ≥ 30), acceptable mapping/alignment rate (e.g., ≥ 90%), and validated benchmark performance (e.g., sensitivity, specificity, and PPV for variant calling). May also cover reproducibility and runtime expectations.
 
       *Example usage:*
-      
+
       .. epigraph::
 
          “Acceptability criteria required that at least 90% of exome target bases achieved a minimum coverage of 20×.”
@@ -27,7 +27,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
 .. dropdown:: Metrological Traceability
 
-   **Definition:** In wet labs, metrological traceability is the gold standard for linking measurements (e.g., concentration) back to SI units through reference materials and calibrated instruments.
+   **In wet labs, metrological traceability is the gold standard for linking measurements (e.g., concentration) back to SI units through reference materials and calibrated instruments.**
 
    *Example usage:*
 
