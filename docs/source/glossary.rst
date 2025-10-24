@@ -4,7 +4,6 @@ Glossary of ISO terms
 Here you will find definitions for common ISO 15189-related terms.
 
 .. dropdown:: Acceptability criteria
-   :open:
 
    Predefined specifications or limits used to determine whether a result, process, or product is considered fit for purpose. Must be documented before testing—for example, control values must fall within a certain range, and PCR efficiency must meet specified thresholds.
 
@@ -19,9 +18,7 @@ Here you will find definitions for common ISO 15189-related terms.
       **Example usage:**  
       *“Acceptability criteria required that at least 90% of exome target bases achieved a minimum coverage of 20×.”*
 
-   **Context of use:**  
-   **Context of use:**  
-:bdg-primary:`Validation/verification` :bdg-info:`SOPs` :bdg-warning:`QC sections` :bdg-success:`Acceptance reports`
+   :bdg-primary:`Validation/verification` :bdg-info:`SOPs` :bdg-warning:`QC sections` :bdg-success:`Acceptance reports`
 
 
 
