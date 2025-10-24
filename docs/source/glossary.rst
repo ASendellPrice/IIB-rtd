@@ -20,7 +20,9 @@ Here you will find definitions for common ISO 15189-related terms.
       *“Acceptability criteria required that at least 90% of exome target bases achieved a minimum coverage of 20×.”*
 
    **Context of use:**  
-   :bdg:`Validation/verification` :bdg:`SOPs` :bdg:`Quality control` :bdg:`Acceptance reports`
+   **Context of use:**  
+:bdg-primary:`Validation/verification` :bdg-info:`SOPs` :bdg-warning:`QC sections` :bdg-success:`Acceptance reports`
+
 
 
 .. dropdown:: Metrological Traceability
