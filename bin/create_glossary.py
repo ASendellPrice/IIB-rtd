@@ -7,11 +7,6 @@ ontology_colors = {
     "OBI": "success",
     "SIO": "warning",
     "OBCS": "info",
-    "PATO": "secondary",
-    "OCCO": "light",
-    "CAO": "dark",
-    "CHMO": "secondary",
-    "GSSO": "light",
     "default": "secondary"
 }
 

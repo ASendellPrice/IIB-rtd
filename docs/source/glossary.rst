@@ -217,7 +217,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-light sd-text-white" href="http://purl.obolibrary.org/obo/OCCO_00000121" title="A disposition borne by an organism in virtue of training such that, if realized, is realized in the successful performance of a skilled task for which that training was pursued">OCCO:00000121</a> 
+      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OCCO_00000121" title="A disposition borne by an organism in virtue of training such that, if realized, is realized in the successful performance of a skilled task for which that training was pursued">OCCO:00000121</a> 
 
 .. dropdown:: Competence record
 
@@ -549,7 +549,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-dark sd-text-white" href="http://champ-project.org/images/ontology/cao.owl#CAO_000046" title="A systematic error in the measure of a signal caused by the presence of concomitants in a sample">CAO:000046</a> 
+      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://champ-project.org/images/ontology/cao.owl#CAO_000046" title="A systematic error in the measure of a signal caused by the presence of concomitants in a sample">CAO:000046</a> 
 
 .. dropdown:: Internal Audit
 
@@ -1297,7 +1297,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-light sd-text-white" href="http://purl.obolibrary.org/obo/GSSO_009002" title="The allowable deviation from a standard; a permissible difference">GSSO:009002</a> 
+      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/GSSO_009002" title="The allowable deviation from a standard; a permissible difference">GSSO:009002</a> 
 
 .. dropdown:: Trueness
 
