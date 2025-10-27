@@ -30,14 +30,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“The laboratory received ISO 15189 accreditation for molecular diagnostics, confirming it met all requirements for quality management, personnel competence, and technical performance.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      nan
-
-      **Example usage:**  
-      *“nan”*
-
    .. raw:: html
 
       <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D000068" title="Certification as complying with a standard set by non-governmental organizations, applied for by institutions, programs, and facilities on a voluntary basis">mesh:D000068</a> 
@@ -67,14 +59,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“The clinical scientist provided authorisation to release patient RNA-seq results after verifying QC metrics and reviewing the final report.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      nan
-
-      **Example usage:**  
-      *“nan”*
 
    .. raw:: html
 
@@ -125,14 +109,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“A change request was submitted to update the DNA extraction SOP to use a new extraction kit”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“A change request was submitted to update the server IP address specified in the SOP following a change in the server configuration.”*
-
    .. raw:: html
 
       
@@ -143,14 +119,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“A checklist was used during the internal audit to confirm that sample labeling, reagent storage, and instrument maintenance complied with SOPs.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“During pipeline audits, a checklist ensured that software versions, reference databases, QC metrics, and documentation were reviewed for compliance with quality standards.”*
 
    .. raw:: html
 
@@ -249,7 +217,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OCCO_00000121" title="A disposition borne by an organism in virtue of training such that, if realized, is realized in the successful performance of a skilled task for which that training was pursued">OCCO:00000121</a> 
+      <a class="sd-badge sd-bg-orange sd-text-white" href="http://purl.obolibrary.org/obo/OCCO_00000121" title="A disposition borne by an organism in virtue of training such that, if realized, is realized in the successful performance of a skilled task for which that training was pursued">OCCO:00000121</a> 
 
 .. dropdown:: Competence record
 
@@ -306,7 +274,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/PATO_0015031" title="The presence of a constituent, impurity, or some other undesirable element that spoils, corrupts, infects, makes unfit, or makes inferior a material, physical body, natural environment, place of human occupancy, or other material entity">PATO:0015031</a> 
+      <a class="sd-badge sd-bg-purple sd-text-white" href="http://purl.obolibrary.org/obo/PATO_0015031" title="The presence of a constituent, impurity, or some other undesirable element that spoils, corrupts, infects, makes unfit, or makes inferior a material, physical body, natural environment, place of human occupancy, or other material entity">PATO:0015031</a> 
 
 .. dropdown:: Controls (Positive / Negative)
 
@@ -333,14 +301,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“Correction factors were applied to qPCR results to adjust for variations in viral load measurements due to instrument drift and sample dilution.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See plain definition
-
-      **Example usage:**  
-      *“Correction factors were applied to sequencing data to normalize read counts (e.g., TPM/RPKM), adjust for batch effects, and correct error rates in variant calling.”*
 
    .. raw:: html
 
@@ -371,14 +331,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“A cross audit between two hospital laboratories compared sample handling and reporting procedures to align best practices.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“A cross audit between two genomic centres reviewed variant-calling pipelines to ensure consistent validation and traceability across sites.”*
 
    .. raw:: html
 
@@ -467,14 +419,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“An external audit by UKAS assessors confirmed that all testing processes met ISO 15189 requirements.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“An external ISO audit included review of computational processes, confirming that data handling, validation, and documentation met accreditation standards.”*
-
    .. raw:: html
 
       
@@ -504,14 +448,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“An audit finding noted that sample storage temperatures were not consistently recorded.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      nan
-
-      **Example usage:**  
-      *“An audit finding noted that pipeline versions were not recorded in the report.”*
 
    .. raw:: html
 
@@ -562,14 +498,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“An incident occurred when a sample was mislabeled, resulting in an incorrect test assignment and an out-of-TAT result.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“An incident occurred when a misconfigured pipeline parameter caused incorrect variant calls across multiple samples.”*
-
    .. raw:: html
 
       
@@ -580,14 +508,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“Inconsistencies were found between duplicate PCR reactions, prompting a review of sample handling procedures.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“Inconsistencies were identified between pipeline documentation and the parameters actually applied.”*
 
    .. raw:: html
 
@@ -629,7 +549,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://champ-project.org/images/ontology/cao.owl#CAO_000046" title="A systematic error in the measure of a signal caused by the presence of concomitants in a sample">CAO:000046</a> 
+      <a class="sd-badge sd-bg-teal sd-text-white" href="http://champ-project.org/images/ontology/cao.owl#CAO_000046" title="A systematic error in the measure of a signal caused by the presence of concomitants in a sample">CAO:000046</a> 
 
 .. dropdown:: Internal Audit
 
@@ -637,14 +557,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“An internal audit reviewed sample tracking and equipment calibration logs to confirm compliance with the laboratory’s quality procedures.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“An internal audit reviewed pipeline traceability, code version control, and validation records to ensure compliance with documented SOPs.”*
 
    .. raw:: html
 
@@ -681,9 +593,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
       In bioinformatics, language has dual meaning: human language (terminology in SOPs, ontologies) and programming language (R, Python). ISO focus is on controlled terminology, so “language” here means ensuring words are used consistently across SOPs and data dictionaries.
 
-      **Example usage:**  
-      *“nan”*
-
    .. raw:: html
 
       
@@ -695,14 +604,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“The management system was updated to include procedures for sample tracking and instrument calibration.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“The management system was updated to include documented procedures for software version control and data retention in bioinformatics workflows”*
-
    .. raw:: html
 
       
@@ -713,14 +614,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“The qPCR amplification method was chosen to quantify SARS-CoV-2 viral RNA accurately.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      nan
-
-      **Example usage:**  
-      *“The read alignment method using bwa mem was applied to map sequencing reads to the reference genome.”*
 
    .. raw:: html
 
@@ -752,14 +645,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“A near-miss occurred when two samples were swapped, but the error was caught during the procedure.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“A near-miss occurred when an outdated HIV resistance database was nearly used, which would have missed a clinically relevant variant in a sample, but the issue was detected before reporting results.”*
-
    .. raw:: html
 
       
@@ -790,14 +675,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“A non-conformance was recorded when the laboratory technician deviated from the SOP during RNA extraction, potentially affecting downstream sequencing results.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See plain definition
-
-      **Example usage:**  
-      *“A non-conformance was identified when a non-validated reference database was used for pathogen genome annotation.”*
-
    .. raw:: html
 
       
@@ -809,14 +686,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“Patient safety is maintained by following validated protocols, including proper labeling and handling, and using appropriate controls to prevent incorrect results or sample mix-ups that could lead to misdiagnosis.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See plain definition
-
-      **Example usage:**  
-      *“In clinical bioinformatics, patient safety involves ensuring that analyses and reports do not cause harm through misclassification, delays, or unclear communication, such as false negatives in pathogen detection.”*
-
    .. raw:: html
 
       
@@ -827,14 +696,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“Performance qualification demonstrated that the sequencing pipeline maintained processing of ≥100 samples per day with stable accuracy and no missed service-level agreements (SLAs) over 30 consecutive days.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See plain definition
-
-      **Example usage:**  
-      *“For computational workflows, PQ demonstrates that a pipeline and infrastructure deliver consistent accuracy and throughput under production load with monitored stability. While the term “PQ” is rarely used outside regulated settings, the principle ensures reliable bioinformatics performance in routine use.”*
 
    .. raw:: html
 
@@ -852,9 +713,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
       Performance reporting in bioinformatics may take the form of periodic dashboards or reports summarizing key performance indicators such as mapping rate, turnaround time, re-analysis rate, pipeline failure rates, and variant calling accuracy, with trends highlighted and corrective actions documented.
 
-      **Example usage:**  
-      *“nan”*
-
    .. raw:: html
 
       
@@ -866,14 +724,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“The semi-annual performance review identified missed turnaround time (TAT) targets and triggered a capacity upgrade.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See plain definition
-
-      **Example usage:**  
-      *“A performance review of the pathogen genomics pipeline identified recurring pipeline failures and suboptimal mapping rates, leading to revalidation and infrastructure improvements as part of CAPA.”*
-
    .. raw:: html
 
       
@@ -884,14 +734,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“Performance verification confirmed that the PCR assay consistently detected target pathogens at the predefined limit of detection.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See plain definition
-
-      **Example usage:**  
-      *“Performance verification demonstrated that the pathogen genomics pipeline achieved the stated runtime and reproducibility, with sensitivity ≥95% and specificity ≥99% based on the Genome in a bottle (GIAB) test set.”*
 
    .. raw:: html
 
@@ -923,14 +765,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“As a preventive action, the laboratory introduced dual sample labeling and independent verification steps to avoid potential mix-ups during DNA extraction.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See plain definition
-
-      **Example usage:**  
-      *“As a preventive action, we added pre-release smoke tests and immutable reference files to avoid silent regressions in the pathogen genomics pipeline. Other examples include enforcing version pinning, implementing storage redundancy, and using continuous integration (CI) checks to prevent configuration drift or silent failures.”*
-
    .. raw:: html
 
       
@@ -960,14 +794,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“The DNA extraction and library preparation process converts tissue or blood samples into purified, sequencer-ready DNA libraries.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      nan
-
-      **Example usage:**  
-      *“The variant analysis process converts raw FASTQ reads into annotated VCF files through sequential steps including mapping, deduplication, variant calling, and variant interpretation.”*
 
    .. raw:: html
 
@@ -1018,14 +844,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“Quality indicators in the laboratory included turnaround times, error rates, and frequency of repeat testing.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See plain definition
-
-      **Example usage:**  
-      *“In bioinformatics, quality indicators may include read mapping rates, error rates in variant calls, reproducibility scores, and user satisfaction with reports. These indicators should be predefined, measurable, and regularly reviewed to ensure pipeline performance and reliability.”*
-
    .. raw:: html
 
       
@@ -1036,14 +854,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“The laboratory implemented a QMS encompassing SOPs, document control, internal audits, equipment calibration, and staff training to ensure reliable and reproducible molecular test results.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      nan
-
-      **Example usage:**  
-      *“nan”*
 
    .. raw:: html
 
@@ -1085,7 +895,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/CHMO_0002913" title="A substance or mixture of substances, the composition of which is known within specified limits, and one or more of the properties of which is sufficiently well established to be used for the calibration of an apparatus, the assessment of a measuring method or for assigning values to materials">CHMO:0002913</a> 
+      <a class="sd-badge sd-bg-pink sd-text-white" href="http://purl.obolibrary.org/obo/CHMO_0002913" title="A substance or mixture of substances, the composition of which is known within specified limits, and one or more of the properties of which is sufficiently well established to be used for the calibration of an apparatus, the assessment of a measuring method or for assigning values to materials">CHMO:0002913</a> 
 
 .. dropdown:: Reporting
 
@@ -1131,14 +941,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
    **Example usage:**  
    *“Result validity was ensured by verifying assay outputs against a certified reference material and confirming QC metrics were within acceptable ranges.”*
-
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“Result validity is demonstrated when all computational analyses produce consistent, accurate, and reproducible outputs, using validated pipelines, appropriate reference data, and quality-controlled input, so that the results can be confidently used for clinical or public health decisions.”*
 
    .. raw:: html
 
@@ -1246,14 +1048,6 @@ Here you will find definitions for common ISO 15189-related terms.
    **Example usage:**  
    *“The scope of this SOP covers DNA sequencing workflows using Illumina platforms only.”*
 
-   .. admonition:: **💻 Bioinformatics translation**
-      :class: tip
-
-      See traditional definition
-
-      **Example usage:**  
-      *“The scope of this SOP covers analysis of Illumina DNA sequencing data, including quality control, alignment, and variant calling.”*
-
    .. raw:: html
 
       
@@ -1313,7 +1107,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OBCS_0000058" title="A data item that measures the proportion of actual positives which are correctly identified as such">OBCS:0000058</a> 
+      <a class="sd-badge sd-bg-danger sd-text-white" href="http://purl.obolibrary.org/obo/OBCS_0000058" title="A data item that measures the proportion of actual positives which are correctly identified as such">OBCS:0000058</a> 
 
 .. dropdown:: SI Units
 
@@ -1351,7 +1145,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C41395" title="The probability that a test will produce a true negative result when used on non-effected subjects as compared to a reference or "gold standard". The specificity of a test can be determined by calculating: number of true negative results divided by the sum of true negative results plus number of false positive results">NCIT:C41395</a> <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OBCS_0000059" title="A data item that refers to the proportion of negatives in a binary classification test which are correctly identified">OBCS:0000059</a> 
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C41395" title="The probability that a test will produce a true negative result when used on non-effected subjects as compared to a reference or "gold standard". The specificity of a test can be determined by calculating: number of true negative results divided by the sum of true negative results plus number of false positive results">NCIT:C41395</a> <a class="sd-badge sd-bg-danger sd-text-white" href="http://purl.obolibrary.org/obo/OBCS_0000059" title="A data item that refers to the proportion of negatives in a binary classification test which are correctly identified">OBCS:0000059</a> 
 
 .. dropdown:: Standard Operating Procedure (SOP)
 
@@ -1503,7 +1297,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/GSSO_009002" title="The allowable deviation from a standard; a permissible difference">GSSO:009002</a> 
+      <a class="sd-badge sd-bg-dark sd-text-white" href="http://purl.obolibrary.org/obo/GSSO_009002" title="The allowable deviation from a standard; a permissible difference">GSSO:009002</a> 
 
 .. dropdown:: Trueness
 
@@ -1593,9 +1387,6 @@ Here you will find definitions for common ISO 15189-related terms.
 
       Verification of the updated SARS-CoV-2 pipeline confirmed that the new version still achieved its intended aims, producing expected results, maintaining sensitivity and specificity, and performing consistently on standard and edge-case datasets before deployment.
 
-      **Example usage:**  
-      *“nan”*
-
    .. raw:: html
 
       <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C45513" title="The act of reviewing, inspecting, testing, checking, auditing, or otherwise establishing and documenting whether items, processes, services, or documents conform to specified requirements. Compare to validation where suitability to purpose is also established">NCIT:C45513</a> 
@@ -1610,7 +1401,7 @@ Here you will find definitions for common ISO 15189-related terms.
    .. admonition:: **💻 Bioinformatics translation**
       :class: tip
 
-      : A workbench can be a software platform (e.g., Galaxy, Chipster) or a compute environment/cluster where analyses are performed in a controlled and reproducible manner.
+      A workbench can be a software platform (e.g., Galaxy, Chipster) or a compute environment/cluster where analyses are performed in a controlled and reproducible manner.
 
       **Example usage:**  
       *“The Galaxy workbench and HPC cluster were validated as controlled environments for reproducible SARS-CoV-2 data analysis.”*
