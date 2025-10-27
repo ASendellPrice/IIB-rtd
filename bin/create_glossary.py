@@ -1,18 +1,18 @@
 import pandas as pd
 
-# Define color mapping for frequently used ontology prefixes
+# Define color mapping for ontology prefixes
 ontology_colors = {
-    "mesh": "primary",      # blue
-    "NCIT": "info",         # light blue
-    "OBI": "success",       # green
-    "SIO": "warning",       # yellow
-    "OBCS": "danger",       # red
-    "PATO": "purple",       # violet
-    "OCCO": "orange",       # orange
-    "CAO": "teal",          # teal
-    "CHMO": "pink",         # pink
-    "GSSO": "dark",         # charcoal
-    "default": "secondary"  # gray fallback
+    "mesh": "primary",
+    "NCIT": "danger",
+    "OBI": "success",
+    "SIO": "warning",
+    "OBCS": "info",
+    "PATO": "secondary",
+    "OCCO": "light",
+    "CAO": "dark",
+    "CHMO": "secondary",
+    "GSSO": "light",
+    "default": "secondary"
 }
 
 # Load glossary intro text
