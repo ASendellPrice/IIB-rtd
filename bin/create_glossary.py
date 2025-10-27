@@ -21,6 +21,10 @@ df = pd.read_excel("resources/iso_terms.xlsx")
 with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
     f.write(intro_text + "\n\n")
 
+    # Inject search box
+    f.write(".. raw:: html\n\n")
+    f.write('   <input type="text" id="glossarySearch" placeholder="Search glossary..." style="width: 100%; padding: 8px; margin-bottom: 16px; font-size: 1em;">\n\n')
+
     for _, row in df.iterrows():
         term = str(row.get("Term", "")).strip()
         definition = str(row.get("Definition", "")).strip()
@@ -44,13 +48,19 @@ with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
                 f.write(f"      **Example usage:**  \n      *“{bio_example}”*\n\n")
 
         # Format ontology pills using raw HTML (inline layout)
-        if ontology_refs and ontology_links:
+        if (
+            ontology_refs
+            and ontology_links
+            and ontology_refs.lower() != "nan"
+            and ontology_links.lower() != "nan"
+        ):
             ref_items = [r.strip() for r in ontology_refs.split("|")]
             link_items = [l.strip() for l in ontology_links.split("|")]
 
-            if len(ref_items) == len(link_items):
+            if len(ref_items) == len(link_items) and all(ref_items) and all(link_items):
+                f.write("   **Ontological references:**\n\n")
                 f.write("   .. raw:: html\n\n")
-                f.write("      ")  # indent for raw HTML block
+                f.write("      ")
                 for ref, link in zip(ref_items, link_items):
                     if "[" in ref and "]" in ref:
                         label = ref.split("[")[0].strip()
@@ -60,3 +70,20 @@ with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
                         html = f'<a class="sd-badge sd-bg-{color} sd-text-white" href="{link}" title="{ont_def}">{label}</a>'
                         f.write(f"{html} ")
                 f.write("\n\n")
+
+    # Inject JavaScript for live filtering
+    f.write(".. raw:: html\n\n")
+    f.write("""   <script>
+     document.getElementById('glossarySearch').addEventListener('input', function () {
+       const query = this.value.toLowerCase();
+       const dropdowns = document.querySelectorAll('.dropdown');
+       dropdowns.forEach(drop => {
+         const label = drop.querySelector('.dropdown-title');
+         if (label && label.textContent.toLowerCase().includes(query)) {
+           drop.style.display = '';
+         } else {
+           drop.style.display = 'none';
+         }
+       });
+     });
+   </script>\n""")

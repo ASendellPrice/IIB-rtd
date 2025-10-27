@@ -4,6 +4,10 @@ Glossary of ISO terms
 In clinical and research settings, the language and processes used in bioinformatics often differ significantly from those in traditional wet lab environments. Wet lab terminology typically centers around physical procedures, instruments, and biological materials, whereas bioinformatics relies on computational workflows, data structures, and algorithmic logic. This divergence can lead to confusion when interpreting standards like ISO 15189, which were originally designed with laboratory diagnostics in mind. To bridge this gap, the glossary below provides definitions for common ISO 15189-related terms alongside their bioinformatics translations and example usages. Whether you're validating a pipeline or calibrating a sequencer, this resource helps clarify how foundational concepts apply across both domains.
 
 
+.. raw:: html
+
+   <input type="text" id="glossarySearch" placeholder="Search glossary..." style="width: 100%; padding: 8px; margin-bottom: 16px; font-size: 1em;">
+
 .. dropdown:: Acceptability criteria
 
    Predefined specifications or limits used to determine whether a result, process, or product is considered fit for purpose. Must be documented before testing, e.g., control values must fall within a certain range, PCR efficiency must meet specified thresholds.
@@ -19,16 +23,14 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Acceptability criteria required that at least 90% of exome target bases achieved a minimum coverage of 20×”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Accreditation
 
    Formal recognition by an authoritative body that a laboratory or organisation is competent to perform specific tests or activities in accordance with established standards (e.g., ISO 15189).
 
    **Example usage:**  
    *“The laboratory received ISO 15189 accreditation for molecular diagnostics, confirming it met all requirements for quality management, personnel competence, and technical performance.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -49,20 +51,12 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The reference genome and variant database were reviewed for adequacy to ensure they included updated known resistance mutations in pathogen datasets, enabling accurate detection and reporting.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Authorisation
 
    Official permission granted by a competent person or authority to perform a specific activity, release results, or operate equipment in accordance with established procedures.
 
    **Example usage:**  
    *“The clinical scientist provided authorisation to release patient RNA-seq results after verifying QC metrics and reviewing the final report.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Calibration
 
@@ -78,6 +72,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“Calibration of the variant quality score model was performed using Genome in a Bottle reference calls to ensure accurate variant classification.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -98,10 +94,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Change control was required when updating the reference genome for Mycobacterium tuberculosis to a new version, ensuring that the updated reference, pipeline re-validation, and impact on drug-resistance mutation reporting were fully documented before implementation.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Change Request (Document Control)
 
    A formal request submitted to modify a controlled document (e.g., SOP, validation protocol). Change requests must include justification, details of the proposed modification, and undergo review and approval before implementation. All approved change requests must be recorded in the Quality Management System (QMS).
@@ -109,16 +101,14 @@ In clinical and research settings, the language and processes used in bioinforma
    **Example usage:**  
    *“A change request was submitted to update the DNA extraction SOP to use a new extraction kit”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Checklists (under Audits)
 
    Structured tools used to verify compliance with requirements, procedures, or standards during audits. Checklists help ensure that all critical elements are reviewed consistently.
 
    **Example usage:**  
    *“A checklist was used during the internal audit to confirm that sample labeling, reagent storage, and instrument maintenance complied with SOPs.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -139,10 +129,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Clinical accuracy of the TB genomics pipeline was confirmed by comparing detected Mycobacterium tuberculosis sequences and resistance markers with patient microbiology results, ensuring reported variants reflected true infection and drug resistance status.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Clinical Decision Limits
 
    Predefined values of a biomarker or measurement used for clinical decision-making (ISO 15189).
@@ -157,10 +143,6 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“A clinical decision limit was applied to variant allele frequencies, where only variants present above 20% were reported, as lower-frequency variants could not be reliably distinguished from sequencing or pipeline errors.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Commutability
 
@@ -177,10 +159,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The synthetic reference dataset lacked commutability and did not represent patient sample variability, highlighting limitations for benchmarking variant detection pipelines.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Comparability
 
    Ability to compare results across different laboratories, methods, or time points, within defined limits of agreement. Ensures that measurements are consistent and interpretable in different contexts.
@@ -196,10 +174,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Comparability of variant calling results across three sequencing centres was ensured by using shared reference datasets, harmonized QC metrics, and agreed tool settings and cut-offs”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Competence
 
    Demonstrated ability to apply knowledge, skills, and experience to achieve intended results (ISO/IEC 17025:2017; ISO 15189:2022). Includes performing assays, maintaining instruments, following SOPs and safety/QC protocols, and executing analyses with awareness of limitations. Competence must be documented and maintained, e.g., through training records, competency assessments, DOPs, and competency profiles (see competence record).
@@ -214,6 +188,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“Competence was demonstrated by designing a new pathogen genomics pipeline to meet clinical requirements, selecting appropriate analysis tools, performing QC checks, and interpreting results while considering the limitations of datasets and algorithms.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -234,10 +210,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Competence in bioinformatics was demonstrated by the ability to perform routine computational tasks—including pipeline execution, data preprocessing, QC checks, and result interpretation—while managing software, reference datasets, and computing infrastructure, as assessed through documented observation of procedures (DOPs), competency profiles, and formal training records.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Consensus Data
 
    Results agreed upon by multiple experts, methods, or laboratories, often serving as a benchmark. In ISO, consensus data underpin reference values or validation and must be determined systematically.
@@ -253,10 +225,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The TB variant-calling pipeline was benchmarked against a consensus dataset compiled from multiple sequencing centers to ensure accuracy and reproducibility of detected resistance mutations.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Contamination
 
    Unintended presence of material, organism, or signal that compromises results.
@@ -271,6 +239,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“Contamination was detected when off-target pathogen reads, such as influenza sequences, appeared in SARS-CoV-2 samples, indicating cross-sample contamination.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -291,20 +261,12 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Positive control datasets containing known SNVs were used to confirm variant calling accuracy, while no-template runs served as negative controls to detect contamination.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Correction Factors
 
    Factors applied to correct for known systematic biases or effects in measurements, ensuring that reported values more accurately reflect the true quantity or state.
 
    **Example usage:**  
    *“Correction factors were applied to qPCR results to adjust for variations in viral load measurements due to instrument drift and sample dilution.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Corrective Action
 
@@ -321,20 +283,12 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“A corrective action was implemented by updating the SOP to require version-controlled reference genomes to ensure traceability and reproducibility.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Cross Audit
 
    A peer-to-peer audit carried out between collaborating organisations or departments to ensure consistent application of quality standards and identify areas for improvement.
 
    **Example usage:**  
    *“A cross audit between two hospital laboratories compared sample handling and reporting procedures to align best practices.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Development
 
@@ -351,10 +305,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Development of the HIV bioinformatics pipeline was performed under design control, with verification using synthetic datasets and validation against reference genomes to ensure accurate detection of known resistance variants and reliable prediction of their clinical impact.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Deviations
 
    A documented departure from an approved laboratory procedure, specification, or expected result. Deviations may arise from skipped steps, use of incorrect reagents, instrument malfunction, or environmental control failures. All deviations must be recorded in the QMS, investigated for root cause, and addressed through corrective or preventive actions (CAPA).
@@ -369,10 +319,6 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“A deviation was recorded when the analyst used a reference genome build that was not specified in the validated pipeline SOP.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Discrepancy
 
@@ -389,10 +335,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Pipeline parameters did not match SOP instructions, QC metrics fell outside expected thresholds, or reruns of the same analysis produced differing variant counts.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Document Control
 
    A formal process to ensure documents are reviewed, approved, distributed, updated, and archived within a quality management system (QMS).
@@ -408,20 +350,12 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Document control procedures ensured the SOP was updated to include the latest validated version of a specific pipeline.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: External Audit
 
    An audit conducted by an independent organisation, such as an accreditation body or regulatory authority, to verify compliance with standards (e.g., ISO 15189, ISO 17025).
 
    **Example usage:**  
    *“An external audit by UKAS assessors confirmed that all testing processes met ISO 15189 requirements.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: External Quality Assessment (EQA)
 
@@ -438,16 +372,14 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The bioinformatics team participated in an inter-laboratory EQA exercise by re-analyzing datasets from the UK NEQAS Molecular SARS-CoV-2 variant typing scheme and comparing variant calls against gold-standard references. This confirmed pipeline accuracy for variant identification.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Finding
 
    Result of an evaluation against requirements, identifying conformity, non-conformity, or opportunities for improvement.
 
    **Example usage:**  
    *“An audit finding noted that sample storage temperatures were not consistently recorded.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -468,10 +400,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The functional specification for the pipeline required it to accept FASTQ input and produce annotated VCF output within defined runtime parameters.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Improved Performance
 
    Demonstrated enhancement in the efficiency, effectiveness, or reliability of a process following a change. Improvement must be measured against predefined indicators.
@@ -487,10 +415,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Improved performance was demonstrated by reducing false positive variant calls by 20% and adding new functionality for structural variant detection after pipeline optimization.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Incident
 
    An occurrence that led or could lead to non-conformance, error, or deviation from expected results.
@@ -498,20 +422,12 @@ In clinical and research settings, the language and processes used in bioinforma
    **Example usage:**  
    *“An incident occurred when a sample was mislabeled, resulting in an incorrect test assignment and an out-of-TAT result.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Inconsistencies
 
    Lack of uniformity or agreement in data, documents, or results. ISO expects identification and resolution of inconsistencies.
 
    **Example usage:**  
    *“Inconsistencies were found between duplicate PCR reactions, prompting a review of sample handling procedures.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Installation Qualification (IQ)
 
@@ -528,10 +444,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Installation qualification confirmed that the pipeline and HPC environment, including all dependencies and compute nodes, were correctly configured.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Interferences
 
    Influence from a substance, signal, or condition that alters the true measurement.
@@ -547,6 +459,8 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Interferences from index hopping introduced artefactual reads into the dataset.”*
 
+   **Ontological references:**
+
    .. raw:: html
 
       <a class="sd-badge sd-bg-secondary sd-text-white" href="http://champ-project.org/images/ontology/cao.owl#CAO_000046" title="A systematic error in the measure of a signal caused by the presence of concomitants in a sample">CAO:000046</a> 
@@ -557,10 +471,6 @@ In clinical and research settings, the language and processes used in bioinforma
 
    **Example usage:**  
    *“An internal audit reviewed sample tracking and equipment calibration logs to confirm compliance with the laboratory’s quality procedures.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Internal Quality Control
 
@@ -577,10 +487,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“QC metrics and control datasets were analyzed alongside sample data to identify unexpected coverage drops or variant calling errors.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Language
 
    System of terms, symbols, or structured vocabulary used for communication. In ISO contexts, clarity and consistency of language is critical for compliance.
@@ -593,10 +499,6 @@ In clinical and research settings, the language and processes used in bioinforma
 
       In bioinformatics, language has dual meaning: human language (terminology in SOPs, ontologies) and programming language (R, Python). ISO focus is on controlled terminology, so “language” here means ensuring words are used consistently across SOPs and data dictionaries.
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Management System
 
    A set of interrelated or interacting elements used to establish policies, objectives, and processes to achieve them. In laboratories, this typically includes the Quality Management System (QMS) and can extend to cover data analysis, documentation, software versioning, traceability, and validation/verification of pipelines.
@@ -604,16 +506,14 @@ In clinical and research settings, the language and processes used in bioinforma
    **Example usage:**  
    *“The management system was updated to include procedures for sample tracking and instrument calibration.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Method
 
    A systematic approach or technique used to achieve a specific objective.
 
    **Example usage:**  
    *“The qPCR amplification method was chosen to quantify SARS-CoV-2 viral RNA accurately.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -634,20 +534,12 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Variant allele frequencies in pathogen genomics were benchmarked against Genome in a Bottle (GIAB) reference datasets to establish metrological traceability of computational measurements.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Near-miss
 
    An occurrence that could have caused harm or non-conformance but did not.
 
    **Example usage:**  
    *“A near-miss occurred when two samples were swapped, but the error was caught during the procedure.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Noise
 
@@ -664,6 +556,8 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The signal-to-noise ratio was evaluated in SARS-CoV-2 sequencing data to filter out low-quality reads and minimize spurious variant calls”*
 
+   **Ontological references:**
+
    .. raw:: html
 
       <a class="sd-badge sd-bg-danger sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C45783" title="Any part of a signal that is not the true or original signal but is introduced by the communication mechanism">NCIT:C45783</a> 
@@ -675,10 +569,6 @@ In clinical and research settings, the language and processes used in bioinforma
    **Example usage:**  
    *“A non-conformance was recorded when the laboratory technician deviated from the SOP during RNA extraction, potentially affecting downstream sequencing results.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Patient Safety
 
    Reduction of risk of unnecessary harm to patients to an acceptable minimum (ISO 15189).
@@ -686,20 +576,12 @@ In clinical and research settings, the language and processes used in bioinforma
    **Example usage:**  
    *“Patient safety is maintained by following validated protocols, including proper labeling and handling, and using appropriate controls to prevent incorrect results or sample mix-ups that could lead to misdiagnosis.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Performance Qualification (PQ)
 
    Evidence that systems/processes perform as intended under routine (real-world) conditions.
 
    **Example usage:**  
    *“Performance qualification demonstrated that the sequencing pipeline maintained processing of ≥100 samples per day with stable accuracy and no missed service-level agreements (SLAs) over 30 consecutive days.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Performance Reporting
 
@@ -713,10 +595,6 @@ In clinical and research settings, the language and processes used in bioinforma
 
       Performance reporting in bioinformatics may take the form of periodic dashboards or reports summarizing key performance indicators such as mapping rate, turnaround time, re-analysis rate, pipeline failure rates, and variant calling accuracy, with trends highlighted and corrective actions documented.
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Performance Review
 
    Formal evaluation of performance against predefined objectives, standards, or indicators, used to identify areas for improvement and ensure ongoing compliance with quality requirements
@@ -724,20 +602,12 @@ In clinical and research settings, the language and processes used in bioinforma
    **Example usage:**  
    *“The semi-annual performance review identified missed turnaround time (TAT) targets and triggered a capacity upgrade.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Performance Verification
 
    Confirmation that a system, method, or pipeline performs according to predefined requirements or specifications. Verification demonstrates that stated performance characteristics are achieved, but is narrower in scope than full validation (which assesses overall suitability for intended use).
 
    **Example usage:**  
    *“Performance verification confirmed that the PCR assay consistently detected target pathogens at the predefined limit of detection.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Preparation
 
@@ -754,20 +624,12 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Preparation of the sequencing dataset included adapter trimming, QC filtering, file formatting, and metadata standardization before downstream analysis.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Preventive Actions
 
    Actions taken to eliminate the cause of a potential non-conformance, before it occurs. Preventive actions are proactive measures designed to reduce risk and improve system robustness.
 
    **Example usage:**  
    *“As a preventive action, the laboratory introduced dual sample labeling and independent verification steps to avoid potential mix-ups during DNA extraction.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Procedure
 
@@ -784,6 +646,8 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The QC procedure details how raw sequencing reads are checked for quality metrics, trimmed, adapters removed, deduplicated, and filtered before downstream analysis, with all steps and parameters documented to ensure reproducibility and traceability.”*
 
+   **Ontological references:**
+
    .. raw:: html
 
       <a class="sd-badge sd-bg-warning sd-text-white" href="http://semanticscience.org/resource/SIO_000999" title="A procedure is a process that attempts to achieve one or more objectives by following an established set of actions">SIO:000999</a> <a class="sd-badge sd-bg-danger sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C79751" title="Any stepwise set of actions">NCIT:C79751</a> 
@@ -794,6 +658,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
    **Example usage:**  
    *“The DNA extraction and library preparation process converts tissue or blood samples into purified, sequencer-ready DNA libraries.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -814,6 +680,8 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The quality of the sequencing analysis was evaluated by comparing read depth, base quality scores, duplication rates, and alignment metrics to predefined acceptance thresholds.”*
 
+   **Ontological references:**
+
    .. raw:: html
 
       <a class="sd-badge sd-bg-danger sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C25283" title="An essential and distinguishing attribute of something or someone; a degree or grade of excellence or worth">NCIT:C25283</a> 
@@ -833,6 +701,8 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“QC of RNA-seq reads included trimming adapters, filtering low-quality bases, removing duplicates, and evaluating mapping rates to confirm data suitability for downstream analysis.”*
 
+   **Ontological references:**
+
    .. raw:: html
 
       <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D011786" title="A system for verifying and maintaining a desired level of quality in a product or process by careful planning, use of proper equipment, continued inspection, and corrective action as required">mesh:D011786</a> <a class="sd-badge sd-bg-danger sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C15311" title="Set of measurements and inspections taken to verify that performance of equipment and procedures remains within specified limits">NCIT:C15311</a> 
@@ -844,20 +714,12 @@ In clinical and research settings, the language and processes used in bioinforma
    **Example usage:**  
    *“Quality indicators in the laboratory included turnaround times, error rates, and frequency of repeat testing.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Quality Management System (QMS)
 
    A structured set of policies, processes, procedures, and responsibilities used by an organization to ensure quality objectives are achieved, risks are managed, and compliance with applicable standards is maintained (ISO 9000/ISO 15189).
 
    **Example usage:**  
    *“The laboratory implemented a QMS encompassing SOPs, document control, internal audits, equipment calibration, and staff training to ensure reliable and reproducible molecular test results.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Reference
 
@@ -874,10 +736,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Variant calls were compared against HIV references and HIV variant databases to detect known resistance mutations and validate accuracy.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Reference Material
 
    Material that is sufficiently homogeneous and stable with respect to specified properties, established to be fit for its intended use in measurement. Certified Reference Materials (CRMs) have documented property values with stated uncertainty. Controls run within an experiment are not reference materials; only external standards with traceable properties qualify.
@@ -892,6 +750,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“The sequencing pipeline was verified using a Genome in a Bottle GIAB reference genome to confirm variant calling accuracy.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -912,10 +772,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Reporting of HIV sequencing data included resistance variants and predicted susceptibility to antiretroviral therapies, delivered as structured outputs (e.g., JSON for databases, PDF for clinicians), and included submission of variants to international databases such as HIVdb (Stanford HIV Drug Resistance Database).”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Requirement for Reports
 
    ISO requires that reports include minimum information to ensure traceability and interpretability, such as sample/patient identification, methods, results, interpretations, and signatures.
@@ -931,20 +787,12 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The requirement for reports mandated inclusion of software version and reference genome used, along with QC metrics, in the sequencing report.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Result Validity
 
    Extent to which a result can be considered sound, accurate, and supported by evidence. In ISO, validity is linked to adherence to validated methods, QC, and traceability.
 
    **Example usage:**  
    *“Result validity was ensured by verifying assay outputs against a certified reference material and confirming QC metrics were within acceptable ranges.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Review
 
@@ -961,10 +809,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The updated influenza pipeline underwent code review by a second bioinformatician before deploying the updated pipeline.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Risk Analysis
 
    Systematic use of information to identify sources of risk and estimate their likelihood and impact (ISO 14971, ISO 31000).
@@ -979,6 +823,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“Risk analysis identified the possibility of pipeline failure or data loss due to insufficient storage redundancy, leading to backup systems and version-controlled pipelines.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -999,10 +845,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Risk management for the updated influenza pipeline included version-controlled code review and automated unit testing/continuous integration (CI) testing to reduce the risk of negative impact on results, such as producing erroneous or misleading outputs once deployed.”*
 
-   .. raw:: html
-
-      <a class="sd-badge sd-bg-primary sd-text-white" href="nan" title="The process of minimizing risk to an organization by developing systems to identify and analyze potential hazards to prevent accidents, injuries, and other adverse occurrences, and by attempting to handle events and incidents which do occur in such a manner that their effect and cost are minimized.">mesh:D012308</a> 
-
 .. dropdown:: Sample/specimen
 
    One or more items taken from a population or individual and intended to provide information about that population or individual (ISO 15189 / ISO 17025). In wet labs, this is usually the patient specimen or aliquot under test, such as whole blood, tissue biopsy, swab, urine, stool, or other biological material.
@@ -1017,6 +859,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“For HIV resistance analysis, each sample dataset—including FASTQ and BAM files derived from a patient’s blood specimen—was tracked with a unique identifier, ensuring traceability and reproducibility across the pipeline, even when multiple data types (DNA, RNA) were generated from the same specimen.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -1037,6 +881,8 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Sample quality was evaluated by examining read length, duplication rate, adapter contamination, and overall sequence integrity to ensure reliable input for variant calling.”*
 
+   **Ontological references:**
+
    .. raw:: html
 
       <a class="sd-badge sd-bg-warning sd-text-white" href="http://semanticscience.org/resource/SIO_001411" title="sample quality is the quality of an object that is drawn from a larger population">SIO:001411</a> 
@@ -1047,10 +893,6 @@ In clinical and research settings, the language and processes used in bioinforma
 
    **Example usage:**  
    *“The scope of this SOP covers DNA sequencing workflows using Illumina platforms only.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Selection
 
@@ -1067,10 +909,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The selection of the GRCh38 reference genome was documented, including rationale for clinical suitability and compatibility with existing pipelines.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Selectivity
 
    Ability of a method to distinguish the analyte of interest from other components.
@@ -1086,10 +924,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The bioinformatics pipeline demonstrated high selectivity by correctly identifying viral reads while excluding host and environmental sequences.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Sensitivity
 
    Ability of a method to correctly identify positives (true positive rate).
@@ -1104,6 +938,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“The sequencing pipeline achieved a sensitivity of 98% for SNP detection in the GIAB dataset.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -1124,6 +960,8 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Sequencing read depth was reported as coverage per base pair.”*
 
+   **Ontological references:**
+
    .. raw:: html
 
       <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D007394" title="A system of physical units in which the fundamental quantities are length, time, mass, electric current, temperature, luminous intensity, and amount of substance, and the corresponding units are the meter, second, kilogram, ampere, kelvin, candela, and mole.">mesh:D007394</a> 
@@ -1142,6 +980,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“The sequencing pipeline demonstrated 99% specificity for SNP detection in the GIAB dataset.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -1162,6 +1002,8 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The SOP for weekly system health checks defines procedures for monitoring software versions, disk usage, pipeline runtimes, and backup status. It is reviewed, approved, and version-controlled to ensure traceability and compliance with the QMS.”*
 
+   **Ontological references:**
+
    .. raw:: html
 
       <a class="sd-badge sd-bg-danger sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C48443" title="An established procedure to be followed in carrying out a given operation or in a given situation">NCIT:C48443</a> 
@@ -1181,10 +1023,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Storage space for sequencing data was monitored monthly to ensure compliance with retention and data integrity policies.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Suitability
 
    Extent to which something is appropriate for its intended purpose. In ISO, suitability is often assessed during validation or verification, and in wet labs refers to whether materials, reagents, or reference standards are appropriate for their intended use.
@@ -1199,10 +1037,6 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“Suitability was ensured by choosing the appropriate reference genome based on the virus of interest and selecting a reference that met a closeness threshold relative to the sample sequence to maximize accuracy of variant calling.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Technical Knowledge
 
@@ -1219,10 +1053,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“During the development of a new analytical pipeline for SARS-CoV-2, the bioinformatician drew on their technical knowledge when selecting appropriate bioinformatics tools and reference genomes, implementing workflow management with Git, coding reproducible modules, and testing the pipeline using datasets representing both standard and edge cases to ensure reliability and reproducibility.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Traceability
 
    Ability to trace the history, application, or location of an object or activity (ISO 9000). In metrology, often linked to the chain of calibrations to standards.
@@ -1237,10 +1067,6 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“Traceability of the variant call was maintained by linking the result to raw FASTQ files, pipeline version 3.2, and the reference genome build.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: Training / re-training
 
@@ -1257,10 +1083,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Analysts were re-trained following the introduction of a new variant calling pipeline to ensure consistent and correct usage across the team.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Test (Examination method / procedure / process)
 
    A test (or examination, per ISO 15189) is the set of controlled operations that apply a defined method to a sample to generate a measurable result. In ISO terms, it represents the act of measurement or analysis performed under specified and validated conditions.
@@ -1276,10 +1098,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“Variant calling is a bioinformatics test that identifies genomic variants from aligned sequencing data using a validated algorithm and parameters.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Tolerance
 
    Permissible range of variation in a measurement, value, or condition without invalidating the result (ISO VIM). Tolerance refers to acceptable deviations in experimental measurements or conditions that do not compromise the validity of results.
@@ -1294,6 +1112,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“A tolerance of ±5% in mapping rate was allowed between replicate sequencing runs, and QC thresholds defined acceptable mismatch rates in alignments or allowable run-time variance.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -1314,10 +1134,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The trueness of a variant calling pipeline was assessed by comparing called variants against a gold-standard dataset, such as the Genome in a Bottle reference set, to identify and correct systematic biases in the analysis.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: User
 
    Individuals or organizations that use a product, service, or system (ISO 15189 / ISO 17025). Users can include patients, clinicians, researchers, or other stakeholders relying on laboratory outputs.
@@ -1332,10 +1148,6 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“Users of the SARS-CoV-2 analysis pipeline include virologists accessing curated variant datasets and clinicians using reports to inform treatment decisions.”*
-
-   .. raw:: html
-
-      
 
 .. dropdown:: User Requirement Specification (URS)
 
@@ -1352,10 +1164,6 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The user requirement specification stated that the LIMS must track sample barcodes, record reagent batches, and generate audit reports accessible within 24 hours.”*
 
-   .. raw:: html
-
-      
-
 .. dropdown:: Validation
 
    Confirmation, through objective evidence, that requirements for a specific intended use are fulfilled (ISO 9000, VIM). Validation ensures that a method, assay, or procedure produces accurate, reliable, and reproducible results for its intended purpose.
@@ -1370,6 +1178,8 @@ In clinical and research settings, the language and processes used in bioinforma
 
       **Example usage:**  
       *“A variant calling pipeline was validated by demonstrating sensitivity and specificity on gold-standard datasets, ensuring it is appropriate for clinical use.”*
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -1386,6 +1196,8 @@ In clinical and research settings, the language and processes used in bioinforma
       :class: tip
 
       Verification of the updated SARS-CoV-2 pipeline confirmed that the new version still achieved its intended aims, producing expected results, maintaining sensitivity and specificity, and performing consistently on standard and edge-case datasets before deployment.
+
+   **Ontological references:**
 
    .. raw:: html
 
@@ -1406,7 +1218,19 @@ In clinical and research settings, the language and processes used in bioinforma
       **Example usage:**  
       *“The Galaxy workbench and HPC cluster were validated as controlled environments for reproducible SARS-CoV-2 data analysis.”*
 
-   .. raw:: html
+.. raw:: html
 
-      
-
+   <script>
+     document.getElementById('glossarySearch').addEventListener('input', function () {
+       const query = this.value.toLowerCase();
+       const dropdowns = document.querySelectorAll('.dropdown');
+       dropdowns.forEach(drop => {
+         const label = drop.querySelector('.dropdown-title');
+         if (label && label.textContent.toLowerCase().includes(query)) {
+           drop.style.display = '';
+         } else {
+           drop.style.display = 'none';
+         }
+       });
+     });
+   </script>
