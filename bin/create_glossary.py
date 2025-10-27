@@ -14,11 +14,13 @@ ontology_colors = {
 with open("resources/glossary_intro_text.txt", "r") as intro_file:
     intro_text = intro_file.read()
 
-# Load Excel file containing terms to include and their definitions etc
+# Load Excel file
 df = pd.read_excel("resources/iso_terms.xlsx")
 
 # Create output RST file
 with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
+    f.write("Glossary of ISO terms\n")
+    f.write("=====================\n\n")
     f.write(intro_text + "\n\n")
 
     # Inject search box
@@ -34,11 +36,10 @@ with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
         ontology_refs = str(row.get("Ontological reference(s)", "")).strip()
         ontology_links = str(row.get("Link to reference", "")).strip()
 
-        # Write dropdown block
         f.write(f".. dropdown:: {term}\n\n")
         f.write(f"   {definition}\n\n")
 
-        if example:
+        if example and example.lower() != "nan":
             f.write(f"   **Example usage:**  \n   *“{example}”*\n\n")
 
         if bio_def and bio_def.lower() != "nan":
@@ -47,7 +48,6 @@ with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
             if bio_example and bio_example.lower() != "nan":
                 f.write(f"      **Example usage:**  \n      *“{bio_example}”*\n\n")
 
-        # Format ontology pills using raw HTML (inline layout)
         if (
             ontology_refs
             and ontology_links
@@ -71,15 +71,15 @@ with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
                         f.write(f"{html} ")
                 f.write("\n\n")
 
-    # Inject JavaScript for live filtering
+    # Inject working JavaScript for live filtering
     f.write(".. raw:: html\n\n")
     f.write("""   <script>
      document.getElementById('glossarySearch').addEventListener('input', function () {
        const query = this.value.toLowerCase();
-       const dropdowns = document.querySelectorAll('.dropdown');
+       const dropdowns = document.querySelectorAll('details');
        dropdowns.forEach(drop => {
-         const label = drop.querySelector('.dropdown-title');
-         if (label && label.textContent.toLowerCase().includes(query)) {
+         const summary = drop.querySelector('summary');
+         if (summary && summary.textContent.toLowerCase().includes(query)) {
            drop.style.display = '';
          } else {
            drop.style.display = 'none';
