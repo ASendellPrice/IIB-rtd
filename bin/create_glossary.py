@@ -71,9 +71,10 @@ with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
                         f.write(f"{html} ")
                 f.write("\n\n")
 
-    # Inject working JavaScript for live filtering
+    # Inject JavaScript for live filtering and auto-close
     f.write(".. raw:: html\n\n")
     f.write("""   <script>
+     // Live search filter
      document.getElementById('glossarySearch').addEventListener('input', function () {
        const query = this.value.toLowerCase();
        const dropdowns = document.querySelectorAll('details');
@@ -83,6 +84,19 @@ with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
            drop.style.display = '';
          } else {
            drop.style.display = 'none';
+         }
+       });
+     });
+
+     // Auto-close other dropdowns when one opens
+     document.querySelectorAll('details').forEach((el) => {
+       el.addEventListener('toggle', function () {
+         if (el.open) {
+           document.querySelectorAll('details').forEach((other) => {
+             if (other !== el) {
+               other.removeAttribute('open');
+             }
+           });
          }
        });
      });
