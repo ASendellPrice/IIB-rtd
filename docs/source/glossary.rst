@@ -1221,6 +1221,7 @@ In clinical and research settings, the language and processes used in bioinforma
 .. raw:: html
 
    <script>
+     // Live search filter
      document.getElementById('glossarySearch').addEventListener('input', function () {
        const query = this.value.toLowerCase();
        const dropdowns = document.querySelectorAll('details');
@@ -1230,6 +1231,19 @@ In clinical and research settings, the language and processes used in bioinforma
            drop.style.display = '';
          } else {
            drop.style.display = 'none';
+         }
+       });
+     });
+
+     // Auto-close other dropdowns when one opens
+     document.querySelectorAll('details').forEach((el) => {
+       el.addEventListener('toggle', function () {
+         if (el.open) {
+           document.querySelectorAll('details').forEach((other) => {
+             if (other !== el) {
+               other.removeAttribute('open');
+             }
+           });
          }
        });
      });
