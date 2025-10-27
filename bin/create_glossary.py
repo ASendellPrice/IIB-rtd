@@ -8,23 +8,41 @@ with open("resources/glossary_intro_text.txt", "r") as intro_file:
 df = pd.read_excel("resources/iso_terms.xlsx")
 
 # Create output RST file
-with open("docs/source/glossary.rst", "w") as f:
-    f.write(intro_text + "\n")
+with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
+    f.write(intro_text + "\n\n")
 
     for _, row in df.iterrows():
-        term = row["Term"]
-        definition = row["Definition"]
-        example = row["Example usage"]
-        bio_def = row.get("Bioinformatics translation", "")
-        bio_example = row.get("Bioinformatics example sentence", "")
+        term = str(row.get("Term", "")).strip()
+        definition = str(row.get("Definition", "")).strip()
+        example = str(row.get("Example usage", "")).strip()
+        bio_def = str(row.get("Bioinformatics translation", "")).strip()
+        bio_example = str(row.get("Bioinformatics example sentence", "")).strip()
+        ontology_refs = str(row.get("Ontological Reference", "")).strip()
+        ontology_links = str(row.get("Ontology Link", "")).strip()
 
         # Write dropdown block
         f.write(f".. dropdown:: {term}\n\n")
-        f.write(f"   {definition.strip()}\n\n")
-        f.write(f"   **Example usage:**  \n   {example.strip()}\n\n")
+        f.write(f"   {definition}\n\n")
+
+        if example:
+            f.write(f"   **Example usage:**  \n   *“{example}”*\n\n")
 
         if bio_def:
             f.write(f"   .. admonition:: **💻 Bioinformatics translation**\n      :class: tip\n\n")
             f.write(f"      {bio_def}\n\n")
             if bio_example:
                 f.write(f"      **Example usage:**  \n      *“{bio_example}”*\n\n")
+
+        # Format ontology pills
+        if ontology_refs and ontology_links:
+            ref_items = [r.strip() for r in ontology_refs.split("|")]
+            link_items = [l.strip() for l in ontology_links.split("|")]
+
+            if len(ref_items) == len(link_items):
+                f.write("   **Ontological references:**  \n")
+                for ref, link in zip(ref_items, link_items):
+                    if "[" in ref and "]" in ref:
+                        label = ref.split("[")[0].strip()
+                        ont_def = ref.split("[")[1].strip(" ]")
+                        f.write(f'   ``<a class="sd-badge" href="{link}" title="{ont_def}">{label}</a>``\n')
+                f.write("\n")
