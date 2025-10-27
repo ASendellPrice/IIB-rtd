@@ -21,7 +21,7 @@ df = pd.read_excel("resources/iso_terms.xlsx")
 with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
     f.write("Glossary of ISO terms\n")
     f.write("=====================\n\n")
-    f.write(intro_text + "\n\n")
+    f.write(intro_text + "\n\n\n")
 
     # Inject search box
     f.write(".. raw:: html\n\n")
