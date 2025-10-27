@@ -1,5 +1,10 @@
 import pandas as pd
 
+# Get input and output file paths
+input_excel = "resources/iso_terms.xlsx"
+input_intro = "resources/glossary_intro.txt"
+output_rst = "docs/source/glossary.rst"
+
 # Define color mapping for ontology prefixes
 ontology_colors = {
     "mesh": "primary",
@@ -11,14 +16,14 @@ ontology_colors = {
 }
 
 # Load glossary intro text
-with open("resources/glossary_intro_text.txt", "r") as intro_file:
+with open(input_intro) as intro_file:
     intro_text = intro_file.read()
 
 # Load Excel file
-df = pd.read_excel("resources/iso_terms.xlsx")
+df = pd.read_excel(input_excel)
 
 # Create output RST file
-with open("docs/source/glossary.rst", "w") as f:
+with open(output_rst, "w") as f:
     f.write("Glossary of ISO terms\n")
     f.write("=====================\n\n")
     f.write(intro_text + "\n\n")
