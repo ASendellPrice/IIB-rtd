@@ -21,6 +21,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Accreditation
 
@@ -39,7 +40,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D000068" title="Certification as complying with a standard set by non-governmental organizations, applied for by institutions, programs, and facilities on a voluntary basis">mesh:D000068</a><br/>
+      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D000068" title="Certification as complying with a standard set by non-governmental organizations, applied for by institutions, programs, and facilities on a voluntary basis">mesh:D000068</a> 
 
 .. dropdown:: Adequacy
 
@@ -58,6 +59,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Authorisation
 
@@ -76,6 +78,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Calibration
 
@@ -94,8 +97,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D002138" title="Determination, by measurement or comparison with a standard, of the correct value of each scale reading on a meter or other measuring instrument; or determination of the settings of a control device that correspond to particular values of voltage, current, frequency or other output">mesh:D002138</a><br/>
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C69187" title="The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument">NCIT:C69187</a><br/>
+      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D002138" title="Determination, by measurement or comparison with a standard, of the correct value of each scale reading on a meter or other measuring instrument; or determination of the settings of a control device that correspond to particular values of voltage, current, frequency or other output">mesh:D002138</a> <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C69187" title="The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument">NCIT:C69187</a> 
 
 .. dropdown:: Change Control
 
@@ -114,6 +116,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Change Request (Document Control)
 
@@ -132,6 +135,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Checklists (under Audits)
 
@@ -150,7 +154,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D057189" title="Aid for consistent recording of data such as tasks completed and observations noted.">mesh:D057189</a><br/>
+      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D057189" title="Aid for consistent recording of data such as tasks completed and observations noted.">mesh:D057189</a> 
 
 .. dropdown:: Clinical Accuracy
 
@@ -169,6 +173,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Clinical Decision Limits
 
@@ -187,6 +192,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Commutability
 
@@ -205,6 +211,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Comparability
 
@@ -223,6 +230,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Competence
 
@@ -241,7 +249,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OCCO_00000121" title="A disposition borne by an organism in virtue of training such that, if realized, is realized in the successful performance of a skilled task for which that training was pursued">OCCO:00000121</a><br/>
+      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OCCO_00000121" title="A disposition borne by an organism in virtue of training such that, if realized, is realized in the successful performance of a skilled task for which that training was pursued">OCCO:00000121</a> 
 
 .. dropdown:: Competence record
 
@@ -260,6 +268,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Consensus Data
 
@@ -278,6 +287,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Contamination
 
@@ -296,7 +306,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/PATO_0015031" title="The presence of a constituent, impurity, or some other undesirable element that spoils, corrupts, infects, makes unfit, or makes inferior a material, physical body, natural environment, place of human occupancy, or other material entity">PATO:0015031</a><br/>
+      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/PATO_0015031" title="The presence of a constituent, impurity, or some other undesirable element that spoils, corrupts, infects, makes unfit, or makes inferior a material, physical body, natural environment, place of human occupancy, or other material entity">PATO:0015031</a> 
 
 .. dropdown:: Controls (Positive / Negative)
 
@@ -315,6 +325,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Correction Factors
 
@@ -333,6 +344,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Corrective Action
 
@@ -351,6 +363,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Cross Audit
 
@@ -369,6 +382,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Development
 
@@ -387,6 +401,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Deviations
 
@@ -405,6 +420,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Discrepancy
 
@@ -423,6 +439,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Document Control
 
@@ -441,6 +458,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: External Audit
 
@@ -459,6 +477,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: External Quality Assessment (EQA)
 
@@ -477,6 +496,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Finding
 
@@ -495,7 +515,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C61036" title="The result of an examination or inquiry">NCIT:C61036</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C61036" title="The result of an examination or inquiry">NCIT:C61036</a> 
 
 .. dropdown:: Functional Specification
 
@@ -514,6 +534,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Improved Performance
 
@@ -532,6 +553,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Incident
 
@@ -550,6 +572,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Inconsistencies
 
@@ -568,6 +591,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Installation Qualification (IQ)
 
@@ -586,6 +610,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Interferences
 
@@ -604,7 +629,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://champ-project.org/images/ontology/cao.owl#CAO_000046" title="A systematic error in the measure of a signal caused by the presence of concomitants in a sample">CAO:000046</a><br/>
+      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://champ-project.org/images/ontology/cao.owl#CAO_000046" title="A systematic error in the measure of a signal caused by the presence of concomitants in a sample">CAO:000046</a> 
 
 .. dropdown:: Internal Audit
 
@@ -623,6 +648,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Internal Quality Control
 
@@ -641,6 +667,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Language
 
@@ -659,6 +686,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Management System
 
@@ -677,6 +705,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Method
 
@@ -695,7 +724,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C71460" title="A means, manner of procedure, or systematic course of actions that have to be performed in order to accomplish a particular goal">NCIT:C71460</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C71460" title="A means, manner of procedure, or systematic course of actions that have to be performed in order to accomplish a particular goal">NCIT:C71460</a> 
 
 .. dropdown:: Metrological Traceability
 
@@ -714,6 +743,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Near-miss
 
@@ -732,6 +762,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Noise
 
@@ -750,7 +781,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C45783" title="Any part of a signal that is not the true or original signal but is introduced by the communication mechanism">NCIT:C45783</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C45783" title="Any part of a signal that is not the true or original signal but is introduced by the communication mechanism">NCIT:C45783</a> 
 
 .. dropdown:: Non-conformance
 
@@ -769,6 +800,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Patient Safety
 
@@ -787,6 +819,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Performance Qualification (PQ)
 
@@ -805,6 +838,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Performance Reporting
 
@@ -823,6 +857,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Performance Review
 
@@ -841,6 +876,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Performance Verification
 
@@ -859,6 +895,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Preparation
 
@@ -877,6 +914,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Preventive Actions
 
@@ -895,6 +933,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Procedure
 
@@ -913,8 +952,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-warning sd-text-white" href="http://semanticscience.org/resource/SIO_000999" title="A procedure is a process that attempts to achieve one or more objectives by following an established set of actions">SIO:000999</a><br/>
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C79751" title="Any stepwise set of actions">NCIT:C79751</a><br/>
+      <a class="sd-badge sd-bg-warning sd-text-white" href="http://semanticscience.org/resource/SIO_000999" title="A procedure is a process that attempts to achieve one or more objectives by following an established set of actions">SIO:000999</a> <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C79751" title="Any stepwise set of actions">NCIT:C79751</a> 
 
 .. dropdown:: Process
 
@@ -933,7 +971,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C29862" title="A sequence of events which produces some outcome">NCIT:C29862</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C29862" title="A sequence of events which produces some outcome">NCIT:C29862</a> 
 
 .. dropdown:: Quality
 
@@ -952,7 +990,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C25283" title="An essential and distinguishing attribute of something or someone; a degree or grade of excellence or worth">NCIT:C25283</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C25283" title="An essential and distinguishing attribute of something or someone; a degree or grade of excellence or worth">NCIT:C25283</a> 
 
 .. dropdown:: Quality control
 
@@ -971,8 +1009,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D011786" title="A system for verifying and maintaining a desired level of quality in a product or process by careful planning, use of proper equipment, continued inspection, and corrective action as required">mesh:D011786</a><br/>
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C15311" title="Set of measurements and inspections taken to verify that performance of equipment and procedures remains within specified limits">NCIT:C15311</a><br/>
+      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D011786" title="A system for verifying and maintaining a desired level of quality in a product or process by careful planning, use of proper equipment, continued inspection, and corrective action as required">mesh:D011786</a> <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C15311" title="Set of measurements and inspections taken to verify that performance of equipment and procedures remains within specified limits">NCIT:C15311</a> 
 
 .. dropdown:: Quality Indicators
 
@@ -991,6 +1028,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Quality Management System (QMS)
 
@@ -1009,6 +1047,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Reference
 
@@ -1027,6 +1066,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Reference Material
 
@@ -1045,7 +1085,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/CHMO_0002913" title="A substance or mixture of substances, the composition of which is known within specified limits, and one or more of the properties of which is sufficiently well established to be used for the calibration of an apparatus, the assessment of a measuring method or for assigning values to materials">CHMO:0002913</a><br/>
+      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/CHMO_0002913" title="A substance or mixture of substances, the composition of which is known within specified limits, and one or more of the properties of which is sufficiently well established to be used for the calibration of an apparatus, the assessment of a measuring method or for assigning values to materials">CHMO:0002913</a> 
 
 .. dropdown:: Reporting
 
@@ -1064,6 +1104,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Requirement for Reports
 
@@ -1082,6 +1123,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Result Validity
 
@@ -1100,6 +1142,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Review
 
@@ -1118,6 +1161,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Risk Analysis
 
@@ -1136,7 +1180,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-primary sd-text-white" href="https://meshb.nlm.nih.gov/record/ui?ui=D018570" title="The qualitative or quantitative estimation of the likelihood of adverse effects that may result from exposure to specified health hazards or from the absence of beneficial influences">mesh:D018570</a><br/>
+      <a class="sd-badge sd-bg-primary sd-text-white" href="https://meshb.nlm.nih.gov/record/ui?ui=D018570" title="The qualitative or quantitative estimation of the likelihood of adverse effects that may result from exposure to specified health hazards or from the absence of beneficial influences">mesh:D018570</a> 
 
 .. dropdown:: Risk Management
 
@@ -1155,7 +1199,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-primary sd-text-white" href="nan" title="The process of minimizing risk to an organization by developing systems to identify and analyze potential hazards to prevent accidents, injuries, and other adverse occurrences, and by attempting to handle events and incidents which do occur in such a manner that their effect and cost are minimized.">mesh:D012308</a><br/>
+      <a class="sd-badge sd-bg-primary sd-text-white" href="nan" title="The process of minimizing risk to an organization by developing systems to identify and analyze potential hazards to prevent accidents, injuries, and other adverse occurrences, and by attempting to handle events and incidents which do occur in such a manner that their effect and cost are minimized.">mesh:D012308</a> 
 
 .. dropdown:: Sample/specimen
 
@@ -1174,8 +1218,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C19157" title="A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis">NCIT:C19157</a><br/>
-      <a class="sd-badge sd-bg-warning sd-text-white" href="http://semanticscience.org/resource/SIO_001050" title="A sample is a limited quantity of something (e.g. an individual or set of individuals from a population, or a portion of a substance) to be used for testing, analysis, inspection, investigation, demonstration, or trial use">SIO:001050</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C19157" title="A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis">NCIT:C19157</a> <a class="sd-badge sd-bg-warning sd-text-white" href="http://semanticscience.org/resource/SIO_001050" title="A sample is a limited quantity of something (e.g. an individual or set of individuals from a population, or a portion of a substance) to be used for testing, analysis, inspection, investigation, demonstration, or trial use">SIO:001050</a> 
 
 .. dropdown:: Sample Quality
 
@@ -1194,7 +1237,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-warning sd-text-white" href="http://semanticscience.org/resource/SIO_001411" title="sample quality is the quality of an object that is drawn from a larger population">SIO:001411</a><br/>
+      <a class="sd-badge sd-bg-warning sd-text-white" href="http://semanticscience.org/resource/SIO_001411" title="sample quality is the quality of an object that is drawn from a larger population">SIO:001411</a> 
 
 .. dropdown:: Scope
 
@@ -1213,6 +1256,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Selection
 
@@ -1231,6 +1275,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Selectivity
 
@@ -1249,6 +1294,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Sensitivity
 
@@ -1267,7 +1313,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OBCS_0000058" title="A data item that measures the proportion of actual positives which are correctly identified as such">OBCS:0000058</a><br/>
+      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OBCS_0000058" title="A data item that measures the proportion of actual positives which are correctly identified as such">OBCS:0000058</a> 
 
 .. dropdown:: SI Units
 
@@ -1286,7 +1332,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D007394" title="A system of physical units in which the fundamental quantities are length, time, mass, electric current, temperature, luminous intensity, and amount of substance, and the corresponding units are the meter, second, kilogram, ampere, kelvin, candela, and mole.">mesh:D007394</a><br/>
+      <a class="sd-badge sd-bg-primary sd-text-white" href="http://id.nlm.nih.gov/mesh/D007394" title="A system of physical units in which the fundamental quantities are length, time, mass, electric current, temperature, luminous intensity, and amount of substance, and the corresponding units are the meter, second, kilogram, ampere, kelvin, candela, and mole.">mesh:D007394</a> 
 
 .. dropdown:: Specificity
 
@@ -1305,8 +1351,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C41395" title="The probability that a test will produce a true negative result when used on non-effected subjects as compared to a reference or "gold standard". The specificity of a test can be determined by calculating: number of true negative results divided by the sum of true negative results plus number of false positive results">NCIT:C41395</a><br/>
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OBCS_0000059" title="A data item that refers to the proportion of negatives in a binary classification test which are correctly identified">OBCS:0000059</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C41395" title="The probability that a test will produce a true negative result when used on non-effected subjects as compared to a reference or "gold standard". The specificity of a test can be determined by calculating: number of true negative results divided by the sum of true negative results plus number of false positive results">NCIT:C41395</a> <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/OBCS_0000059" title="A data item that refers to the proportion of negatives in a binary classification test which are correctly identified">OBCS:0000059</a> 
 
 .. dropdown:: Standard Operating Procedure (SOP)
 
@@ -1325,7 +1370,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C48443" title="An established procedure to be followed in carrying out a given operation or in a given situation">NCIT:C48443</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C48443" title="An established procedure to be followed in carrying out a given operation or in a given situation">NCIT:C48443</a> 
 
 .. dropdown:: Storage Space
 
@@ -1344,6 +1389,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Suitability
 
@@ -1362,6 +1408,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Technical Knowledge
 
@@ -1380,6 +1427,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Traceability
 
@@ -1398,6 +1446,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Training / re-training
 
@@ -1416,6 +1465,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Test (Examination method / procedure / process)
 
@@ -1434,6 +1484,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Tolerance
 
@@ -1452,7 +1503,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/GSSO_009002" title="The allowable deviation from a standard; a permissible difference">GSSO:009002</a><br/>
+      <a class="sd-badge sd-bg-secondary sd-text-white" href="http://purl.obolibrary.org/obo/GSSO_009002" title="The allowable deviation from a standard; a permissible difference">GSSO:009002</a> 
 
 .. dropdown:: Trueness
 
@@ -1471,6 +1522,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: User
 
@@ -1489,6 +1541,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: User Requirement Specification (URS)
 
@@ -1507,6 +1560,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
 .. dropdown:: Validation
 
@@ -1525,8 +1579,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C16237" title="The act of validating; finding or testing the truth of something">NCIT:C16237</a><br/>
-      <a class="sd-badge sd-bg-success sd-text-white" href="http://purl.obolibrary.org/obo/OBI_0302911" title="a planned process with objective to check that the accuracy or the quality of a claim or prediction satisfies some criteria and which is assessed by comparing with independent results">OBI:0302911</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C16237" title="The act of validating; finding or testing the truth of something">NCIT:C16237</a> <a class="sd-badge sd-bg-success sd-text-white" href="http://purl.obolibrary.org/obo/OBI_0302911" title="a planned process with objective to check that the accuracy or the quality of a claim or prediction satisfies some criteria and which is assessed by comparing with independent results">OBI:0302911</a> 
 
 .. dropdown:: Verification (Verification Plan, Schedule of Verification)
 
@@ -1545,7 +1598,7 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
-      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C45513" title="The act of reviewing, inspecting, testing, checking, auditing, or otherwise establishing and documenting whether items, processes, services, or documents conform to specified requirements. Compare to validation where suitability to purpose is also established">NCIT:C45513</a><br/>
+      <a class="sd-badge sd-bg-info sd-text-white" href="http://purl.obolibrary.org/obo/NCIT_C45513" title="The act of reviewing, inspecting, testing, checking, auditing, or otherwise establishing and documenting whether items, processes, services, or documents conform to specified requirements. Compare to validation where suitability to purpose is also established">NCIT:C45513</a> 
 
 .. dropdown:: Workbench
 
@@ -1564,4 +1617,5 @@ Here you will find definitions for common ISO 15189-related terms.
 
    .. raw:: html
 
+      
 
