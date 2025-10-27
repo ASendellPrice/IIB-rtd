@@ -18,10 +18,11 @@ with open("resources/glossary_intro_text.txt", "r") as intro_file:
 df = pd.read_excel("resources/iso_terms.xlsx")
 
 # Create output RST file
-with open("docs/source/glossary.rst", "w", encoding="utf-8") as f:
+with open("docs/source/glossary.rst", "w") as f:
     f.write("Glossary of ISO terms\n")
     f.write("=====================\n\n")
-    f.write(intro_text + "\n\n\n")
+    f.write(intro_text + "\n\n")
+    f.write("----\n\n")
 
     # Inject search box
     f.write(".. raw:: html\n\n")
