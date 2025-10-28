@@ -24,7 +24,7 @@ We have adapted the traditional laboratory SOP format to better suit bioinformat
    sop_guide_procedure
    sop_guide_quality_control_assurance
    sop_guide_interference_limitations
-   sop_results_reporting
-   sop_authorisation
-   sop_appendices
-   sop_revision_history
+   sop_guide_results_reporting
+   sop_guide_authorisation
+   sop_guide_appendices
+   sop_guide_change_history

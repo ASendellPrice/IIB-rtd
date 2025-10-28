@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = ''
+project = 'ISO in a Box'
 copyright = ''
 author = ''
 
