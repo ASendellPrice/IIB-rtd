@@ -1,6 +1,8 @@
 SOP Writing Guidelines for Bioinformatics Pipelines
 ====================================================
 
+.. include:: sop_guide_intro.rst
+
 .. toctree::
    :maxdepth: 2
    :hidden:

@@ -1,3 +1,5 @@
+.. _sop_guide_intro:
+
 Introduction
 ------------
 
