@@ -1,9 +1,6 @@
 SOP Writing Guidelines for Bioinformatics Pipelines
 ====================================================
 
-Introduction
-------------
-
 Standard Operating Procedures (SOPs) are essential documents that provide detailed, step-by-step instructions to ensure consistency, accuracy, and quality in performing specific tasks. Traditionally, SOPs have been used in wet-laboratory environments to standardise diagnostic procedures, for example the culture and identification of Mycobacterium tuberculosis (TB) or the detection of HIV using serological assays.
 
 As pathogen genomics becomes an integral part of infectious disease diagnostics and surveillance, there is an increasing need for SOPs tailored specifically to bioinformatics pipelines. Unlike laboratory SOPs, which focus on physical procedures and equipment, bioinformatics SOPs must describe digital workflows, computational tools, data management processes, and software dependencies. These SOPs serve as a reference for bioinformaticians and support staff, ensuring that analyses are conducted in a validated, reproducible, and auditable manner.
