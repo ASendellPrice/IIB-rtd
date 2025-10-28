@@ -11,24 +11,23 @@ As pathogen genomics becomes an integral part of infectious disease diagnostics 
 We have adapted the traditional laboratory SOP format to better suit bioinformatics workflows. In this guidance, we outline the key components of a bioinformatics SOP and provide practical advice for writing SOPs that meet regulatory and operational standards, in compliance with ISO 15189 requirements for quality and competence in medical laboratories. Each section includes guidance on content and style, as well as illustrative examples of what to include.
 
 
-
 .. toctree::
    :maxdepth: 2
    :hidden:
 
-    sop_guide_title_page
-    sop_guide_purpose
-    sop_guide_scope
-    sop_guide_cross_references
-    sop_guide_responsibilities
-    sop_guide_definitions
-    sop_guide_materials
-    sop_guide_health_safety_information_governance
-    sop_guide_data_types
-    sop_guide_procedure
-    sop_guide_quality_control_assurance
-    sop_guide_interference_limitations
-    sop_results_reporting
-    sop_authorisation
-    sop_appendices
-    sop_revision_history
+   sop_guide_title_page
+   sop_guide_purpose
+   sop_guide_scope
+   sop_guide_cross_references
+   sop_guide_responsibilities
+   sop_guide_definitions
+   sop_guide_materials
+   sop_guide_health_safety_information_governance
+   sop_guide_data_types
+   sop_guide_procedure
+   sop_guide_quality_control_assurance
+   sop_guide_interference_limitations
+   sop_results_reporting
+   sop_authorisation
+   sop_appendices
+   sop_revision_history
