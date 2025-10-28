@@ -18,7 +18,7 @@ We have adapted the traditional laboratory SOP format to better suit bioinformat
    sop_guide_cross_references
    sop_guide_responsibilities
    sop_guide_definitions
-   sop_guide_materials
+   sop_guide_resources
    sop_guide_health_safety_information_governance
    sop_guide_data_types
    sop_guide_procedure
