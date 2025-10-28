@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 
 # Get input and output file paths
 input_excel = "resources/iso_terms.xlsx"
@@ -14,6 +15,10 @@ ontology_colors = {
     "OBCS": "info",
     "default": "secondary"
 }
+
+# Function to create safe anchor names
+def make_anchor(term):
+    return re.sub(r'[^a-z0-9_]', '', term.lower().replace(" ", "_"))
 
 # Load glossary intro text
 with open(input_intro) as intro_file:
@@ -36,6 +41,10 @@ with open(output_rst, "w") as f:
     # Process each term in the DataFrame
     for _, row in df.iterrows():
         term = str(row.get("Term", "")).strip()
+        if not term or term.lower() == "nan":
+            continue
+
+        anchor = make_anchor(term)
         definition = str(row.get("Definition", "")).strip()
         example = str(row.get("Example usage", "")).strip()
         bio_def = str(row.get("Bioinformatics translation", "")).strip()
@@ -43,6 +52,7 @@ with open(output_rst, "w") as f:
         ontology_refs = str(row.get("Ontological reference(s)", "")).strip()
         ontology_links = str(row.get("Link to reference", "")).strip()
 
+        f.write(f".. _{anchor}:\n\n")
         f.write(f".. dropdown:: {term}\n\n")
         f.write(f"   {definition}\n\n")
 
