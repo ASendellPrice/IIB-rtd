@@ -19,8 +19,6 @@ To help you get started, you can download a ready-to-use Word template:
    :maxdepth: 2
    :hidden:
 
-   sop_guide_intro
-   sop_guide_title_page
    sop_guide_purpose
    sop_guide_scope
    sop_guide_cross_references
