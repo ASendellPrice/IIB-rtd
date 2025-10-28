@@ -52,8 +52,9 @@ with open(output_rst, "w") as f:
         ontology_refs = str(row.get("Ontological reference(s)", "")).strip()
         ontology_links = str(row.get("Link to reference", "")).strip()
 
-        f.write(f".. _{anchor}:\n\n")
         f.write(f".. dropdown:: {term}\n\n")
+        f.write(f"   .. raw:: html\n\n")
+        f.write(f"      <a id=\"{anchor}\"></a>\n\n")
         f.write(f"   {definition}\n\n")
 
         if example and example.lower() != "nan":
@@ -123,9 +124,12 @@ with open(output_rst, "w") as f:
        const hash = window.location.hash;
        if (hash) {
          const anchor = document.querySelector(hash);
-         if (anchor && anchor.nextElementSibling && anchor.nextElementSibling.tagName === 'DETAILS') {
-           anchor.nextElementSibling.setAttribute('open', '');
-           anchor.scrollIntoView({ behavior: 'smooth' });
+         if (anchor) {
+           const details = anchor.closest('details');
+           if (details) {
+             details.setAttribute('open', '');
+             details.scrollIntoView({ behavior: 'smooth' });
+           }
          }
        }
      });
