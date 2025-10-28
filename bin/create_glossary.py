@@ -34,7 +34,7 @@ with open(output_rst, "w") as f:
     f.write(intro_text + "\n\n")
     f.write("----\n\n")
 
-    # Insert search box
+    # Inject search box
     f.write(".. raw:: html\n\n")
     f.write('   <input type="text" id="glossarySearch" placeholder="Search glossary..." style="width: 100%; padding: 8px; margin-bottom: 16px; font-size: 1em;">\n\n')
 
@@ -52,8 +52,12 @@ with open(output_rst, "w") as f:
         ontology_refs = str(row.get("Ontological reference(s)", "")).strip()
         ontology_links = str(row.get("Link to reference", "")).strip()
 
-        f.write(f".. _{anchor}:\n\n")
-        f.write(f".. dropdown:: {term}\n\n")
+        # Inject anchor before dropdown
+        f.write(f".. raw:: html\n\n")
+        f.write(f"   <a id=\"{anchor}\"></a>\n\n")
+
+        # Dropdown with class for targeting
+        f.write(f".. dropdown:: {term}\n   :class: glossary-entry\n\n")
         f.write(f"   {definition}\n\n")
 
         if example and example.lower() != "nan":
@@ -123,9 +127,12 @@ with open(output_rst, "w") as f:
        const hash = window.location.hash;
        if (hash) {
          const anchor = document.querySelector(hash);
-         if (anchor && anchor.nextElementSibling && anchor.nextElementSibling.tagName === 'DETAILS') {
-           anchor.nextElementSibling.setAttribute('open', '');
-           anchor.scrollIntoView({ behavior: 'smooth' });
+         if (anchor) {
+           const next = anchor.nextElementSibling;
+           if (next && next.tagName === 'DETAILS' && next.classList.contains('glossary-entry')) {
+             next.setAttribute('open', '');
+             next.scrollIntoView({ behavior: 'smooth' });
+           }
          }
        }
      });
