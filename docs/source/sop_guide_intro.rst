@@ -1,8 +1,5 @@
-SOP Writing Guidelines for Bioinformatics Pipelines
-====================================================
-
 Introduction
-----------------
+============
 
 Standard Operating Procedures (SOPs) are essential documents that provide detailed, step-by-step instructions to ensure consistency, accuracy, and quality in performing specific tasks. Traditionally, SOPs have been used in wet-laboratory environments to standardise diagnostic procedures, for example the culture and identification of Mycobacterium tuberculosis (TB) or the detection of HIV using serological assays.
 
