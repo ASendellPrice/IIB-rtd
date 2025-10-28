@@ -33,6 +33,7 @@ with open(output_rst, "w") as f:
     f.write(".. raw:: html\n\n")
     f.write('   <input type="text" id="glossarySearch" placeholder="Search glossary..." style="width: 100%; padding: 8px; margin-bottom: 16px; font-size: 1em;">\n\n')
 
+    # Process each term in the DataFrame
     for _, row in df.iterrows():
         term = str(row.get("Term", "")).strip()
         definition = str(row.get("Definition", "")).strip()
