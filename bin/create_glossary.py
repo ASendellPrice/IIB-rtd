@@ -34,7 +34,7 @@ with open(output_rst, "w") as f:
     f.write(intro_text + "\n\n")
     f.write("----\n\n")
 
-    # Inject search box
+    # Insert search box
     f.write(".. raw:: html\n\n")
     f.write('   <input type="text" id="glossarySearch" placeholder="Search glossary..." style="width: 100%; padding: 8px; margin-bottom: 16px; font-size: 1em;">\n\n')
 
@@ -88,7 +88,7 @@ with open(output_rst, "w") as f:
                         f.write(f"{html} ")
                 f.write("\n\n")
 
-    # Inject JavaScript for live filtering and auto-close
+    # Inject JavaScript for live filtering, auto-close, and auto-open on anchor
     f.write(".. raw:: html\n\n")
     f.write("""   <script>
      // Live search filter
@@ -116,5 +116,17 @@ with open(output_rst, "w") as f:
            });
          }
        });
+     });
+
+     // Auto-open dropdown if linked via anchor
+     window.addEventListener('DOMContentLoaded', () => {
+       const hash = window.location.hash;
+       if (hash) {
+         const anchor = document.querySelector(hash);
+         if (anchor && anchor.nextElementSibling && anchor.nextElementSibling.tagName === 'DETAILS') {
+           anchor.nextElementSibling.setAttribute('open', '');
+           anchor.scrollIntoView({ behavior: 'smooth' });
+         }
+       }
      });
    </script>\n""")
