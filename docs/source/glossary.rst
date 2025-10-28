@@ -1594,4 +1594,16 @@ In clinical and research settings, the language and processes used in bioinforma
          }
        });
      });
+
+     // Auto-open dropdown if linked via anchor
+     window.addEventListener('DOMContentLoaded', () => {
+       const hash = window.location.hash;
+       if (hash) {
+         const anchor = document.querySelector(hash);
+         if (anchor && anchor.nextElementSibling && anchor.nextElementSibling.tagName === 'DETAILS') {
+           anchor.nextElementSibling.setAttribute('open', '');
+           anchor.scrollIntoView({ behavior: 'smooth' });
+         }
+       }
+     });
    </script>
