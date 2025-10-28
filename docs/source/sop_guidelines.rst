@@ -7,12 +7,13 @@ As pathogen genomics becomes an integral part of infectious disease diagnostics 
 
 We have adapted the traditional laboratory SOP format to better suit bioinformatics workflows. In this guidance, we outline the key components of a bioinformatics SOP and provide practical advice for writing SOPs that meet regulatory and operational standards, in compliance with ISO 15189 requirements for quality and competence in medical laboratories. Each section includes guidance on content and style, as well as illustrative examples of what to include.
 
-.. button-link:: https://github.com/your-org/your-repo/raw/main/templates/sop_template.docx
-   :color: primary
-   :expand:
+.. admonition:: Quick Start
+   To help you begin writing your own SOP, we've provided a downloadable Word template:
 
-   📄 Download SOP Template (Word)
+   .. button-link:: https://github.com/your-org/your-repo/raw/main/templates/sop_template.docx
+      :color: primary
 
+      📄 Download SOP Template (Word)
 
 .. toctree::
    :maxdepth: 2
