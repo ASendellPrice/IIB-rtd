@@ -52,12 +52,8 @@ with open(output_rst, "w") as f:
         ontology_refs = str(row.get("Ontological reference(s)", "")).strip()
         ontology_links = str(row.get("Link to reference", "")).strip()
 
-        # Inject anchor before dropdown
-        f.write(f".. raw:: html\n\n")
-        f.write(f"   <a id=\"{anchor}\"></a>\n\n")
-
-        # Dropdown with class for targeting
-        f.write(f".. dropdown:: {term}\n   :class: glossary-entry\n\n")
+        f.write(f".. _{anchor}:\n\n")
+        f.write(f".. dropdown:: {term}\n\n")
         f.write(f"   {definition}\n\n")
 
         if example and example.lower() != "nan":
@@ -92,7 +88,7 @@ with open(output_rst, "w") as f:
                         f.write(f"{html} ")
                 f.write("\n\n")
 
-    # Inject JavaScript for live filtering, auto-close, and auto-open on anchor
+    # Inject JavaScript for live filtering and auto-close
     f.write(".. raw:: html\n\n")
     f.write("""   <script>
      // Live search filter
@@ -120,20 +116,5 @@ with open(output_rst, "w") as f:
            });
          }
        });
-     });
-
-     // Auto-open dropdown if linked via anchor
-     window.addEventListener('DOMContentLoaded', () => {
-       const hash = window.location.hash;
-       if (hash) {
-         const anchor = document.querySelector(hash);
-         if (anchor) {
-           const next = anchor.nextElementSibling;
-           if (next && next.tagName === 'DETAILS' && next.classList.contains('glossary-entry')) {
-             next.setAttribute('open', '');
-             next.scrollIntoView({ behavior: 'smooth' });
-           }
-         }
-       }
      });
    </script>\n""")
