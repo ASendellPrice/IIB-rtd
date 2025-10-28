@@ -11,3 +11,4 @@ Contents
 .. toctree::
 
    glossary
+   sop_guidelines
