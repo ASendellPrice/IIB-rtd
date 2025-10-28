@@ -1,7 +1,7 @@
 Scope
 -----
 
-The Scope defines the boundaries of the procedure — what it covers, what it excludes, and who it applies to. This section ensures that users understand the exact context and applicability of the SOP, preventing misuse or misinterpretation. It should clearly specify the data types, sequencing platforms, and analytical processes that are included, as well as any limitations or exclusions.
+The :ref:`Scope <scope>` defines the boundaries of the :ref:`procedure <procedure>` — what it covers, what it excludes, and who it applies to. This section ensures that users understand the exact context and applicability of the SOP, preventing misuse or misinterpretation. It should clearly specify the data types, sequencing platforms, and analytical :ref:`processes <process>`that are included, as well as any limitations or exclusions.
 
 For bioinformatics SOPs, the scope may include details such as:
 
