@@ -1,5 +1,5 @@
 Resources & Tools
-========================================
+=================
 
 This section should provide a comprehensive list of all resources and tools needed to carry out the procedure. For bioinformatics procedures this may include:
 
@@ -9,11 +9,11 @@ This section should provide a comprehensive list of all resources and tools need
 
 - **Network / Server Access:** Describe required connections and permissions for internal or remote servers. 
 
-- **Reference Data / Databases:** Name, access location or URL, version/date, and reason for selection (e.g., gold-standard, curated). 
+- **Reference Data / Databases:** Name, access location or URL, version/date, and reason for selection (e.g., gold-standard, curated).
 
 
 
-.. admonition:: Example: HIV antiviral resistance
+.. admonition:: Example: HIV Antiviral Resistance Pipeline
 
    The following equipment, software, and reference data are required to perform this procedure:
 

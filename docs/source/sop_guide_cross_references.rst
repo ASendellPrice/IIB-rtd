@@ -1,7 +1,7 @@
 Cross-References
 ----------------
 
-This section lists other controlled documents and procedures that support or relate to this procedure. Cross-references ensure that users can easily identify associated SOPs, validation documents, and equipment instructions necessary for performing the procedure correctly and within the laboratory’s Quality Management System (QMS).
+This section lists other controlled documents and procedures that support or relate to this procedure. Cross-references ensure that users can easily identify associated SOPs, validation documents, and equipment instructions necessary for performing the procedure correctly and within the laboratory’s :ref:`Quality Management System (QMS) <quality_management_system_qms>`.
 
 What to Include:
 
@@ -13,10 +13,10 @@ What to Include:
 
 - **Version control:** When referencing documents not managed within the QMS, include version numbers or revision dates to ensure users access the correct version.  
 
-.. admonition:: Example: HIV Antiviral Resistance
+.. admonition:: Example: HIV Antiviral Resistance Pipeline
 
     The following documents support or are directly related to this procedure:
     
-    - **SOP011:** Overview of HIV Characterisation for Resistance Mutations by Next Generation Sequencing
-    - **SOP045:** Using the NextSeq 550
-    - **SOP001EVV:** Validation of HIV Resistance Testing by Next Generation Sequencing
+    - **SOP011:** Overview of HIV Characterisation for Resistance Mutations by Next Generation Sequencing [v1.2, 2023-05-15]
+    - **SOP045:** Using the NextSeq 550 [v3.0, 2022-11-10]
+    - **SOP001EVV:** Validation of HIV Resistance Testing by Next Generation Sequencing [v2.1, 2023-01-20]
