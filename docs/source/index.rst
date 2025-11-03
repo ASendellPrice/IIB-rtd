@@ -1,9 +1,10 @@
-ISO in a Box
-===================================
+Welcome
+=======
 
 .. toctree::
    :hidden:
 
+   index
    glossary
    sop_guidelines
    coding_guidelines
