@@ -4,8 +4,9 @@ ISO in a Box
 .. toctree::
    :hidden:
 
-   sop_guidelines
    glossary
+   sop_guidelines
+   coding_guidelines
 
 Welcome to the ISO in a Box documentation!
 ------------------------------------------
