@@ -11,7 +11,8 @@ What to Include:
 - **Verification Procedures:** Outline the steps taken to verify the pipeline's performance, including the use of control datasets, benchmarking against known standards, and periodic re-validation.
 
 
-.. dropdown:: Example: HIV Antiviral Resistance Pipeline
+.. dropdown:: 💡 Example: HIV Antiviral Resistance Pipeline
+   :open:
 
    Quality control checks are integrated at multiple stages of the pipeline to ensure data integrity and accuracy of results. Key QC measures include:
    

@@ -11,7 +11,8 @@ What to Include:
 - **Scope of Validation:** Clarify the contexts in which the procedure has been validated.
 
 
-.. dropdown:: Example: HIV Antiviral Resistance Pipeline
+.. dropdown:: 💡 Example: HIV Antiviral Resistance Pipeline
+   :open:
 
    The procedure is validated to detect HIV drug resistance mutations present at a minimum variant allele frequency of 5% in samples with a minimum sequencing coverage depth of 100x across the pol gene region. Variants below this threshold may not be reliably detected.
 

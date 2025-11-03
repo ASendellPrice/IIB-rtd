@@ -11,7 +11,8 @@ What to Include:
 - **Responsibilities:** Describe the specific duties for each role (e.g. pipeline execution, QC review, result authorisation, system maintenance).  
 
 
-.. dropdown:: Example: HIV Antiviral Resistance Pipeline
+.. dropdown:: 💡 Example: HIV Antiviral Resistance Pipeline
+   :open:
 
    +------------------------+------------------------------------------------------------+
    | **Role**               | **Responsibility**                                         |

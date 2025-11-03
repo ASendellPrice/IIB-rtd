@@ -10,7 +10,8 @@ For bioinformatics SOPs this section will typically be brief, but may include:
 - **Information Governance:** Detail any data protection and confidentiality requirements, including compliance with regulations (this will vary by country/institution, e.g. GDPR in Europe, HIPAA in the USA etc). Specify how sensitive data should be handled, stored, and shared, as well as any necessary access controls.
 
 
-.. dropdown:: Example: HIV Antiviral Resistance Pipeline
+.. dropdown:: 💡 Example: HIV Antiviral Resistance Pipeline
+   :open:
 
    This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury. 
    
