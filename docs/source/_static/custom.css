@@ -1,16 +1,23 @@
-div.hiv_example_content div.sd-dropdown {
-    background-color: #e6f2ff; /* light blue background */
+/* Target the dropdown inside the container */
+div.hiv_example_content > div.sd-dropdown {
+    background-color: #e6f2ff;  /* light blue background */
     border: 1px solid #b3d1ff;
     border-radius: 6px;
     padding: 1em;
     margin-top: 1em;
 }
 
-div.hiv_example_content summary {
-    background-color: #007acc; /* blue header */
+/* Style the clickable summary/header */
+div.hiv_example_content > div.sd-dropdown > summary {
+    background-color: #007acc;  /* blue header */
     color: white;
     padding: 0.5em 1em;
     font-weight: bold;
     border-radius: 4px;
     cursor: pointer;
+}
+
+/* Optional: padding inside dropdown content */
+div.hiv_example_content > div.sd-dropdown .sd-content {
+    padding: 0.5em 1em;
 }
