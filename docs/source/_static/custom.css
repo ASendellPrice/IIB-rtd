@@ -1,26 +1,27 @@
-/* Target the dropdown inside the container */
+/* Entire dropdown box */
 div.hiv_example_content > div.sd-dropdown {
-    background-color: #e6f2ff; /* light blue background for entire box */
-    border: 1px solid #b3d1ff;
-    border-radius: 6px;
-    padding: 0; /* padding goes inside content */
-    margin-top: 1em;
+    background-color: #e6f2ff !important; /* light blue background */
+    border: 1px solid #b3d1ff !important;
+    border-radius: 6px !important;
+    margin-top: 1em !important;
 }
 
-/* Style the clickable header button */
+/* Header button */
 div.hiv_example_content > div.sd-dropdown > button.sd-dropdown__toggle {
-    background-color: #007acc; /* blue header */
-    color: white;
-    padding: 0.5em 1em;
+    background-color: #007acc !important; /* blue header */
+    color: white !important;
     font-weight: bold;
-    border: none;
-    border-radius: 4px 4px 0 0; /* round top corners only */
+    border: none !important;
+    border-radius: 6px 6px 0 0 !important;
     cursor: pointer;
     width: 100%;
     text-align: left;
+    padding: 0.5em 1em !important;
 }
 
-/* Style the content inside the dropdown */
-div.hiv_example_content > div.sd-dropdown > .sd-dropdown__content {
-    padding: 1em;
+/* Dropdown content */
+div.hiv_example_content > div.sd-dropdown > div.sd-dropdown__content {
+    background-color: #e6f2ff !important; /* same light blue as container */
+    padding: 1em !important;
+    border-radius: 0 0 6px 6px !important;
 }
