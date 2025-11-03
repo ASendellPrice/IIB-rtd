@@ -13,7 +13,7 @@ What to Include:
 
 - **Version control:** When referencing documents not managed within the QMS, include version numbers or revision dates to ensure users access the correct version.  
 
-.. admonition:: Example: HIV Antiviral Resistance Pipeline
+.. dropdown:: Example: HIV Antiviral Resistance Pipeline
 
     The following documents support or are directly related to this procedure:
     

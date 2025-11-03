@@ -11,7 +11,7 @@ What to Include:
 
 - **Analysis Selection:** Describe how the data type influences the selection of analysis tools, algorithms, and parameters. For example, certain variant callers may be optimised for short reads versus long reads.
 
-.. admonition:: Example: HIV Antiviral Resistance Pipeline
+.. dropdown:: Example: HIV Antiviral Resistance Pipeline
 
    This procedure is designed to process 150bp paired-end FASTQ files generated using the Illumina NextSeq platform. Each sample should have two FASTQ files (.fastq or .fastq.gz) representing the forward and reverse reads.
 
