@@ -1,0 +1,17 @@
+/* Style for dropdown content */
+details.hiv_example_content {
+  background-color: #e6f2ff; /* light blue background */
+  border: 1px solid #b3d1ff;
+  border-radius: 6px;
+  padding: 1em;
+  margin-top: 1em;
+}
+
+/* Style for dropdown header */
+details.hiv_example_content summary {
+  background-color: #007acc; /* blue header */
+  color: white;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border-radius: 4px;
+}
