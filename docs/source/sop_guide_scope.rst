@@ -1,15 +1,14 @@
 Scope
 =====
 
-The :ref:`Scope <scope>` defines the boundaries of the :ref:`procedure <procedure>` — what it covers, what it excludes, and who it applies to. This section ensures that users understand the exact context and applicability of the procedure, preventing misuse or misinterpretation.
+The scope section defines the boundaries of the :ref:`procedure <procedure>` — what it covers, what it excludes, and who it applies to. It ensures that users understand the exact context and applicability of the procedure, helping to prevent misuse or misinterpretation.
 
 Depending on the type of procedure being documented, the scope may include:
 
-- **Types of data or samples:** What specific data types, sample types, equipment, or materials the procedure is designed for.
-- **Technologies and methods:** The specific technologies, platforms, or methodologies that the procedure applies to.
-- **Personnel:** Which roles or individuals are authorised to perform the procedure.
-- **Limitations:** Any specific limitations or exclusions that users should be aware of.
-
+- **Types of data or samples:** The specific data formats, sample types, equipment, or materials the procedure is designed for.
+- **Technologies and methods:** The platforms, tools, or methodologies the procedure applies to.
+- **Personnel:** The roles or individuals authorised to perform or oversee the procedure.
+- **Limitations:** Any exclusions, constraints, or unsupported scenarios users should be aware of.
 
 -----
 
@@ -37,17 +36,17 @@ Depending on the type of procedure being documented, the scope may include:
 
    .. tab-item:: 🔬 Lab procedure
 
-      .. admonition:: Example SOP content for nucleic acid extraction procedure
+      .. admonition:: Example SOP content for a nucleic acid extraction procedure
          :class: hint
 
          Add content for lab procedure scope here.
 
    .. tab-item:: 💻 Code update & review
 
-      .. admonition:: Example SOP content for code update and review procedure
+      .. admonition:: Example SOP content for a code update and review procedure
          :class: hint
 
-         This SOP is primarily concerned with ensuring that changes to software are authorised, moderated and reviewed to ensure consistency with organisational policies on coding style. The following related processes are covered by other SOPs and are not covered here: 
+         This SOP is primarily concerned with ensuring that changes to software are authorised, moderated, and reviewed to ensure consistency with organisational policies on coding style. The following related processes are covered by other SOPs and are not included here:
 
-         - Validation and verification of software and pipelines
+         - Validation and verification of software and pipelines  
          - Development and tracking of coding competencies
