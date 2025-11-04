@@ -10,10 +10,15 @@ What to Include:
 - **Roles involved:** Identify all personnel responsible for performing, reviewing, or approving steps within the procedure.
 - **Responsibilities:** Describe the specific duties for each role (e.g. pipeline execution, QC review, result authorisation, system maintenance).  
 
+-----
 
-.. dropdown:: 💡 Example: HIV Antiviral Resistance Pipeline
-   :open:
+Example: HIV Antiviral Resistance Pipeline
+----------------------------------------
 
+.. admonition:: Example
+   :class: tip
+
+   The table below outlines the key roles and their associated responsibilities for the HIV Antiviral Resistance Pipeline SOP:
    +------------------------+------------------------------------------------------------+
    | **Role**               | **Responsibility**                                         |
    +========================+============================================================+

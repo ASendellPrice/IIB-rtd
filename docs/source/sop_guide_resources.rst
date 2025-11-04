@@ -11,10 +11,13 @@ This section should provide a comprehensive list of all resources and tools need
 
 - **Reference Data / Databases:** Name, access location or URL, version/date, and reason for selection (e.g., gold-standard, curated).
 
+-----
 
+Example: HIV Antiviral Resistance Pipeline
+----------------------------------------
 
-.. dropdown:: 💡 Example: HIV Antiviral Resistance Pipeline
-   :open:
+.. admonition:: Example
+   :class: tip
 
    The following equipment, software, and reference data are required to perform this procedure:
 

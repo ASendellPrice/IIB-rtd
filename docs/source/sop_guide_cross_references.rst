@@ -11,10 +11,15 @@ What to Include:
 
 - **Equipment or instrument SOPs:** Instructions for operating or maintaining any sequencing or computational infrastructure used.  
 
-- **Version control:** When referencing documents not managed within the QMS, include version numbers or revision dates to ensure users access the correct version.  
+- **Version control:** When referencing documents not managed within the QMS, include version numbers or revision dates to ensure users access the correct version.
 
-.. dropdown:: 💡 Example: HIV Antiviral Resistance Pipeline
-   :open:
+-----
+
+Example: HIV Antiviral Resistance Pipeline
+----------------------------------------
+
+.. admonition:: Example
+   :class: tip
 
     The following documents support or are directly related to this procedure:
     
