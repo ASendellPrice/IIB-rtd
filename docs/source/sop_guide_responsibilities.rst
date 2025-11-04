@@ -17,12 +17,14 @@ What to Include:
 
    The table below outlines the key roles and their associated responsibilities for the HIV Antiviral Resistance Pipeline SOP:
 
-   +------------------------+-------------------------------------------------------------------------------------------------------------------------+
-   | **Role**               | **Responsibility**                                                                                                      |
-   +========================+=========================================================================================================================+
-   | Bioinformatician       | Responsible for the end-to-end running and monitoring of the pipeline, ensuring all steps are completed as per the SOP. |
-   +------------------------+-------------------------------------------------------------------------------------------------------------------------+
-   | Senior Bioinformatician| Authorises final results prior to report generation.                                                                    |
-   +------------------------+-------------------------------------------------------------------------------------------------------------------------+
-   | Head of Laboratory     | Oversees the overall process, ensuring compliance with laboratory standards and authorising final clinical reports.     |
-   +------------------------+-------------------------------------------------------------------------------------------------------------------------+
+   +------------------------+------------------------------------------------------------------------+
+   | **Role**               | **Responsibility**                                                     |
+   +========================+========================================================================+
+   | Bioinformatician       | Responsible for the end-to-end running and monitoring of the pipeline, |
+   |                        | ensuring all steps are completed as per the SOP.                       |
+   +------------------------+------------------------------------------------------------------------+
+   | Senior Bioinformatician| Authorises final results prior to report generation.                   |
+   +------------------------+------------------------------------------------------------------------+
+   | Head of Laboratory     | Oversees the overall process, ensuring compliance with laboratory      |
+   |                        | standards and authorising final clinical reports.                      |
+   +------------------------+------------------------------------------------------------------------+
