@@ -20,7 +20,7 @@ For bioinformatics SOPs, the scope may include details such as:
 -----
 
 Example: HIV Antiviral Resistance Pipeline
-----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. admonition:: Example
    :class: tip
