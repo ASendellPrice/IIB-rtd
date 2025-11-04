@@ -11,11 +11,11 @@ Depending on the type of procedure, the purpose may describe:
 
 -----
 
-*Examples of scope content for different types of procedures:*
+.. rubric:: Purpose examples for different procedure types:
 
 .. tab-set::
 
-   .. tab-item:: 🧬 Bioinformatics pipeline
+   .. tab-item:: 🧬 Bioinformatics
 
       .. admonition:: Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance
          :class: hint

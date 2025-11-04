@@ -12,11 +12,11 @@ Depending on the type of procedure being documented, the scope may include:
 
 -----
 
-*Examples of scope content for different types of procedures:*
+.. rubric:: Scope examples for different procedure types:
 
 .. tab-set::
 
-   .. tab-item:: 🧬 Bioinformatics pipeline
+   .. tab-item:: 🧬 Bioinformatics
 
       .. admonition:: Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance
          :class: hint
