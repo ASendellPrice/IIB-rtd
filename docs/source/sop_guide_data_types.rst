@@ -13,10 +13,7 @@ What to Include:
 
 -----
 
-Example: HIV Antiviral Resistance Pipeline
-----------------------------------------
-
-.. admonition:: Example
+.. admonition:: Example – HIV Antiviral Resistance Pipeline
    :class: tip
 
    This procedure is designed to process 150bp paired-end FASTQ files generated using the Illumina NextSeq platform. Each sample should have two FASTQ files (.fastq or .fastq.gz) representing the forward and reverse reads.

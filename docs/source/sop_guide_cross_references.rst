@@ -15,10 +15,7 @@ What to Include:
 
 -----
 
-Example: HIV Antiviral Resistance Pipeline
-----------------------------------------
-
-.. admonition:: Example
+.. admonition:: Example – HIV Antiviral Resistance Pipeline
    :class: tip
 
     The following documents support or are directly related to this procedure:

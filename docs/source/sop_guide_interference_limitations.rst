@@ -12,10 +12,7 @@ What to Include:
 
 -----
 
-Example: HIV Antiviral Resistance Pipeline
-----------------------------------------
-
-.. admonition:: Example
+.. admonition:: Example – HIV Antiviral Resistance Pipeline
    :class: tip
 
    The procedure is validated to detect HIV drug resistance mutations present at a minimum variant allele frequency of 5% in samples with a minimum sequencing coverage depth of 100x across the pol gene region. Variants below this threshold may not be reliably detected.

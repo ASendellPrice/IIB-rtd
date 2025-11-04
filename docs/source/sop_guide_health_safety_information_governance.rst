@@ -11,10 +11,7 @@ For bioinformatics SOPs this section will typically be brief, but may include:
 
 -----
 
-Example: HIV Antiviral Resistance Pipeline
-----------------------------------------
-
-.. admonition:: Example
+.. admonition:: Example – HIV Antiviral Resistance Pipeline
    :class: tip
 
    This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury. 

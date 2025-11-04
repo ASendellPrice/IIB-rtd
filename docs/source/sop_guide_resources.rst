@@ -13,10 +13,7 @@ This section should provide a comprehensive list of all resources and tools need
 
 -----
 
-Example: HIV Antiviral Resistance Pipeline
-----------------------------------------
-
-.. admonition:: Example
+.. admonition:: Example – HIV Antiviral Resistance Pipeline
    :class: tip
 
    The following equipment, software, and reference data are required to perform this procedure:

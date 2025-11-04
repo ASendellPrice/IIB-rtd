@@ -12,14 +12,11 @@ What to Include:
 
 -----
 
-Example: HIV Antiviral Resistance Pipeline
-----------------------------------------
-
-.. admonition:: Example
+.. admonition:: Example – HIV Antiviral Resistance Pipeline
    :class: tip
 
    The table below outlines the key roles and their associated responsibilities for the HIV Antiviral Resistance Pipeline SOP:
-   
+
    +------------------------+------------------------------------------------------------+
    | **Role**               | **Responsibility**                                         |
    +========================+============================================================+
