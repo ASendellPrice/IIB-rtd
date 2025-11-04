@@ -20,7 +20,7 @@ Depending on the procedure, this section may include:
       .. admonition:: Example content for a bioinformatics pipeline for detecting HIV antiviral resistance
          :class: hint
 
-         **Health & Safety Consideration**
+         **Health & Safety Considerations**
 
          This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury. 
    

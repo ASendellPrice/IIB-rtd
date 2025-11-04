@@ -1,7 +1,7 @@
 Cross-References
 ----------------
 
-The cross-references section of an SOP should list other controlled documents and procedures that support or relate to the procedure. Cross-references ensure that users can easily identify associated SOPs, validation documents, and equipment instructions necessary for performing the procedure correctly.
+The 'Cross-References' section of an SOP should list other controlled documents that support or relate to the procedure. Cross-references ensure that users can easily identify associated SOPs, validation documents, and equipment instructions necessary for performing the procedure correctly.
 
 Depending on the procedure, cross-references may include:
 
@@ -14,8 +14,8 @@ Depending on the procedure, cross-references may include:
 - **Guidelines and standards:** Relevant internal or external guidelines, such as laboratory standards, regulatory requirements, or best practice documents.
 
 .. amnodition:: Best practices for cross-references
-   :class: tip
-
+   :class: note
+   
    If the organisation does not have an electronic document management system (eQMS) cross references should include version numbers and revision dates to ensure users access the correct version.
 
 -----
