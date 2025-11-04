@@ -1,27 +1,60 @@
 Resources & Tools
 =================
 
-This section should provide a comprehensive list of all resources and tools needed to carry out the procedure. For bioinformatics procedures this may include:
+The 'Resources & Tools' section of an SOP should detail all resources and tools needed to carry out the procedure. Depending on the nature of the procedure, this may include:
 
-- **Hardware:** Type of workstation or computer and any minimum specifications. Include servers or network drives if used. 
+- **Equipment:** Any hardware, instruments, or devices required to perform the procedure.
 
-- **Software:** Name, version, purpose in the workflow, and access method (e.g., SSH client, GUI, command-line). 
+- **Software:** Any software applications, platforms, or tools necessary for the procedure.
 
-- **Network / Server Access:** Describe required connections and permissions for internal or remote servers. 
+- **Reference Data:** Any databases, reference genomes, or datasets required for analysis.
 
-- **Reference Data / Databases:** Name, access location or URL, version/date, and reason for selection (e.g., gold-standard, curated).
+- **Access Requirements:** Any necessary permissions, accounts, or network access needed to use the resources.
+
+- **Consumables:** Any reagents, kits, or materials required for the procedure (more relevant for lab-based SOPs).
 
 -----
 
-.. admonition:: Example – HIV Antiviral Resistance Pipeline
-   :class: tip
+.. rubric:: Examples for different procedure types:
 
-   The following equipment, software, and reference data are required to perform this procedure:
+.. tab-set::
 
-   - **Computer hardware:** PC or equivalent workstation capable of accessing the sequence server.
+   .. tab-item:: 🧬 Bioinformatics
+
+      .. admonition:: Example content for a bioinformatics pipeline for detecting HIV antiviral resistance
+         :class: hint
+         
+         The following equipment, software, and reference data are required to perform this procedure:
+
+         - **Computer hardware:** PC or equivalent workstation capable of accessing the sequence server.
    
-   - **Software:** SSH client software such as PuTTY, MobaXterm, or Windows Subsystem for Linux (WSL) for connecting to the laboratory’s sequence server.
+         - **Software:** SSH client software such as PuTTY, MobaXterm, or Windows Subsystem for Linux (WSL) for connecting to the laboratory’s sequence server.
    
-   - **Network access:** Access to the laboratory’s network with the sequence server mapped as a network drive.
+         - **Network access:** Access to the laboratory’s network with the sequence server mapped as a network drive.
    
-   - **Internet access:** Required to access the Stanford HIV Drug Resistance Database (https://hivdb.stanford.edu/). This database is selected because it is the current internationally recognised gold standard for HIV drug resistance typing.
+         - **Internet access:** Required to access the Stanford HIV Drug Resistance Database (https://hivdb.stanford.edu/). This database is selected because it is the current internationally recognised gold standard for HIV drug resistance typing.
+
+   .. tab-item:: 🎓 Training
+
+      .. admonition:: Example content for a training procedure
+         :class: hint
+
+         Add text here.
+
+   .. tab-item:: 🔬 Lab procedure
+
+      .. admonition:: Example content for a nucleic acid extraction procedure
+         :class: hint
+
+         Add text here.
+
+   .. tab-item:: 💻 Code update & review
+   
+      .. admonition:: Example content for a code update and review procedure
+         :class: hint
+
+         The following hardware and software are required to perform this procedure: 
+
+         **Computer hardware:** PC or equivalent workstation that has access to the internet and the organisation version control platform (Gitlab) 
+
+         **Software:** A text editor capable of making changes to code and committing them back to version control (e.g. VSCode); a web-browser capable of connecting to the organisation VCS (Gitlab).

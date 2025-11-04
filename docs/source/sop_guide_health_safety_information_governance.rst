@@ -17,33 +17,37 @@ Depending on the procedure, this section may include:
 
    .. tab-item:: 🧬 Bioinformatics
 
-      .. admonition:: Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance
+      .. admonition:: Example content for a bioinformatics pipeline for detecting HIV antiviral resistance
          :class: hint
+
+         **Health & Safety Consideration**
 
          This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury. 
    
          All users must comply with organisational health and safety policies and report any hazards, near misses, or incidents through the appropriate channels.
    
+         **Information Governance Requirements**
+         
          Patient and sequencing data must be handled in accordance with Information Governance and Data Protection policies. Personally identifiable information (PII) must never be stored outside secure, access-controlled systems (e.g., LIMS). Data transfers must occur only via approved, encrypted connections, and users must ensure that all analysis systems and accounts are password-protected and access-controlled. 
 
 
    .. tab-item:: 🎓 Training
 
-      .. admonition:: Example SOP content for a training procedure
+      .. admonition:: Example content for a training procedure
          :class: hint
 
          Add text here.
 
    .. tab-item:: 🔬 Lab procedure
 
-      .. admonition:: Example SOP content for a nucleic acid extraction procedure
+      .. admonition:: Example content for a nucleic acid extraction procedure
          :class: hint
 
          Add text here.
 
    .. tab-item:: 💻 Code update & review
    
-      .. admonition:: Example SOP content for a code update and review procedure
+      .. admonition:: Example content for a code update and review procedure
          :class: hint
 
          This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury.

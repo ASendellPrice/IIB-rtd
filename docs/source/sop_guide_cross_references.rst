@@ -5,8 +5,7 @@ The cross-references section of an SOP should list other controlled documents an
 
 Depending on the procedure, cross-references may include:
 
-- **Associated SOPs:** Related procedures that describe upstream or downstream processes, such as 
-wet-lab procedures or reporting workflows.
+- **Associated SOPs:** Related procedures that describe upstream or downstream processes, such as wet-lab procedures or reporting workflows.
 
 - **Validation and verification documents:** References to documents establishing the analytical performance, accuracy, and reproducibility of the pipeline or procedure.  
 
