@@ -5,10 +5,7 @@ This section provides a clear and concise statement of why this procedure exists
 
 -----
 
-Example: HIV Antiviral Resistance Pipeline
-----------------------------------------
-
-.. admonition:: Example
+.. admonition:: Example – HIV Antiviral Resistance Pipeline
    :class: tip
    
    The purpose of this procedure is to assemble and analyse sequence data generated from next-generation sequencing (NGS) of HIV samples to produce high-quality consensus genomes from which antiviral resistance can be inferred. This procedure forms part of the HIV genomic testing workflow, following sequencing and preceding clinical reporting. 
