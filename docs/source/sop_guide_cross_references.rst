@@ -1,17 +1,23 @@
 Cross-References
 ----------------
 
-This section should list other controlled documents and procedures that support or relate to the procedure. Cross-references ensure that users can easily identify associated SOPs, validation documents, and equipment instructions necessary for performing the procedure correctly and within the laboratory’s :ref:`Quality Management System (QMS) <quality_management_system_qms>`.
+The cross-references section of an SOP should list other controlled documents and procedures that support or relate to the procedure. Cross-references ensure that users can easily identify associated SOPs, validation documents, and equipment instructions necessary for performing the procedure correctly.
 
 Depending on the procedure, cross-references may include:
 
-- **Associated laboratory SOPs:** Related procedures that describe upstream or downstream processes, such as wet-lab preparation or reporting workflows.  
+- **Associated SOPs:** Related procedures that describe upstream or downstream processes, such as 
+wet-lab procedures or reporting workflows.
 
 - **Validation and verification documents:** References to documents establishing the analytical performance, accuracy, and reproducibility of the pipeline or procedure.  
 
-- **Equipment or instrument SOPs:** Instructions for using specific laboratory instruments or software platforms required for the procedure.  
+- **Equipment or instrument SOPs:** Instructions for using specific laboratory instruments or software platforms required for the procedure.
 
-- **Version control:** When referencing documents not managed within the QMS, include version numbers or revision dates to ensure users access the correct version.
+- **Guidelines and standards:** Relevant internal or external guidelines, such as laboratory standards, regulatory requirements, or best practice documents.
+
+.. amnodition:: Best practices for cross-references
+   :class: tip
+
+   If the organisation does not have an electronic document management system (eQMS) cross references should include version numbers and revision dates to ensure users access the correct version.
 
 -----
 

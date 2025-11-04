@@ -1,7 +1,7 @@
 Scope
 =====
 
-The scope section defines the boundaries of the :ref:`procedure <procedure>` — what it covers, what it excludes, and who it applies to. It ensures that users understand the exact context and applicability of the procedure, helping to prevent misuse or misinterpretation.
+The scope section of an SOP should define the boundaries of the :ref:`procedure <procedure>` i.e. what it covers, what it excludes, and who it applies to. It ensures that users understand the exact context and applicability of the procedure, helping to prevent misuse or misinterpretation.
 
 Depending on the type of procedure being documented, the scope may include:
 
