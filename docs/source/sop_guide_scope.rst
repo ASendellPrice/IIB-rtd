@@ -5,14 +5,14 @@ The scope section defines the boundaries of the :ref:`procedure <procedure>` —
 
 Depending on the type of procedure being documented, the scope may include:
 
-- **Types of data or samples:** The specific data formats, sample types, equipment, or materials the procedure is designed for.
-- **Technologies and methods:** The platforms, tools, or methodologies the procedure applies to.
-- **Personnel:** The roles or individuals authorised to perform or oversee the procedure.
-- **Limitations:** Any exclusions, constraints, or unsupported scenarios users should be aware of.
+- *Types of data or samples:* The specific data formats, sample types, equipment, or materials the procedure is designed for.
+- *Technologies and methods:* The platforms, tools, or methodologies the procedure applies to.
+- *Personnel:* The roles or individuals authorised to perform or oversee the procedure.
+- *Limitations:* Any exclusions, constraints, or unsupported scenarios users should be aware of.
 
 -----
 
-.. rubric:: Scope examples for different procedure types:
+.. rubric:: Examples for different procedure types:
 
 .. tab-set::
 
