@@ -1,13 +1,13 @@
 Purpose of the Procedure
 ========================
 
-The :ref:`Purpose <purpose>` provides a clear and concise statement of why the procedure exists and its intended role within the organisation. It should outline the specific goals the procedure aims to achieve, and explain how it contributes to broader workflows, services, or regulatory requirements. This helps users understand the value and relevance of the procedure in context.
+The 'Purpose' section of an SOP should provide a clear and concise statement of why the procedure exists and its intended role within the organisation/laboratory. It should outline the specific goals the procedure aims to achieve, and explain how it contributes to broader workflows, services, or regulatory requirements. This helps users understand the value and relevance of the procedure in context.
 
 Depending on the type of procedure, the purpose may describe:
 
 - The operational or clinical need the procedure addresses
 - The outcomes or deliverables it is designed to produce
-- Its position within a larger workflow or system
+- Its position within a larger workflow or diagnostic service
 
 -----
 
