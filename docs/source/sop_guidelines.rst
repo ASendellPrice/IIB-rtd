@@ -49,7 +49,7 @@ To overcome these challenges, we propose a modular approach to SOP writing. This
 
 The following diagram illustrates the modular structure of SOPs using this approach:
 
-.. image:: ../_static/sop_building_blocks.png
+.. image:: images/SOP_building_blocks.png
    :alt: Modular SOP Structure
    :align: center
    :width: 600px
