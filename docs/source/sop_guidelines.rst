@@ -1,29 +1,8 @@
 SOP Writing Guidelines for Bioinformatics Pipelines
 ====================================================
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   sop_guide_purpose
-   sop_guide_scope
-   sop_guide_cross_references
-   sop_guide_responsibilities
-   sop_guide_definitions
-   sop_guide_resources
-   sop_guide_health_safety_information_governance
-   sop_guide_data_types
-   sop_guide_procedure
-   sop_guide_quality_control_assurance
-   sop_guide_interference_limitations
-   sop_guide_results_reporting
-   sop_guide_authorisation
-   sop_guide_appendices
-   sop_guide_change_history
-
-
-What is an SOP?
----------------
+Introduction
+------------
 
 :ref:`Standard Operating Procedures (SOPs) <standard_operating_procedure_sop>` are detailed, written instructions that describe how to perform specific tasks or processes consistently and correctly. SOPs are essential for ensuring quality, accuracy, and reproducibility in various settings, particularly in regulated environments such as clinical laboratories.
 
@@ -92,3 +71,24 @@ To help you get started, you can download a ready-to-use Word template containin
    :color: primary
 
    📄 Download SOP Template (Word)
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   sop_guide_purpose
+   sop_guide_scope
+   sop_guide_cross_references
+   sop_guide_responsibilities
+   sop_guide_definitions
+   sop_guide_resources
+   sop_guide_health_safety_information_governance
+   sop_guide_data_types
+   sop_guide_procedure
+   sop_guide_quality_control_assurance
+   sop_guide_interference_limitations
+   sop_guide_results_reporting
+   sop_guide_authorisation
+   sop_guide_appendices
+   sop_guide_change_history
