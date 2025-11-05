@@ -27,9 +27,11 @@ What is an SOP?
 
 :ref:`Standard Operating Procedures (SOPs) <standard_operating_procedure_sop>` are detailed, written instructions that describe how to perform specific tasks or processes consistently and correctly. SOPs are essential for ensuring quality, accuracy, and reproducibility in various settings, particularly in regulated environments such as clinical laboratories.
 
-The use of SOPs in clinical laboratories has traditionally focused on wet-laboratory procedures, where they provide step-by-step guidance for laboratory personnel to follow when performing diagnostic procedures. Examples of such procedures include, the culture and identification of *Mycobacterium tuberculosis* (TB) or the detection of HIV using serological assays etc. As such the evolution of SOPs has historically been closely tied to physical laboratory workflows. 
+The use of SOPs in clinical laboratories has traditionally focused on wet-laboratory procedures, where they provide step-by-step guidance for laboratory personnel to follow when performing diagnostic procedures. Examples of such procedures include, the culture and identification of *Mycobacterium tuberculosis* (TB) or the detection of HIV using serological assays. As such the evolution of SOPs has historically been closely tied to physical laboratory workflows.
 
 However, as genomics becomes an ever more integral part of disease diagnostics and pathogen surveillance, there is an increasing need for SOPs tailored specifically to bioinformatics pipelines. Unlike laboratory SOPs, which focus on physical procedures and equipment, bioinformatics SOPs must describe digital workflows, computational tools, data management processes, and software dependencies. Consequently existing SOP structures and formats designed for wet-lab procedures may not be fully appropriate for documenting bioinformatics workflows.
+
+Existing SOP templates are also unsuited to the diverse range of other procedures that may require SOP documentation within a modern clinical laboratory setting. For example, SOPs may be needed to document training procedures for new staff, code update and review processes for software, or verification and validation protocols for new analytical methods or examinations.
 
 
 Defining a universal SOP template?
@@ -61,14 +63,21 @@ SOP writing guidance
 --------------------
 
 On the following pages you will find detailed writing guidance for each of the building block sections illustrated above. Each section includes:
+
 - A description of the section's purpose and importance.
+
 - Guidance on what content to include.
+
 - Example content for different types of SOPs (e.g., bioinformatics pipelines, laboratory procedures, training protocols) as appropriate.
 
 Throughout the guidance we have focussed on four main SOP types:
+
 - Bioinformatics Pipelines: SOPs that describe computational workflows for analysing biological data, such as pathogen genomics pipelines.
+
 - Laboratory Procedures: SOPs that detail wet-lab protocols for sample processing, nucleic acid extraction, PCR setup, etc.
+
 - Training Procedures: SOPs that outline processes for training personnel on specific skills or procedures.
+
 - Code Update & Review: SOPs that describe processes for updating, reviewing, and validating bioinformatics software or scripts.
 
 Each section is presented in a tabbed format, allowing you to easily navigate between examples for different SOP types. This structure is designed to help you understand how to adapt the guidance to your specific context and needs.
@@ -77,11 +86,9 @@ Each section is presented in a tabbed format, allowing you to easily navigate be
 Getting started
 ---------------
 
-To help you get started, you can download a ready-to-use Word template:
+To help you get started, you can download a ready-to-use Word template containing all the building block sections outlined in this guidance. This template can be customised to suit your organisation's branding and specific requirements.
 
 .. button-link:: https://github.com/your-org/your-repo/raw/main/templates/sop_template.docx
    :color: primary
 
    📄 Download SOP Template (Word)
-
-
