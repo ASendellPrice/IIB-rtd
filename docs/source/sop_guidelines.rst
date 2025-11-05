@@ -42,7 +42,7 @@ Defining a single SOP structure that will work well for all possible application
 Creating a one-size-fits-all SOP template would therefore lead to sections that are irrelevant or redundant for certain types of procedures, making the SOP cumbersome and difficult to use.
 
 
-Our modular approach to SOP writing
+A modular approach to SOP writing
 -----------------------------------
 
 To overcome these challenges, we propose a modular approach to SOP writing. This approach recognises that while certain sections are universally applicable across most SOPs (e.g., Purpose, Scope, Responsibilities), other sections may only be relevant for specific types of procedures (e.g., Data Types for bioinformatics pipelines, Sample Preparation for laboratory protocols). 
