@@ -52,7 +52,7 @@ The following diagram illustrates the modular structure of SOPs using this appro
 .. image:: images/SOP_building_blocks.png
    :alt: Modular SOP Structure
    :align: center
-   :width: 100px
+   :width: 150px
 
 Each building block in the diagram represents a distinct section of an SOP. Some sections are fundamental and should be included in all SOPs, while others are optional and can be included based on the specific requirements of the procedure being documented.
 
