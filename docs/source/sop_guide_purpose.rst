@@ -14,16 +14,16 @@ Depending on the type of procedure, the purpose may describe:
 
 -----
 
-.. rubric:: Purpose examples for different procedure types:
+.. rubric:: Example content:
 
 .. tab-set::
 
    .. tab-item:: 🧬 Bioinformatics
 
+      **Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance**
+
       .. div:: sd-light-blue
 
-         **Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance**
-      
          The purpose of this procedure is to assemble and analyse sequence data generated from next-generation sequencing (NGS) of HIV samples to produce high-quality consensus genomes from which antiviral resistance can be inferred. This procedure forms part of the HIV genomic testing workflow, following sequencing and preceding clinical reporting.
 
          It defines a standardised bioinformatics workflow for the processing, assembly, and interpretation of HIV genomic data, ensuring accuracy, reproducibility, and clinical reliability in antiviral resistance prediction.
