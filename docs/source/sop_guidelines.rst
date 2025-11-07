@@ -69,6 +69,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
 
 .. toctree::
    :maxdepth: 2
+   
    sop_guide_purpose
    sop_guide_scope
    sop_guide_cross_references
