@@ -1,8 +1,0 @@
-/* Light blue tab content */
-.sd-light-blue,
-.sd-light-blue .sd-tab-item-content {
-    background-color: #e6f2ff !important;
-    padding: 1em;
-    border: 1px solid #cce0ff;
-    border-radius: 6px;
-}

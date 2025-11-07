@@ -1,6 +1,8 @@
 Data Type & Analysis Selection
 ==============================
 
+The 
+
 This section should describe the type of input data the computational procedure is designed to handle and validated to process. Explain how the data determines the choice of analysis methods, tools, and parameters used within the procedure.
 
 What to Include:
