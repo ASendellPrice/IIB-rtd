@@ -1,17 +1,16 @@
-SOP Writing Guidelines for Bioinformatics Pipelines
-====================================================
+SOP Writing Guidelines
+======================
 
 Introduction
 ------------
 
-:ref:`Standard Operating Procedures (SOPs) <standard_operating_procedure_sop>` are detailed, written instructions that describe how to perform specific tasks or processes consistently and correctly. SOPs are essential for ensuring quality, accuracy, and reproducibility in various settings, particularly in regulated environments such as clinical laboratories. SOPs are a fundamental requirement for accreditation under standards such as ISO 15189, which sets out the requirements for quality and competence in medical laboratories.
+:ref:`Standard Operating Procedures (SOPs) <standard_operating_procedure_sop>` are detailed, written instructions that describe how to perform specific tasks or processes consistently and correctly. SOPs are essential for ensuring quality, accuracy, and reproducibility in various settings, particularly in regulated environments such as clinical laboratories. SOPs are a fundamental requirement for accreditation under ISO 15189, which sets out the requirements for quality and competence in medical laboratories.
 
 The use of SOPs in clinical laboratories has traditionally focused on wet-laboratory procedures, where they provide step-by-step guidance for laboratory personnel to follow when performing diagnostic procedures. Examples of such procedures (within a public health context) could include, the culture and identification of *Mycobacterium tuberculosis* (TB) or the detection of HIV using serological assays. As such the evolution of SOPs has historically been closely tied to physical laboratory workflows. However, as genomics becomes an ever more integral part of disease diagnostics and pathogen surveillance, there is an increasing need for SOPs tailored specifically to bioinformatics pipelines. 
 
 Unlike laboratory SOPs, which focus on physical procedures and equipment, bioinformatics SOPs must describe digital workflows, computational tools, data management processes, and software dependencies. Consequently existing SOP structures and formats designed for wet-lab procedures may not be fully appropriate for documenting bioinformatics workflows. Existing SOP templates are also unsuited to the diverse range of other procedures that may require SOP documentation within a modern clinical laboratory setting. For example, SOPs may be needed to document staff training procedures, code update and review processes for software, or verification and validation protocols for new analytical methods or examinations.
 
 ----------------
-
 
 Defining a universal SOP template?
 --------------------------------
@@ -21,7 +20,6 @@ Defining a single SOP structure that will work well for all possible application
 Creating a one-size-fits-all SOP template would therefore lead to sections that are irrelevant or redundant for certain types of procedures, making the SOP cumbersome and difficult to use.
 
 ----------------
-
 
 A modular alternative to SOP writing
 ------------------------------------
@@ -42,9 +40,8 @@ Using these building blocks, organisations can tailor the SOP structure to suit 
 
 ----------------
 
-
-SOP writing guidance
---------------------
+SOP building block guidance & examples
+--------------------------------------
 
 On the basis of the modular SOP structure outlined above, we have developed detailed writing guidance for each building block section. Each section includes:
 
@@ -54,9 +51,9 @@ On the basis of the modular SOP structure outlined above, we have developed deta
 
 - Example content for different types of procedures (e.g., bioinformatics pipelines, laboratory procedures, training protocols) as appropriate.
 
-Throughout the guidance we have focussed on four case study procedures to illustrate how the modular SOP structure can be applied in practice:
+Throughout the guidance we have focussed on four procedure case studies to illustrate how the modular SOP structure can be applied in practice:
 
-.. dropdown:: 🧬 HIV Antiviral Resistance Pipeline
+.. dropdown:: 🧬 Bioinformatics Procedure
 
    This SOP covers the bioinformatics analysis of HIV genomic data for antiviral resistance prediction...
 
@@ -68,11 +65,11 @@ Throughout the guidance we have focussed on four case study procedures to illust
 
    A training SOP for onboarding and certifying laboratory personnel in core workflows.
 
-.. dropdown:: 💻 Code Update & Review Process
+.. dropdown:: 💻 Code Update & Review Procedure
 
    A software SOP for managing code changes, peer review, and version control in bioinformatics tools.
 
-Each section of the SOP writing guidance can be accessed via the table of contents below or by clicking the next button.
+Each section of the SOP writing guidance can be accessed via the table of contents below or by navigating using the "Next" and "Previous" buttons.
 
 .. toctree::
    :maxdepth: 2
