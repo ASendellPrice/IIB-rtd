@@ -51,7 +51,7 @@ On the basis of the modular SOP structure outlined above, we have developed deta
 
 - Example content for different types of procedures (e.g., bioinformatics pipelines, laboratory procedures, training protocols) as appropriate.
 
-Throughout the guidance we have focussed on four procedure case studies to illustrate how the modular SOP structure can be applied in practice:
+Throughout the guidance we have focussed on five procedure case studies to illustrate how the modular SOP structure can be applied in practice:
 
 .. dropdown:: 🧬 Bioinformatics Procedure
 
@@ -68,6 +68,10 @@ Throughout the guidance we have focussed on four procedure case studies to illus
 .. dropdown:: 💻 Code Update & Review Procedure
 
    A software SOP for managing code changes, peer review, and version control in bioinformatics tools.
+
+.. dropdown:: ✅ Verification Procedure
+
+   Add description
 
 Each section of the SOP writing guidance can be accessed via the table of contents below or by navigating using the "Next" and "Previous" buttons.
 

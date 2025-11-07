@@ -52,6 +52,15 @@ Depending on the type of procedure, the purpose may describe:
 
    This SOP covers the processes by which (a) proposals for changes are made, reviewed, and changes actioned; and (b) resulting changes are reviewed to ensure consistency and adherence to organisational policies and standards.
 
+.. dropdown:: ✅ Verification Procedure
+
+   *Example SOP content for a verification procedure*
+
+   .. rubric:: Purpose
+
+   Add content for verifcation procedure here.
+
+
 .. raw:: html
 
    <script>
@@ -68,4 +77,3 @@ Depending on the type of procedure, the purpose may describe:
        });
      });
    </script>
-   

@@ -59,6 +59,14 @@ Depending on the type of procedure being documented, the scope may include:
    - Validation and verification of software and pipelines  
    - Development and tracking of coding competencies
 
+.. dropdown:: ✅ Verification Procedure
+
+   *Example SOP content for a verification procedure*
+
+   .. rubric:: Scope
+   
+   Add content for verifcation procedure here.
+
 .. raw:: html
 
    <script>

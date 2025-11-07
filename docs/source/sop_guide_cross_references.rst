@@ -73,6 +73,15 @@ Depending on the procedure, cross-references may include:
    | DOC-ADVISOEXAMPLE-002   | LGU standards guidelines for Nextflow                   | v1.2       |
    +-------------------------+---------------------------------------------------------+------------+
 
+.. dropdown:: ✅ Verification Procedure
+
+   *Example SOP content for a verification procedure*
+
+   .. rubric:: Cross-references
+
+   Add content for verifcation procedure here.
+
+
 .. raw:: html
 
    <script>

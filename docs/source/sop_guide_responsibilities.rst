@@ -61,6 +61,14 @@ Depending on the procedure, this section should describe:
 
    Add content for code update & review procedure roles here.
 
+.. dropdown:: ✅ Verification Procedure
+
+   *Example SOP content for a verification procedure*
+
+   .. rubric:: Roles & Responsibilities
+
+   Add content for verifcation procedure here.
+
 .. raw:: html
 
    <script>

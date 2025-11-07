@@ -64,6 +64,14 @@ The 'Resources & Tools' section of an SOP should detail all resources and tools 
    
    - **Software:** A text editor capable of making changes to code and committing them back to version control (e.g., VSCode); a web-browser capable of connecting to the organisation VCS (Gitlab).
 
+.. dropdown:: ✅ Verification Procedure
+
+   *Example SOP content for a verification procedure*
+
+   .. rubric:: Resources & Tools
+
+   Add content for verifcation procedure here.
+
 .. raw:: html
 
    <script>
