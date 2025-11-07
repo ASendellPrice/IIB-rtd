@@ -1,16 +1,16 @@
 Purpose of the Procedure
 ========================
 
-**The 'Purpose' section of an SOP should provide a clear and concise statement of why the procedure exists and its intended role within the organisation/laboratory. It should outline the specific goals the procedure aims to achieve, and explain how it contributes to broader workflows, services, or regulatory requirements. This helps users understand the value and relevance of the procedure in context.**
+.. important::
+   The 'Purpose' section is a fundamental building block of any SOP
+
+The 'Purpose' section of an SOP should provide a clear and concise statement of why the procedure exists and its intended role within the organisation/laboratory. It should outline the specific goals the procedure aims to achieve, and explain how it contributes to broader workflows, services, or regulatory requirements. This helps users understand the value and relevance of the procedure in context.
 
 Depending on the type of procedure, the purpose may describe:
 
 - The operational or clinical need the procedure addresses
 - The outcomes or deliverables it is designed to produce
 - Its position within a larger workflow or diagnostic service
-
-.. important::
-   The 'Purpose' section is a fundamental building block of any SOP.
 
 -----
 
@@ -20,7 +20,7 @@ Depending on the type of procedure, the purpose may describe:
 
    .. tab-item:: 🧬 Bioinformatics
 
-       .. div:: sd-bg-light sd-border sd-rounded-2 sd-p-3
+       .. div:: sd-bg-primary sd-border sd-rounded-2 sd-p-3
 
          **Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance**
       
