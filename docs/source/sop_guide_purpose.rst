@@ -20,7 +20,7 @@ Depending on the type of procedure, the purpose may describe:
 
    .. tab-item:: 🧬 Bioinformatics
 
-       .. div:: sd-light-blue sd-light-box
+       .. div:: sd-light-blue
 
          **Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance**
       

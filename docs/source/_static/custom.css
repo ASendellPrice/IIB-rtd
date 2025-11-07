@@ -1,14 +1,8 @@
-
-/* Custom colour styles for SOP guide */
-.sd-light-blue .sd-card-body {
+/* Light blue tab content */
+.sd-light-blue,
+.sd-light-blue .sd-tab-item-content {
     background-color: #e6f2ff !important;
+    padding: 1em;
+    border: 1px solid #cce0ff;
+    border-radius: 6px;
 }
-
-/* Custom box style for SOP guide */
-.sd-light-box .sd-card {
-    border-radius: 6px !important;
-    border: 1px solid #cce0ff !important;
-    padding: 1em !important;
-}
-
-/* End of custom styles */
