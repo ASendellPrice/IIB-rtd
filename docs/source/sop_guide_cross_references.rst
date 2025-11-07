@@ -68,9 +68,9 @@ Depending on the procedure, cross-references may include:
    +-------------------------+---------------------------------------------------------+------------+
    | SOP Index               | Title                                                   | Version    |
    +=========================+=========================================================+============+
-   | DOC-ADVISOEXAMPLE-001   | LGU standards guidelines for Python                    | v1.2       |
+   | DOC-ADVISOEXAMPLE-001   | LGU standards guidelines for Python                     | v1.2       |
    +-------------------------+---------------------------------------------------------+------------+
-   | DOC-ADVISOEXAMPLE-002   | LGU standards guidelines for Nextflow                  | v1.2       |
+   | DOC-ADVISOEXAMPLE-002   | LGU standards guidelines for Nextflow                   | v1.2       |
    +-------------------------+---------------------------------------------------------+------------+
 
 .. raw:: html
