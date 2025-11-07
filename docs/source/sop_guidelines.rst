@@ -70,3 +70,21 @@ Throughout the guidance we have focussed on four case study procedures to illust
    A software SOP for managing code changes, peer review, and version control in bioinformatics tools.
 
 Each section of the SOP writing guidance can be accessed via the table of contents below or by clicking the next button.
+
+.. toctree::
+   :maxdepth: 2
+   sop_guide_purpose
+   sop_guide_scope
+   sop_guide_cross_references
+   sop_guide_responsibilities
+   sop_guide_definitions
+   sop_guide_resources
+   sop_guide_health_safety_information_governance
+   sop_guide_data_types
+   sop_guide_procedure
+   sop_guide_quality_control_assurance
+   sop_guide_interference_limitations
+   sop_guide_results_reporting
+   sop_guide_authorisation
+   sop_guide_appendices
+   sop_guide_change_history
