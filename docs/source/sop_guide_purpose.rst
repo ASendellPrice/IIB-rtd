@@ -20,9 +20,8 @@ Depending on the type of procedure, the purpose may describe:
 
    .. tab-item:: 🧬 Bioinformatics
 
-      .. card::
-         :class: sd-bg-light sd-border sd-rounded-2
-      
+       .. div:: sd-bg-light sd-border sd-rounded-2 sd-p-3
+
          **Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance**
       
          The purpose of this procedure is to assemble and analyse sequence data generated from next-generation sequencing (NGS) of HIV samples to produce high-quality consensus genomes from which antiviral resistance can be inferred. This procedure forms part of the HIV genomic testing workflow, following sequencing and preceding clinical reporting.
