@@ -51,6 +51,27 @@ On the basis of the modular SOP structure outlined above, we have developed deta
 
 - Example content for different types of procedures (e.g., bioinformatics pipelines, laboratory procedures, training protocols) as appropriate.
 
+Each section of the SOP writing guidance can be accessed via the table of contents below or by navigating using the "Next" and "Previous" buttons at the bottom of this page.
+
+.. toctree::
+   :maxdepth: 2
+
+   sop_guide_purpose
+   sop_guide_scope
+   sop_guide_cross_references
+   sop_guide_responsibilities
+   sop_guide_definitions
+   sop_guide_resources
+   sop_guide_health_safety_information_governance
+   sop_guide_data_types
+   sop_guide_procedure
+   sop_guide_quality_control_assurance
+   sop_guide_interference_limitations
+   sop_guide_results_reporting
+   sop_guide_authorisation
+   sop_guide_appendices
+   sop_guide_change_history
+
 Throughout the guidance we have focussed on five procedure case studies to illustrate how the modular SOP structure can be applied in practice:
 
 .. dropdown:: 🧬 Bioinformatics Procedure
@@ -73,23 +94,19 @@ Throughout the guidance we have focussed on five procedure case studies to illus
 
    Add description
 
-Each section of the SOP writing guidance can be accessed via the table of contents below or by navigating using the "Next" and "Previous" buttons.
+.. raw:: html
 
-.. toctree::
-   :maxdepth: 2
-
-   sop_guide_purpose
-   sop_guide_scope
-   sop_guide_cross_references
-   sop_guide_responsibilities
-   sop_guide_definitions
-   sop_guide_resources
-   sop_guide_health_safety_information_governance
-   sop_guide_data_types
-   sop_guide_procedure
-   sop_guide_quality_control_assurance
-   sop_guide_interference_limitations
-   sop_guide_results_reporting
-   sop_guide_authorisation
-   sop_guide_appendices
-   sop_guide_change_history
+   <script>
+     // Auto-close other dropdowns when one opens
+     document.querySelectorAll('details').forEach((el) => {
+       el.addEventListener('toggle', function () {
+         if (el.open) {
+           document.querySelectorAll('details').forEach((other) => {
+             if (other !== el) {
+               other.removeAttribute('open');
+             }
+           });
+         }
+       });
+     });
+   </script>
