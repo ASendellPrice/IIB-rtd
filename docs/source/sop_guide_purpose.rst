@@ -20,7 +20,7 @@ Depending on the type of procedure, the purpose may describe:
 
    .. tab-item:: 🧬 Bioinformatics
 
-       .. div:: sd-light-blue
+      .. div:: sd-light-blue
 
          **Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance**
       
@@ -30,22 +30,25 @@ Depending on the type of procedure, the purpose may describe:
 
    .. tab-item:: 🎓 Training
 
-      .. admonition:: Example SOP content for a training procedure
-         :class: hint
-
+      .. div:: sd-light-blue
+      
+         **Example SOP content for a training procedure**
+         
          Add content for training procedure scope here.
 
    .. tab-item:: 🔬 Lab procedure
 
-      .. admonition:: Example SOP content for a nucleic acid extraction procedure
-         :class: hint
+      .. div:: sd-light-blue
+         
+         **Example SOP content for a nucleic acid extraction procedure**
 
          Add content for lab procedure scope here.
 
    .. tab-item:: 💻 Code update & review
 
-      .. admonition:: Example SOP content for a code update and review procedure
-         :class: hint
+      .. div:: sd-light-blue
+      
+         **Example SOP content for a code update and review procedure**
 
          Bioinformatics pipelines are composed of code (software), which will require updating over time as bugs are identified and fixed and new features are added. In the cases where this involves code being produced within the Luma Genomics Unit (LGU), this should be subject to a review before updates are pushed to production systems.
 
