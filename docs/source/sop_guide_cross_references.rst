@@ -41,7 +41,7 @@ Depending on the procedure, cross-references may include:
    | SOP001EVV      | Validation of HIV Resistance Testing by NGS                            | v2.1       | 2023-01-20 |
    +----------------+------------------------------------------------------------------------+------------+------------+
 
-.. dropdown:: 🎓 Staff Training Procedure
+.. dropdown:: 👩‍🔬 Staff Training Procedure
 
    *Example SOP content for a training procedure*
 

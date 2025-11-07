@@ -37,7 +37,7 @@ Depending on the procedure, this section should describe:
    |                        | standards and authorising final clinical reports.                      |
    +------------------------+------------------------------------------------------------------------+
 
-.. dropdown:: 🎓 Staff Training Procedure
+.. dropdown:: 👩‍🔬 Staff Training Procedure
 
    *Example SOP content for a training procedure*
 

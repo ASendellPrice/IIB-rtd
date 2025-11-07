@@ -36,7 +36,7 @@ The 'Resources & Tools' section of an SOP should detail all resources and tools 
 
    - **Internet access:** Required to access the Stanford HIV Drug Resistance Database (https://hivdb.stanford.edu/). This database is selected because it is the current internationally recognised gold standard for HIV drug resistance typing.
 
-.. dropdown:: 🎓 Training Procedure
+.. dropdown:: 👩‍🔬 Training Procedure
 
    *Example SOP content for a training procedure*
 

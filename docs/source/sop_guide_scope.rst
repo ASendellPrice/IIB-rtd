@@ -32,7 +32,7 @@ Depending on the type of procedure being documented, the scope may include:
 
    This SOP applies to trained bioinformatics personnel performing validated analyses within the clinical diagnostics service.
 
-.. dropdown:: 🎓 Staff Training Procedure
+.. dropdown:: 👩‍🔬 Staff Training Procedure
 
    *Example SOP content for a training procedure*
 
