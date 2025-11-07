@@ -99,6 +99,11 @@ Throughout the guidance we have focussed on five procedure case studies to illus
 
    Add description
 
+.. toctree::
+   :maxdepth: 2
+
+   sop_guide_getting_started
+
 .. raw:: html
 
    <script>
