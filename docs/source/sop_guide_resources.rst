@@ -1,6 +1,9 @@
 Resources & Tools
 =================
 
+.. important::
+  Add note
+
 The 'Resources & Tools' section of an SOP should detail all resources and tools needed to carry out the procedure. Depending on the nature of the procedure, this may include:
 
 - **Equipment:** Any hardware, instruments, or devices required to perform the procedure.
@@ -15,46 +18,65 @@ The 'Resources & Tools' section of an SOP should detail all resources and tools 
 
 -----
 
-.. rubric:: Examples for different procedure types:
+.. rubric:: Example content:
 
-.. tab-set::
+.. dropdown:: 🧬 Bioinformatics Procedure
 
-   .. tab-item:: 🧬 Bioinformatics
+   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
 
-      .. admonition:: Example content for a bioinformatics pipeline for detecting HIV antiviral resistance
-         :class: hint
-         
-         The following equipment, software, and reference data are required to perform this procedure:
+   .. rubric:: Resources & Tools
 
-         - **Computer hardware:** PC or equivalent workstation capable of accessing the sequence server.
+   The following equipment, software, and reference data are required to perform this procedure:
+
+   - **Computer hardware:** PC or equivalent workstation capable of accessing the sequence server.
+
+   - **Software:** SSH client software such as PuTTY, MobaXterm, or Windows Subsystem for Linux (WSL) for connecting to the laboratory’s sequence server.
+
+   - **Network access:** Access to the laboratory’s network with the sequence server mapped as a network drive.
+
+   - **Internet access:** Required to access the Stanford HIV Drug Resistance Database (https://hivdb.stanford.edu/). This database is selected because it is the current internationally recognised gold standard for HIV drug resistance typing.
+
+.. dropdown:: 🎓 Training Procedure
+
+   *Example SOP content for a training procedure*
+
+   .. rubric:: Resources & Tools
+
+   Add content for training procedure resources here.
+
+.. dropdown:: 🔬 Laboratory Procedure
+
+   *Example SOP content for a nucleic acid extraction procedure*
+
+   .. rubric:: Resources & Tools
+
+   Add content for lab procedure resources here.
+
+.. dropdown:: 💻 Code Update & Review Procedure
+
+   *Example SOP content for a code update and review procedure*
+
+   .. rubric:: Resources & Tools
+
+   The following hardware and software are required to perform this procedure: 
+
+   - **Computer hardware:** PC or equivalent workstation that has access to the internet and the organisation version control platform (Gitlab).
    
-         - **Software:** SSH client software such as PuTTY, MobaXterm, or Windows Subsystem for Linux (WSL) for connecting to the laboratory’s sequence server.
-   
-         - **Network access:** Access to the laboratory’s network with the sequence server mapped as a network drive.
-   
-         - **Internet access:** Required to access the Stanford HIV Drug Resistance Database (https://hivdb.stanford.edu/). This database is selected because it is the current internationally recognised gold standard for HIV drug resistance typing.
+   - **Software:** A text editor capable of making changes to code and committing them back to version control (e.g., VSCode); a web-browser capable of connecting to the organisation VCS (Gitlab).
 
-   .. tab-item:: 🎓 Training
+.. raw:: html
 
-      .. admonition:: Example content for a training procedure
-         :class: hint
-
-         Add text here.
-
-   .. tab-item:: 🔬 Lab procedure
-
-      .. admonition:: Example content for a nucleic acid extraction procedure
-         :class: hint
-
-         Add text here.
-
-   .. tab-item:: 💻 Code update & review
-   
-      .. admonition:: Example content for a code update and review procedure
-         :class: hint
-
-         The following hardware and software are required to perform this procedure: 
-
-         **Computer hardware:** PC or equivalent workstation that has access to the internet and the organisation version control platform (Gitlab) 
-
-         **Software:** A text editor capable of making changes to code and committing them back to version control (e.g. VSCode); a web-browser capable of connecting to the organisation VCS (Gitlab).
+   <script>
+     // Auto-close other dropdowns when one opens
+     document.querySelectorAll('details').forEach((el) => {
+       el.addEventListener('toggle', function () {
+         if (el.open) {
+           document.querySelectorAll('details').forEach((other) => {
+             if (other !== el) {
+               other.removeAttribute('open');
+             }
+           });
+         }
+       });
+     });
+   </script>
