@@ -50,22 +50,18 @@ On the basis of the modular SOP structure outlined above, we have developed deta
 Throughout the guidance we have focussed on four case study procedures to illustrate how the modular SOP structure can be applied in practice:
 
 .. dropdown:: 🧬 HIV Antiviral Resistance Pipeline
-   :open:
 
    This SOP covers the bioinformatics analysis of HIV genomic data for antiviral resistance prediction...
 
 .. dropdown:: 🧪 Laboratory Procedure
-   :open:
 
    A wet-lab SOP covering sample preparation, reagent handling, and equipment calibration.
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
-   :open:
 
    A training SOP for onboarding and certifying laboratory personnel in core workflows.
 
 .. dropdown:: 💻 Code Update & Review Process
-   :open:
 
    A software SOP for managing code changes, peer review, and version control in bioinformatics tools.
 
