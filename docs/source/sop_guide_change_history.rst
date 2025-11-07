@@ -1,11 +1,65 @@
 Change History
 ==============
 
-Add text here.
+Add description and guidance notes.
 
-.. dropdown:: Warning Example
-   :color: warning
+-----
 
-   This is a warning-style dropdown.
+.. rubric:: Example content:
 
+.. dropdown:: 🧬 Bioinformatics Procedure
+
+   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
    
+   .. rubric:: Change history
+   
+   Add content
+
+.. dropdown:: 👩‍🔬 Staff Training Procedure
+
+   *Example SOP content for a training procedure*
+
+   .. rubric:: Change history
+   
+   Add content
+
+.. dropdown:: 🔬 Laboratory Procedure
+
+   *Example SOP content for a nucleic acid extraction procedure*
+
+   .. rubric:: Change history
+   
+   Add content
+
+.. dropdown:: 💻 Code Update & Review Procedure
+
+   *Example SOP content for a code update and review procedure*
+
+   .. rubric:: Change history
+   
+   Add content
+
+.. dropdown:: ✅ Verification Procedure
+
+   *Example SOP content for a verification procedure*
+
+   .. rubric:: Change history
+   
+   Add content
+
+.. raw:: html
+
+   <script>
+     // Auto-close other dropdowns when one opens
+     document.querySelectorAll('details').forEach((el) => {
+       el.addEventListener('toggle', function () {
+         if (el.open) {
+           document.querySelectorAll('details').forEach((other) => {
+             if (other !== el) {
+               other.removeAttribute('open');
+             }
+           });
+         }
+       });
+     });
+   </script>
