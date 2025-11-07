@@ -72,6 +72,11 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    sop_guide_appendices
    sop_guide_change_history
 
+----------------
+
+Case studies
+------------
+
 Throughout the guidance we have focussed on five procedure case studies to illustrate how the modular SOP structure can be applied in practice:
 
 .. dropdown:: 🧬 Bioinformatics Procedure
