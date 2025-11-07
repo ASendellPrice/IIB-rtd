@@ -4,19 +4,17 @@ SOP Writing Guidelines for Bioinformatics Pipelines
 Introduction
 ------------
 
-:ref:`Standard Operating Procedures (SOPs) <standard_operating_procedure_sop>` are detailed, written instructions that describe how to perform specific tasks or processes consistently and correctly. SOPs are essential for ensuring quality, accuracy, and reproducibility in various settings, particularly in regulated environments such as clinical laboratories.
+:ref:`Standard Operating Procedures (SOPs) <standard_operating_procedure_sop>` are detailed, written instructions that describe how to perform specific tasks or processes consistently and correctly. SOPs are essential for ensuring quality, accuracy, and reproducibility in various settings, particularly in regulated environments such as clinical laboratories. SOPs are a fundamental requirement for accreditation under standards such as ISO 15189, which sets out the requirements for quality and competence in medical laboratories.
 
-The use of SOPs in clinical laboratories has traditionally focused on wet-laboratory procedures, where they provide step-by-step guidance for laboratory personnel to follow when performing diagnostic procedures. Examples of such procedures include, the culture and identification of *Mycobacterium tuberculosis* (TB) or the detection of HIV using serological assays. As such the evolution of SOPs has historically been closely tied to physical laboratory workflows.
+The use of SOPs in clinical laboratories has traditionally focused on wet-laboratory procedures, where they provide step-by-step guidance for laboratory personnel to follow when performing diagnostic procedures. Examples of such procedures within a public health context could include, the culture and identification of *Mycobacterium tuberculosis* (TB) or the detection of HIV using serological assays. As such the evolution of SOPs has historically been closely tied to physical laboratory workflows. However, as genomics becomes an ever more integral part of disease diagnostics and pathogen surveillance, there is an increasing need for SOPs tailored specifically to bioinformatics pipelines. 
 
-However, as genomics becomes an ever more integral part of disease diagnostics and pathogen surveillance, there is an increasing need for SOPs tailored specifically to bioinformatics pipelines. Unlike laboratory SOPs, which focus on physical procedures and equipment, bioinformatics SOPs must describe digital workflows, computational tools, data management processes, and software dependencies. Consequently existing SOP structures and formats designed for wet-lab procedures may not be fully appropriate for documenting bioinformatics workflows.
-
-Existing SOP templates are also unsuited to the diverse range of other procedures that may require SOP documentation within a modern clinical laboratory setting. For example, SOPs may be needed to document training procedures for new staff, code update and review processes for software, or verification and validation protocols for new analytical methods or examinations.
+Unlike laboratory SOPs, which focus on physical procedures and equipment, bioinformatics SOPs must describe digital workflows, computational tools, data management processes, and software dependencies. Consequently existing SOP structures and formats designed for wet-lab procedures may not be fully appropriate for documenting bioinformatics workflows. Existing SOP templates are also unsuited to the diverse range of other procedures that may require SOP documentation within a modern clinical laboratory setting. For example, SOPs may be needed to document staff training procedures, code update and review processes for software, or verification and validation protocols for new analytical methods or examinations.
 
 
 Defining a universal SOP template?
 --------------------------------
 
-Defining a single SOP structure that will work well for all possible applications within an organisation can be challenging, as SOPs detailing wet-lab procedures will have very different requirements and content compared to those describing bioinformatics workflows, training procedures, verification and validation processes, or the miriad of other processes conducted within a clinical laboratory that may require SOP documentation. Likewise, defining a universal SOP template that fits all organisations is impractical due to variations in organisational structure, regulatory environments, and specific operational needs. 
+Defining a single SOP structure that will work well for all possible applications within a clinical laboratory can be challenging, as SOPs detailing wet-lab procedures will have very different requirements and content compared to those describing bioinformatics workflows, training procedures, verification and validation processes, or the miriad of other processes that may require SOP documentation. Likewise, defining a universal SOP template that fits all organisations is impractical due to variations in organisational structure, regulatory environments, and specific operational needs. 
 
 Creating a one-size-fits-all SOP template would therefore lead to sections that are irrelevant or redundant for certain types of procedures, making the SOP cumbersome and difficult to use.
 
@@ -41,57 +39,40 @@ Using these building blocks, organisations can tailor the SOP structure to suit 
 SOP writing guidance
 --------------------
 
-On the following pages you will find detailed writing guidance for each of the building block sections illustrated above. Each section includes:
+On the basis of the modular SOP structure outlined above, we have developed detailed writing guidance for each building block section. Each section includes:
 
 - A description of the section's purpose and importance.
 
 - Guidance on what content to include.
 
-- Example content for different types of SOPs (e.g., bioinformatics pipelines, laboratory procedures, training protocols) as appropriate.
+- Example content for different types of procedures (e.g., bioinformatics pipelines, laboratory procedures, training protocols) as appropriate.
 
-Throughout the guidance we have focussed on four main SOP types:
+Throughout the guidance we have focussed on four case study procedures to illustrate how the modular SOP structure can be applied in practice:
 
-- Bioinformatics Pipelines: SOPs that describe computational workflows for analysing biological data, such as pathogen genomics pipelines.
+.. grid:: 1 1 2 2
+   :gutter: 2
 
-- Laboratory Procedures: SOPs that detail wet-lab protocols for sample processing, nucleic acid extraction, PCR setup, etc.
+   .. card:: 🧬 HIV Antiviral Resistance Pipeline
+      :class: sd-bg-light sd-border-primary
+      :shadow: md
 
-- Training Procedures: SOPs that outline processes for training personnel on specific skills or procedures.
+      A bioinformatics SOP for predicting HIV antiviral resistance from Illumina sequencing data.
 
-- Code Update & Review: SOPs that describe processes for updating, reviewing, and validating bioinformatics software or scripts.
+   .. card:: 🧪 Laboratory Procedure
+      :class: sd-bg-light sd-border-warning
+      :shadow: md
 
-Each section is presented in a tabbed format, allowing you to easily navigate between examples for different SOP types. This structure is designed to help you understand how to adapt the guidance to your specific context and needs.
+      A wet-lab SOP covering ... (to be determined)
 
+   .. card:: 👩‍🔬 Staff Training Procedure
+      :class: sd-bg-light sd-border-success
+      :shadow: md
 
-Getting started
----------------
+      A training SOP for onboarding and certifying laboratory personnel in core workflows.
 
-To help you get started, you can download a ready-to-use Word template containing all the building block sections outlined in this guidance. This template can be customised to suit your organisation's branding and specific requirements.
+   .. card:: 💻 Code Update & Review Process
+      :class: sd-bg-light sd-border-info
+      :shadow: md
 
-.. button-link:: https://github.com/your-org/your-repo/raw/main/templates/sop_template.docx
-   :color: primary
+      A software SOP for managing code changes, peer review, and version control in bioinformatics tools.
 
-   📄 Download SOP Template (Word)
-
-
-
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   sop_guide_purpose
-   sop_guide_scope
-   sop_guide_cross_references
-   sop_guide_responsibilities
-   sop_guide_definitions
-   sop_guide_resources
-   sop_guide_health_safety_information_governance
-   sop_guide_data_types
-   sop_guide_procedure
-   sop_guide_quality_control_assurance
-   sop_guide_interference_limitations
-   sop_guide_results_reporting
-   sop_guide_authorisation
-   sop_guide_appendices
-   sop_guide_change_history
