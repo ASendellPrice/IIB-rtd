@@ -10,6 +10,8 @@ The use of SOPs in clinical laboratories has traditionally focused on wet-labora
 
 Unlike laboratory SOPs, which focus on physical procedures and equipment, bioinformatics SOPs must describe digital workflows, computational tools, data management processes, and software dependencies. Consequently existing SOP structures and formats designed for wet-lab procedures may not be fully appropriate for documenting bioinformatics workflows. Existing SOP templates are also unsuited to the diverse range of other procedures that may require SOP documentation within a modern clinical laboratory setting. For example, SOPs may be needed to document staff training procedures, code update and review processes for software, or verification and validation protocols for new analytical methods or examinations.
 
+----------------
+
 
 Defining a universal SOP template?
 --------------------------------
@@ -17,6 +19,8 @@ Defining a universal SOP template?
 Defining a single SOP structure that will work well for all possible applications within a clinical laboratory can be challenging, as SOPs detailing wet-lab procedures will have very different requirements and content compared to those describing bioinformatics workflows, training procedures, verification and validation processes, or the miriad of other processes that may require SOP documentation. Likewise, defining a universal SOP template that fits all organisations is impractical due to variations in organisational structure, regulatory environments, and specific operational needs. 
 
 Creating a one-size-fits-all SOP template would therefore lead to sections that are irrelevant or redundant for certain types of procedures, making the SOP cumbersome and difficult to use.
+
+----------------
 
 
 A modular alternative to SOP writing
@@ -34,6 +38,9 @@ The following diagram illustrates the modular structure of SOPs using this appro
 Each building block in the diagram represents a distinct section of an SOP. Some sections are fundamental and should be included in all SOPs, while others are optional and can be included based on the specific requirements of the procedure being documented.
 
 Using these building blocks, organisations can tailor the SOP structure to suit the specific needs of each procedure while maintaining consistency in format and style across all SOPs. Users of our approach will need to select building block sections that are relevant to the procedure being documented. This provides for flexibility and adaptability, allowing organisations to create SOPs that are better fit for purpose.
+
+
+----------------
 
 
 SOP writing guidance
@@ -69,7 +76,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
 
 .. toctree::
    :maxdepth: 2
-   
+
    sop_guide_purpose
    sop_guide_scope
    sop_guide_cross_references
