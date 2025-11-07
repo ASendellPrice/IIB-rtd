@@ -1,0 +1,12 @@
+
+/* Custom colour styles for SOP guide */
+.sd-light-blue {
+  background-color: #e6f2ff;
+}
+
+/* Custom box style for SOP guide */
+.sd-light-box {
+  padding: 1em;
+  border: 1px solid #cce0ff;
+  border-radius: 6px;
+}
