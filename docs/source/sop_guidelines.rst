@@ -101,8 +101,8 @@ Throughout the guidance we have focussed on five procedure case studies to illus
 
 ----------------
 
-SOP template builder
---------------------
+Getting started
+---------------
 
 To help you get started, you can download a ready-to-use Word template containing all the building block sections outlined in this guidance. This template can be customised to suit your organisation's branding and specific requirements.
 

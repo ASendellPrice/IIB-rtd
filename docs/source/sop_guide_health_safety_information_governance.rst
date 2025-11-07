@@ -1,7 +1,7 @@
-Health, Safety, & Information Governance
-========================================
+Health & Safety
+===============
 
-The health, safety, and information governance section of an SOP should outline any health and safety considerations, as well as information governance requirements relevant to the procedure. This ensures compliance with institutional policies and legal regulations, safeguarding both personnel and data integrity.
+The health & safety section of an SOP should outline any health and safety considerations relevant to the procedure. This ensures compliance with institutional policies and legal regulations, safeguarding both personnel and data integrity.
 
 Depending on the procedure, this section may include:
 
