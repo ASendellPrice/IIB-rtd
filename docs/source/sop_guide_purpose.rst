@@ -1,9 +1,6 @@
 Purpose of the Procedure
 ========================
 
-.. important::
-   The 'Purpose' section is a fundamental building block of any SOP.
-   
 The 'Purpose' section of an SOP should provide a clear and concise statement of why the procedure exists and its intended role within the organisation/laboratory. It should outline the specific goals the procedure aims to achieve, and explain how it contributes to broader workflows, services, or regulatory requirements. This helps users understand the value and relevance of the procedure in context.
 
 Depending on the type of procedure, the purpose may describe:
@@ -11,6 +8,9 @@ Depending on the type of procedure, the purpose may describe:
 - The operational or clinical need the procedure addresses
 - The outcomes or deliverables it is designed to produce
 - Its position within a larger workflow or diagnostic service
+
+.. important::
+   The 'Purpose' section is a fundamental building block of any SOP.
 
 -----
 
@@ -20,12 +20,12 @@ Depending on the type of procedure, the purpose may describe:
 
    .. tab-item:: 🧬 Bioinformatics
 
-      .. admonition:: Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance
-         :class: hint
+      **Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance**
+      
 
-         The purpose of this procedure is to assemble and analyse sequence data generated from next-generation sequencing (NGS) of HIV samples to produce high-quality consensus genomes from which antiviral resistance can be inferred. This procedure forms part of the HIV genomic testing workflow, following sequencing and preceding clinical reporting.
+      The purpose of this procedure is to assemble and analyse sequence data generated from next-generation sequencing (NGS) of HIV samples to produce high-quality consensus genomes from which antiviral resistance can be inferred. This procedure forms part of the HIV genomic testing workflow, following sequencing and preceding clinical reporting.
 
-         It defines a standardised bioinformatics workflow for the processing, assembly, and interpretation of HIV genomic data, ensuring accuracy, reproducibility, and clinical reliability in antiviral resistance prediction.
+      It defines a standardised bioinformatics workflow for the processing, assembly, and interpretation of HIV genomic data, ensuring accuracy, reproducibility, and clinical reliability in antiviral resistance prediction.
 
    .. tab-item:: 🎓 Training
 
