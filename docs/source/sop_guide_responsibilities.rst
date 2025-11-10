@@ -45,7 +45,7 @@ Depending on the procedure, this section should describe:
 
    Add content for training procedure roles here.
 
-.. dropdown:: 🔬 Laboratory Procedure
+.. dropdown:: 🧪 Laboratory Procedure
 
    *Example SOP content for a nucleic acid extraction procedure*
 

@@ -44,7 +44,7 @@ The 'Resources & Tools' section of an SOP should detail all resources and tools 
 
    Add content for training procedure resources here.
 
-.. dropdown:: 🔬 Laboratory Procedure
+.. dropdown:: 🧪 Laboratory Procedure
 
    *Example SOP content for a nucleic acid extraction procedure*
 

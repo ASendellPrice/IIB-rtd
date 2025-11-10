@@ -8,13 +8,13 @@ The 'Scope' section of an SOP should define the boundaries of the :ref:`procedur
 
 Depending on the type of procedure being documented, the scope may include:
 
-- *Types of data or samples:* The specific data formats, sample types, equipment, or materials the procedure is designed for.
+- **Types of data or samples:** The specific data formats, sample types, equipment, or materials the procedure is designed for.
 
-- *Technologies and methods:* The platforms, tools, or methodologies the procedure applies to.
+- **Technologies and methods:** The platforms, tools, or methodologies the procedure applies to.
 
-- *Personnel:* The roles or individuals authorised to perform or oversee the procedure.
+- **Personnel:** The roles or individuals authorised to perform or oversee the procedure.
 
-- *Limitations:* Any exclusions, constraints, or unsupported scenarios users should be aware of.
+- **Limitations:** Any exclusions, constraints, or unsupported scenarios users should be aware of.
 
 -----
 
@@ -40,7 +40,7 @@ Depending on the type of procedure being documented, the scope may include:
 
    Add content for training procedure scope here.
 
-.. dropdown:: 🔬 Laboratory Procedure
+.. dropdown:: 🧪 Laboratory Procedure
 
    *Example SOP content for a nucleic acid extraction procedure*
 
