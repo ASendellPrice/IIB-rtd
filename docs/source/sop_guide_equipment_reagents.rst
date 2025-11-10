@@ -1,7 +1,7 @@
+.. _sop_guide_equipment_reagents:
+
 Equipment & Reagents
 ====================
-
-.. _sop_guide_equipment_reagents:
 
 .. important::
 
@@ -25,41 +25,37 @@ Depending on the procedure, this may include:
 
 -------
 
-
-
--------
-
 .. rubric:: Example content:
 
 .. dropdown:: 🧬 Bioinformatics Procedure
 
-    This section is **not suitable** for laboratory procedures. Please use the *Resources & tools* section instead.
+  This section is **not suitable** for laboratory procedures. Please use the `Resources & Tools <sop_guide_resources_tools>` section instead.
 
 .. dropdown:: 👩‍🔬 Training Procedure
-
-    *Example SOP content for a training procedure*
-
-    .. rubric:: Equipment & Reagents
   
-    Add content for training procedure here.
+  *Example SOP content for a training procedure*
+
+  .. rubric:: Equipment & Reagents
+  
+  Add content for training procedure here.
 
 .. dropdown:: 🧪 Laboratory Procedure
 
-    *Example SOP content for a laboratory procedure*
+  *Example SOP content for a laboratory procedure*
 
-    .. rubric:: Equipment & Reagents
+  .. rubric:: Equipment & Reagents
   
-    Add content for laboratory procedure here.
+  Add content for laboratory procedure here.
 
 .. dropdown:: 💻 Code Update & Review Procedure
 
   *Example SOP content for a code update and review procedure*
-
-    This section is **not suitable** for a code update and review procedure. Please use the *Resources & tools* section instead.
+  
+  This section is **not suitable** for a code update and review procedure. Please use the :ref:`Equipment & Reagents <sop_guide_equipment_reagents>` section instead.
 
 .. dropdown:: ✅ Verification Procedure
 
-    This section is **not suitable** for verification and validation procedures. Please use the *Resources & tools* section instead.
+  This section is **not suitable** for verification and validation procedures. Please use the `Resources & Tools <sop_guide_resources_tools>` section instead.
 
 .. raw:: html
 

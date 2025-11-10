@@ -1,7 +1,7 @@
+.. _sop_guide_resources_tools:
+
 Resources & Tools
 =================
-
-.. _sop_guide_resources_tools:
 
 .. important::
 
