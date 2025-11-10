@@ -51,7 +51,7 @@ Depending on the procedure, this may include:
 
 .. dropdown:: 🧪 Laboratory Procedure
 
-  This section is **not suitable** for laboratory procedures. Please use the *Equipment & Reagents* section instead.
+  This section is **not suitable** for laboratory procedures. Please use the :ref:`Equipment & Reagents <sop_guide_equipment_reagents>` section instead.
 
 .. dropdown:: 💻 Code Update & Review Procedure
 

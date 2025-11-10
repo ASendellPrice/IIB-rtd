@@ -2,9 +2,9 @@ Information Governance
 ======================
 
 .. important::
-  This section must be included in SOPs where data containing personally identifiable information (PII), genetic data, or other sensitive information is accessed, generated, or stored. It ensures compliance with institutional policies, legal frameworks, and ethical standards.
+  This section must be included in SOPs where data containing personally identifiable information (PII), or other sensitive information is accessed, generated, or stored.
 
-The 'Information Governance' section of an SOP should outline how information generated, accessed, or stored during the procedure is handled. Depending on the procedure, this may include:
+The *'Information Governance'* section of an SOP should describe how information generated, accessed, or stored during a procedure is managed in compliance with institutional policies, legal requirements, and ethical standards. Depending on the procedure, this may include:
 
 - **Data Protection & Privacy:** Specify how personal or sensitive data is handled in line with relevant regulations (e.g., GDPR in the UK/EU, HIPAA in the US etc.).
 - **Genetic Data Governance:** Define how genomic sequences, variant data, and metadata are stored, anonymised, and shared.
