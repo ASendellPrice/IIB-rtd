@@ -33,6 +33,9 @@ The following diagram illustrates the modular structure of SOPs using this appro
    :align: center
    :width: 600px
 
+.. attention::
+   The above figure is for illustrative pruposes only and is not yet finalised.
+
 Each building block in the diagram represents a distinct section of an SOP. Some sections are fundamental and should be included in all SOPs, while others are optional and can be included based on the specific requirements of the procedure being documented.
 
 Using these building blocks, organisations can tailor the SOP structure to suit the specific needs of each procedure while maintaining consistency in format and style across all SOPs. Users of our approach will need to select building block sections that are relevant to the procedure being documented. This provides for flexibility and adaptability, allowing organisations to create SOPs that are better fit for purpose.
@@ -81,23 +84,23 @@ Throughout the guidance we have focussed on five procedure case studies to illus
 
 .. dropdown:: 🧬 Bioinformatics Procedure
 
-   This SOP covers the bioinformatics analysis of HIV genomic data for antiviral resistance prediction...
+   Add description of case study
 
 .. dropdown:: 🧪 Laboratory Procedure
 
-   A wet-lab SOP covering sample preparation, reagent handling, and equipment calibration.
+   Add description of case study
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
 
-   A training SOP for onboarding and certifying laboratory personnel in core workflows.
+   Add description of case study
 
 .. dropdown:: 💻 Code Update & Review Procedure
 
-   A software SOP for managing code changes, peer review, and version control in bioinformatics tools.
+   Add description of case study
 
 .. dropdown:: ✅ Verification Procedure
 
-   Add description
+   Add description of case study
 
 ----------------
 
