@@ -29,7 +29,7 @@ Depending on the procedure, this may include:
 
 .. dropdown:: 🧬 Bioinformatics Procedure
 
-  This section is **not suitable** for laboratory procedures. Please use the `Resources & Tools <sop_guide_resources_tools>` section instead.
+  This section is **not suitable** for laboratory procedures. Please use the :ref:`Resources & Tools <sop_guide_resources_tools>` section instead.
 
 .. dropdown:: 👩‍🔬 Training Procedure
   
