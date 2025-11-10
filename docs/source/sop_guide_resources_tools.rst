@@ -1,9 +1,11 @@
 Resources & Tools
 =================
 
+.. _sop_guide_resources_tools:
+
 .. important::
 
-  Use **either** the *Resources & Tools* section (for desk-based procedures) **or** the *Equipment & Reagents* section (for laboratory procedures). 
+  Use **either** the *Resources & Tools* section (for desk-based procedures) **or** the :ref:`Equipment & Reagents <sop_guide_equipment_reagents>` section (for laboratory procedures).
 
 This section should list all resources and tools required to carry out the procedure. It ensures that users have access to the necessary infrastructure, information, and permissions before starting.
 

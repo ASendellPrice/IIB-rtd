@@ -1,9 +1,11 @@
 Equipment & Reagents
 ====================
 
+.. _sop_guide_equipment_reagents:
+
 .. important::
 
-   This section is suitable for laboratory procedures. For desk-based procedures use the *Resources & Tools* section instead.
+   This section is suitable for laboratory procedures. For desk-based procedures use the :ref:`Resources & Tools <sop_guide_resources_tools>` section instead.
 
 This section should list all physical items required to perform the procedure, ensuring compliance with safety standards and proper preparation before starting.
 
