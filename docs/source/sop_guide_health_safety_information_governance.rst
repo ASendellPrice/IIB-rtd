@@ -1,53 +1,87 @@
 Health & Safety
 ===============
 
-The health & safety section of an SOP should outline any health and safety considerations relevant to the procedure. This ensures compliance with institutional policies and legal regulations, safeguarding both personnel and data integrity.
+.. important::
+   This section is a fundamental building block of any SOP
 
-Depending on the procedure, this section may include:
+This section should outline any health and safety requirements relevant to the procedure. It ensures compliance with institutional policies, legal regulations, and best practices for safe working environments.
 
-- **Health & Safety:** Any specific risks associated with the procedure, including safe handling of materials, equipment use, and emergency protocols. While bioinformatics procedures are generally low-risk, consider ergonomic factors and workstation safety.
+Depending on the procedure being documented, this may include:
 
-- **Information Governance:** Data protection and confidentiality requirements, including compliance with relevant regulations (e.g. GDPR, HIPAA). Detail how sensitive data or patient identifiable information (PII) should be handled, stored, and shared, as well as any necessary access controls.
+- **Chemical or Biological Hazards:** Risks associated with handling hazardous substances, biological materials, or infectious agents.
+
+- **Physical Hazards:** Risks from equipment use, manual handling, noise, or temperature extremes.
+
+- **Ergonomic Considerations:** Safe workstation setup, posture, and repetitive strain prevention (particularly relevant for computer-based procedures).
+
+- **Training Requirements:** Any mandatory safety training or certifications required before performing the procedure.
+
+- **Emergency Protocols:** Steps to follow in case of accidents, spills, or exposure incidents.
+
+- **Risk Assessments:** References to relevant institutional risk assessments and applicable national regulations (e.g., COSHH in the UK, OSHA in the US, REACH in the EU etc).
+
+.. note::
+
+   Even procedures that appear low-risk (e.g., administrative or computational tasks) may still require consideration of ergonomic safety, data security, or compliance with institutional IT policies.
 
 -----
 
-.. rubric:: Examples for different procedure types:
 
-.. tab-set::
+.. rubric:: Example content:
 
-   .. tab-item:: 🧬 Bioinformatics
+.. dropdown:: 🧬 Bioinformatics Procedure
 
-      .. admonition:: Example content for a bioinformatics pipeline for detecting HIV antiviral resistance
-         :class: hint
-
-         **Health & Safety Considerations**
-
-         This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury. 
+   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
    
-         All users must comply with organisational health and safety policies and report any hazards, near misses, or incidents through the appropriate channels.
+   .. rubric:: Health & Safety
    
-         **Information Governance Requirements**
-         
-         Patient and sequencing data must be handled in accordance with Information Governance and Data Protection policies. Personally identifiable information (PII) must never be stored outside secure, access-controlled systems (e.g., LIMS). Data transfers must occur only via approved, encrypted connections, and users must ensure that all analysis systems and accounts are password-protected and access-controlled. 
+   This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury.
 
+.. dropdown:: 👩‍🔬 Staff Training Procedure
 
-   .. tab-item:: 🎓 Training
+   *Example SOP content for a training procedure*
 
-      .. admonition:: Example content for a training procedure
-         :class: hint
-
-         Add text here.
-
-   .. tab-item:: 🔬 Lab procedure
-
-      .. admonition:: Example content for a nucleic acid extraction procedure
-         :class: hint
-
-         Add text here.
-
-   .. tab-item:: 💻 Code update & review
+   .. rubric:: Health & Safety
    
-      .. admonition:: Example content for a code update and review procedure
-         :class: hint
+   This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury.
 
-         This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury.
+.. dropdown:: 🧪 Laboratory Procedure
+
+   *Example SOP content for a nucleic acid extraction procedure*
+
+   .. rubric:: Health & Safety
+   
+   Add content
+
+.. dropdown:: 💻 Code Update & Review Procedure
+
+   *Example SOP content for a code update and review procedure*
+
+   .. rubric:: Health & Safety
+   
+   This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury.
+
+.. dropdown:: ✅ Verification Procedure
+
+   *Example SOP content for a verification procedure*
+
+   .. rubric:: Health & Safety
+   
+   Add content
+
+.. raw:: html
+
+   <script>
+     // Auto-close other dropdowns when one opens
+     document.querySelectorAll('details').forEach((el) => {
+       el.addEventListener('toggle', function () {
+         if (el.open) {
+           document.querySelectorAll('details').forEach((other) => {
+             if (other !== el) {
+               other.removeAttribute('open');
+             }
+           });
+         }
+       });
+     });
+   </script>

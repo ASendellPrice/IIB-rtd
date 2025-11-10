@@ -34,7 +34,7 @@ The following diagram illustrates the modular structure of SOPs using this appro
    :width: 600px
 
 .. attention::
-   The above figure is for illustrative pruposes only and is not yet finalised.
+   The above figure is a conceptual visualisation of a modular SOP structure. This is not finalised.
 
 Each building block in the diagram represents a distinct section of an SOP. Some sections are fundamental and should be included in all SOPs, while others are optional and can be included based on the specific requirements of the procedure being documented.
 
