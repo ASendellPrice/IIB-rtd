@@ -22,7 +22,7 @@ Depending on the procedure being documented, this may include:
 
 .. note::
 
-   Even procedures that appear low-risk (e.g., administrative or computational tasks) may still require consideration of ergonomic safety, data security, or compliance with institutional IT policies.
+   Even procedures that appear low-risk (e.g. administrative or computational tasks) still require consideration of ergonomic safety).
 
 -----
 
