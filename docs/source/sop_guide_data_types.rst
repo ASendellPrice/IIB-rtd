@@ -1,11 +1,12 @@
 Data Type & Analysis Selection
 ==============================
 
-The 
+.. important::
+   This section should be included in SOPs where data is analysed or passes through a computational pipeline.
 
-This section should describe the type of input data the computational procedure is designed to handle and validated to process. Explain how the data determines the choice of analysis methods, tools, and parameters used within the procedure.
+This section of an SOP should define the types of input the procedure is validated to process and explain how data characteristics determine the choice of analysis methods, tools, and parameters.
 
-What to Include:
+This section may include:
 
 - **Data Format:** Specify the format(s) of input data (e.g. FASTQ, BAM, VCF), sequencing technology (e.g. Illumina, Oxford Nanopore, PacBio), and any relevant characteristics (e.g. read length, paired-end vs single-end).
 
@@ -15,9 +16,14 @@ What to Include:
 
 -----
 
-.. admonition:: Example – HIV Antiviral Resistance Pipeline
-   :class: tip
+.. rubric:: Example content:
 
+.. dropdown:: 🧬 Bioinformatics Procedure
+
+   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
+   
+   .. rubric:: Data Type & Analysis Selection
+   
    This procedure is designed to process 150bp paired-end FASTQ files generated using the Illumina NextSeq platform. Each sample should have two FASTQ files (.fastq or .fastq.gz) representing the forward and reverse reads.
 
    The pipeline is specifically optimised and validated to process this data type and read length. Samples generated using other sequencing technologies (e.g. Oxford Nanopore, PacBio) or read lengths are not validated for analysis using this procedure.
@@ -25,3 +31,52 @@ What to Include:
    The input data should represent clinical HIV samples derived from patient plasma.
 
    The choice of analysis tools and parameters is optimised for the specified data type. For example, the read mapper is configured to handle the high mutation rate of HIV, and variant calling thresholds are set to detect low-frequency resistance mutations typical in viral populations. Long-read data from Oxford Nanopore or PacBio platforms are not supported by this procedure due to differences in error profiles and read characteristics.
+
+.. dropdown:: 👩‍🔬 Staff Training Procedure
+
+   *Example SOP content for a training procedure*
+
+   .. rubric:: Data Type & Analysis Selection
+   
+   Add content
+
+.. dropdown:: 🔬 Laboratory Procedure
+
+   *Example SOP content for a nucleic acid extraction procedure*
+
+   .. rubric:: Data Type & Analysis Selection
+   
+   Add content
+
+.. dropdown:: 💻 Code Update & Review Procedure
+
+   *Example SOP content for a code update and review procedure*
+
+   .. rubric:: Data Type & Analysis Selection
+   
+   Add content
+
+.. dropdown:: ✅ Verification Procedure
+
+   *Example SOP content for a verification procedure*
+
+   .. rubric:: Data Type & Analysis Selection
+   
+   Add content
+
+.. raw:: html
+
+   <script>
+     // Auto-close other dropdowns when one opens
+     document.querySelectorAll('details').forEach((el) => {
+       el.addEventListener('toggle', function () {
+         if (el.open) {
+           document.querySelectorAll('details').forEach((other) => {
+             if (other !== el) {
+               other.removeAttribute('open');
+             }
+           });
+         }
+       });
+     });
+   </script>

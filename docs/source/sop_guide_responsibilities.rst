@@ -11,6 +11,7 @@ Clear role definition ensures accountability, maintains consistency in analysis 
 Depending on the procedure, this section should describe:
 
 - **Roles involved:** Identify all personnel or teams responsible for performing, reviewing, or approving steps within the procedure.
+
 - **Responsibilities:** Describe the specific duties for each role (e.g., performing laboratory procedures, data processing, quality control, result authorisation, report authorisation).
 
 -----
