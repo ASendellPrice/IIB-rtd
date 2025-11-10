@@ -3,7 +3,7 @@ Resources & Tools
 
 .. important::
 
-  Use **either** the *Resources & Tools* section (for desk-based procedures **or** the *Equipment & Reagents* section (for laboratory procedures). 
+  Use **either** the *Resources & Tools* section (for desk-based procedures) **or** the *Equipment & Reagents* section (for laboratory procedures). 
 
 This section should list all resources and tools required to carry out the procedure. It ensures that users have access to the necessary infrastructure, information, and permissions before starting.
 
@@ -49,11 +49,7 @@ Depending on the procedure, this may include:
 
 .. dropdown:: 🧪 Laboratory Procedure
 
-  *Example SOP content for a nucleic acid extraction procedure*
-
-  .. rubric:: Resources & Tools
-
-  Add content for lab procedure resources here.
+  This section is **not suitable** for laboratory procedures. Please use the *Equipment & Reagents* section instead.
 
 .. dropdown:: 💻 Code Update & Review Procedure
 
