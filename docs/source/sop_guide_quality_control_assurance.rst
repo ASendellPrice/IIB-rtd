@@ -1,10 +1,9 @@
-Verification & Quality Control
-================================
+Quality Control & Verification
+==============================
 
 This section should outline the quality control (QC) measures and verification steps implemented to ensure the accuracy, reliability, and reproducibility of the procedure described in the SOP. Clear documentation of QC practices helps maintain confidence in results and supports compliance with regulatory and accreditation standards.
 
-Key Elements to Include
------------------------
+This section may include:
 
 - **Control Samples:** Use positive and negative controls, as well as samples of known characteristics (e.g. variant types, resistance markers, reference strains) to verify that the procedure consistently produces expected results.
 
