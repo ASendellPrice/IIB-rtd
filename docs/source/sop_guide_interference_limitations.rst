@@ -19,7 +19,7 @@ This section may include:
 
    *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
    
-   .. rubric:: Change history
+   .. rubric:: Interferences & Limitations
    
    The procedure is validated to detect HIV drug resistance mutations present at a minimum variant allele frequency of 5% in samples with a minimum sequencing coverage depth of 100x across the pol gene region. Variants below this threshold may not be reliably detected.
 
