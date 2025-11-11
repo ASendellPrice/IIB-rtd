@@ -3,8 +3,7 @@ Interferences & Limitations
 
 This section should outline any factors that may affect the reliability, accuracy, or applicability of the procedure. Identifying interferences and limitations helps ensure that results are interpreted correctly and that the procedure is used within its validated scope.
 
-What to Include
----------------
+This section may include:
 
 - **Detection or Performance Limits:** Define the boundaries of the procedure’s capability (e.g. sensitivity, specificity, minimum/maximum measurable values, or operational thresholds).
 
