@@ -2,7 +2,9 @@ Change History
 ==============
 
 .. important::
-   This section should be included in an SOP if the laboratory/organisation does not make use of an electronic Quality Management System (eQMS).
+   **Recording of change history is a requirement under ISO 15189:2022 (Management System Requirements, Document Control).**
+   
+   This section should therefore be included in an SOP if the laboratory/organisation does not make use of an electronic Quality Management System (eQMS) that records changes to controlled documents.
 
 The 'Change History' section of an SOP consists of a list of entries detailing the changes made since the publication of version 1 of a controlled document. Each entry should record:
 
@@ -13,7 +15,9 @@ The 'Change History' section of an SOP consists of a list of entries detailing t
 - The version implemented.
 - The authorising person/role.
 
-.. hint::
+Recording of change history is a requirement set out in the ISO 15189 section .. 
+
+.. note::
   Consider implementing a **threshold rule** for classifying changes. For example, if 10 minor change requests have been accumulated since the last major version, the next update must be classified as a *major change* and a new version number assigned.
 
 -----
