@@ -22,7 +22,7 @@ Depending on the procedure being documented, this may include:
 
 .. note::
 
-   Even procedures that appear low-risk (e.g. administrative or computational tasks) still require consideration of ergonomic safety).
+   Even procedures that appear low-risk (e.g. administrative or computational tasks) will at a minimum still need to consider the safe use of display screen equipment and desk ergonomics.
 
 -----
 

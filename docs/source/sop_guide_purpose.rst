@@ -8,9 +8,9 @@ The 'Purpose' section of an SOP should provide a clear and concise statement of 
 
 Depending on the type of procedure, the purpose may describe:
 
-- The operational or clinical need the procedure addresses
-- The outcomes or deliverables it is designed to produce
-- Its position within a larger workflow or diagnostic service
+- The operational or clinical need the procedure addresses.
+- The outcomes or deliverables it is designed to produce.
+- Its position within a larger workflow or diagnostic service.
 
 -----
 

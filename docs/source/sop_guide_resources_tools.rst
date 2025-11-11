@@ -11,7 +11,7 @@ This section should list all resources and tools required to carry out the proce
 
 Depending on the procedure, this may include:
 
-- **Software:** Applications, platforms, or tools required (e.g., office software, analysis platforms, training systems).
+- **Software:** Applications, platforms, or tools required (e.g., computer software, analysis platforms, training systems etc).
 
 - **Data & Information Sources:** Databases, datasets, records, or reference materials needed to complete the task.
 
