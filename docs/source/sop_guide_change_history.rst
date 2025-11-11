@@ -37,7 +37,7 @@ The 'Change History' section of an SOP consists of a list of entries detailing t
    
    Add content
 
-.. dropdown:: 🔬 Laboratory Procedure
+.. dropdown:: 🧪 Laboratory Procedure
 
    *Example SOP content for a nucleic acid extraction procedure*
 
