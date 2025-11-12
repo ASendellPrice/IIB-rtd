@@ -2,9 +2,18 @@ Specimen Type & Test Selection
 ==============================
 
 .. important::
-   Add
+   This section is relevant to SOPs involving the direct use of specimens, which will predominately consist of laboratory procedures or sample reception/triage.
 
-Add text.
+The *'Specimen Type & Test Selection'* section of an SOP should describe the types of specimens for which the procedure has been validated. It must also outline the acceptance criteria that determine whether the specimen is suitable for analysis. In cases where multiple workflows or test options are available, this section should also provide clear criteria for selecting the appropriate test option.
+
+Key points to cover include:
+
+- **Validate specimen types:** List the specimen types that have been approved for use with the procedure (e.g. blood, urine, tissue, swabs, serum etc).
+
+- **Acceptance criteria:** Define the minimum requirements for specimen quality, volume, labelling, and storage conditions to ensure sample integrity and confirm sample origin.
+
+- **Test Selection:** Provide clear guidance on how to choose between different testing workflows or assays based on specimen type received or clinical indications. 
+
 
 -----
 
