@@ -62,6 +62,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    sop_guide_purpose
    sop_guide_scope
    sop_guide_cross_references
+   sop_guide_definition
    sop_guide_responsibilities
    sop_guide_definitions
    sop_guide_resources_tools
