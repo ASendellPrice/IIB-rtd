@@ -1,7 +1,10 @@
-Specimen Collection & Transport
+Specimen Collection, Transport & Storage
 ===============================
 
-This section is relevant to SOPs involving the direct use of specimens, which will predominately consist of laboratory procedures. It it should outline the correct procedures for collection of the specimen from its source (e.g. a patient) and the transport of the specimen to the laboratory.
+.. important::
+  This section is relevant to SOPs involving the direct use of specimens, which will predominately consist of laboratory procedures. 
+  
+The *'Specimen Collection, Transport & Storage'* section of an SOP should outline the correct procedures for collection of the specimen from its source (e.g. a patient), the transport of the specimen to the laboratory, and the subsequent storage requirements on receipt of the specimen.
 
 -----
 
