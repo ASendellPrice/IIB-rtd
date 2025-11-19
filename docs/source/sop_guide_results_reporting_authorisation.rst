@@ -4,7 +4,7 @@ Result Reporting & Authorisation
 .. important::
   This section should be included in SOPs where results are reported to internal or external stakeholders.
 
-The 'Result Reporting & Authorisation' section of an SOP should detail the process for authorising and the subsequent release of results generated during the procedure.
+The *'Result Reporting & Authorisation'* section of an SOP should detail the process for authorising and the subsequent release of results generated during the procedure.
 
 This section may include:
 
@@ -30,7 +30,7 @@ This section may include:
 
    *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
    
-   .. rubric:: Result reporting
+   .. rubric:: Result reporting & authorisation
    
    Add content
 
@@ -38,7 +38,7 @@ This section may include:
 
    *Example SOP content for a training procedure*
 
-   .. rubric:: Result reporting
+   .. rubric:: Result reporting & authorisation
    
    Add content
 
@@ -46,7 +46,7 @@ This section may include:
 
    *Example SOP content for a nucleic acid extraction procedure*
 
-   .. rubric:: Result reporting
+   .. rubric:: Result reporting & authorisation
    
    Add content
 
@@ -54,7 +54,7 @@ This section may include:
 
    *Example SOP content for a code update and review procedure*
 
-   .. rubric:: Result reporting
+   .. rubric:: Result reporting & authorisation
    
    Add content
 
@@ -62,7 +62,7 @@ This section may include:
 
    *Example SOP content for a verification procedure*
 
-   .. rubric:: Result reporting
+   .. rubric:: Result reporting & authorisation
    
    Add content
 
