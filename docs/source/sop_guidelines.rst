@@ -64,7 +64,6 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    sop_guide_cross_references
    sop_guide_definition
    sop_guide_responsibilities
-   sop_guide_definitions
    sop_guide_resources_tools
    sop_guide_equipment_reagents
    sop_guide_health_safety
@@ -75,8 +74,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    sop_guide_procedure
    sop_guide_quality_control_assurance
    sop_guide_interference_limitations
-   sop_guide_results_reporting
-   sop_guide_authorisation
+   sop_guide_results_reporting_authorisation
    sop_guide_appendices
    sop_guide_change_history
 
