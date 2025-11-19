@@ -10,9 +10,14 @@ This section may include:
 
 - **Reporting procedure:** Outline the steps for preparing, verifying, and releasing results, including required documentation, approval processes, and communication channels.
 
+- **Responsibilities:** Define who is responsible for each step of the reporting procedure.
+
 - **Reporting format:** Define the standard format for reporting.
 
-- **Responsibilities:** Define who is responsible for each step of the reporting procedure.
+- **Authorisation:** Define how reports are authorised prior to release, specify: 
+    - when authorisation is required (e.g. all results or only when a specific result is generated such as the identification of a resistance or pathogenetic mutation);
+    - how authorisation is documented;
+    - what conditions must be met before authorisation can be granted.
 
 - **Recipients:** Define who the intended recipients of the report are e.g. the requesting clinician, outbreak analyst etc.
 
