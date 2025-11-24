@@ -27,19 +27,27 @@ Depending on the procedure, this may include:
 
 .. dropdown:: 🧬 Bioinformatics Procedure
 
-  *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
+  *Example SOP content for a bioinformatics QC procedure*
 
   .. rubric:: Resources & Tools
 
-  The following equipment, software, and reference data are required to perform this procedure:
+  The following equipment and software are required to perform quality control of sequencing datasets:
+  
+  **Hardware:**
 
-  - **Computer hardware:** PC or equivalent workstation capable of accessing the sequence server.
+  - PC or equivalent workstation capable of accessing the laboratory’s production server.
 
-  - **Software:** SSH client software such as PuTTY, MobaXterm, or Windows Subsystem for Linux (WSL) for connecting to the laboratory’s sequence server.
+  **Software:**
+  
+  - SSH client software (e.g. PuTTY, Windows Subsytem for Linux (WSL), MobaXterm) for connecting to the laboratory’s production server.
+  
+  - Production version of the QC pipeline installed and configured on the production server.
+  
+  **Network access:** 
+  
+  - Access to the laboratory’s network with the sequence server mapped as a network drive.
 
-  - **Network access:** Access to the laboratory’s network with the sequence server mapped as a network drive.
-
-  - **Internet access:** Required to access the Stanford HIV Drug Resistance Database (https://hivdb.stanford.edu/). This database is selected because it is the current internationally recognised gold standard for HIV drug resistance typing.
+  - User account with adequate permissions to read/write sequencing data and QC outputs.
 
 .. dropdown:: 👩‍🔬 Training Procedure
 
