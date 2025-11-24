@@ -33,9 +33,6 @@ The following diagram illustrates the modular structure of SOPs using this appro
    :align: center
    :width: 600px
 
-.. attention::
-   The above figure is a conceptual visualisation of a modular SOP structure. This is not finalised.
-
 Each building block in the diagram represents a distinct section of an SOP. Some sections are fundamental and should be included in all SOPs, while others are optional and can be included based on the specific requirements of the procedure being documented.
 
 Using these building blocks, organisations can tailor the SOP structure to suit the specific needs of each procedure while maintaining consistency in format and style across all SOPs. Users of our approach will need to select building block sections that are relevant to the procedure being documented. This provides for flexibility and adaptability, allowing organisations to create SOPs that are better fit for purpose.
@@ -86,9 +83,9 @@ Case studies
 
 Throughout the guidance we have focussed on five procedure case studies to illustrate how the modular SOP structure can be applied in practice:
 
-.. dropdown:: 🧬 Bioinformatics Procedure
+.. dropdown:: 🧬 Bioinformatics QC Procedure
 
-   Add description of case study
+   A bioinformatics procedure for assessing the quality of sequencing reads prior to downstream analysis and reporting.
 
 .. dropdown:: 🧪 Laboratory Procedure
 
