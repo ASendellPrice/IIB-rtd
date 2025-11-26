@@ -5,7 +5,7 @@ Welcome
    :hidden:
 
    glossary
-   sop_guidelines
+   sop_guide/sop_guidelines
    coding_guidelines
 
 Welcome to the ISO in a Box documentation!
