@@ -54,27 +54,27 @@ On the basis of the modular SOP structure outlined above, we have developed deta
 Each section of the SOP writing guidance can be accessed via the table of contents below or by navigating using the "Next" and "Previous" buttons at the bottom of this page.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   sop_guide/purpose/purpose
-   sop_guide/scope/scope
-   sop_guide/sop_guide_cross_references
-   sop_guide/sop_guide_definition
-   sop_guide/sop_guide_responsibilities
-   sop_guide/sop_guide_resources_tools
-   sop_guide/sop_guide_equipment_reagents
-   sop_guide/sop_guide_health_safety
-   sop_guide/sop_guide_information_governance
-   sop_guide/sop_guide_specimen_collection_transport
-   sop_guide/sop_guide_data_types
-   sop_guide/sop_guide_sample_types
-   sop_guide/procedure/procedure
-   sop_guide/sop_guide_quality_control_assurance
-   sop_guide/sop_guide_interference_limitations
-   sop_guide/sop_guide_results_reporting_authorisation
-   sop_guide/sop_guide_record_management
-   sop_guide/sop_guide_appendices
-   sop_guide/sop_guide_change_history
+   purpose/purpose
+   scope/scope
+   sop_guide_cross_references
+   sop_guide_definition
+   sop_guide_responsibilities
+   sop_guide_resources_tools
+   sop_guide_equipment_reagents
+   sop_guide_health_safety
+   sop_guide_information_governance
+   sop_guide_specimen_collection_transport
+   sop_guide_data_types
+   sop_guide_sample_types
+   procedure/procedure
+   sop_guide_quality_control_assurance
+   sop_guide_interference_limitations
+   sop_guide_results_reporting_authorisation
+   sop_guide_record_management
+   sop_guide_appendices
+   sop_guide_change_history
 
 ----------------
 
