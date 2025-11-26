@@ -16,7 +16,7 @@ The content of the procedure section will vary considerably depending on the nat
 
    *Example SOP content for a bioinformatics QC pipeline*
    
-   .. include:: sop_guide_procedure_bioinformaticsqc
+   .. include:: sop_guide_procedure_bioinformaticsqc.rst
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
 
