@@ -58,9 +58,9 @@ Each section of the SOP writing guidance can be accessed via the table of conten
 
    purpose/purpose
    scope/scope
-   sop_guide_cross_references
-   sop_guide_definition
-   sop_guide_responsibilities
+   cross_references/cross_references
+   definitions/definitions
+   responsibilities/responsibilities
    sop_guide_resources_tools
    sop_guide_equipment_reagents
    sop_guide_health_safety

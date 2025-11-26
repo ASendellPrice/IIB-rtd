@@ -1,4 +1,4 @@
-**Procedure**
+.. rubric:: Procedure
 
 **1. Receipt of sequencing files**
    
@@ -112,7 +112,7 @@ Contains a graphic report summarising the species assignments of reads that coul
 
    <hr>
 
-**4. *Interpreting the analysis report**
+**4. Interpreting the analysis report**
 
 
 

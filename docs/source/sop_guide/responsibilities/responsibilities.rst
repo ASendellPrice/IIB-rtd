@@ -17,52 +17,29 @@ Depending on the procedure, this section should describe:
 .. rubric:: Example content:
 
 .. dropdown:: 🧬 Bioinformatics QC Procedure
+   
+   .. include:: example_bioinformatics.rst
 
-   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
-   
-   .. rubric:: Roles & Responsibilities
-
-   **Bioinformatician:**
-   
-   - Responsible for the end-to-end execution and monitoring of the QC pipeline, ensuring all steps are performed according to the SOP.
-
-   - Assess sequencing data quality and generate QC reports summarising key metrics for each run.
-   
-   - Identify and escalate QC issues with sequencing runs or individual samples to senior laboratory staff for review and potential resequencing.
-   
-   - Maintain accurate documentation of QC results and pipeline performance for audit and reporting purposes.
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
+   
+   .. include:: example_training.rst
 
-   *Example SOP content for a training procedure*
-
-   .. rubric:: Roles & Responsibilities
-
-   Add content for training procedure roles here.
 
 .. dropdown:: 🧪 Laboratory Procedure
+   
+   .. include:: example_lab.rst
 
-   *Example SOP content for a nucleic acid extraction procedure*
-
-   .. rubric:: Roles & Responsibilities
-
-   Add content for lab procedure roles here.
 
 .. dropdown:: 💻 Code Update & Review Procedure
+   
+   .. include:: example_code_review.rst
 
-   *Example SOP content for a code update and review procedure*
 
-   .. rubric:: Roles & Responsibilities
+.. dropdown:: ✅ Validation Procedure
 
-   Add content for code update & review procedure roles here.
+   .. include:: example_validation.rst
 
-.. dropdown:: ✅ Verification Procedure
-
-   *Example SOP content for a verification procedure*
-
-   .. rubric:: Roles & Responsibilities
-
-   Add content for verifcation procedure here.
 
 .. raw:: html
 
