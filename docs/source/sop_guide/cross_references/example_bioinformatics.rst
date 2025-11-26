@@ -1,7 +1,3 @@
-.. raw:: html
-
-   <hr>
-
 .. rubric:: CROSS-REFERENCES
 
 .. raw:: html
