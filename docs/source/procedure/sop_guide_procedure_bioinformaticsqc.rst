@@ -1,4 +1,4 @@
-*Example SOP content for a bioinformatics QC pipeline*
+**Procedure**
 
 **Receipt of sequencing files**
    
