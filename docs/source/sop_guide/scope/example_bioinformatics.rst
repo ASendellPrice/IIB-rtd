@@ -1,4 +1,8 @@
-.. rubric:: Scope
+.. rubric:: SCOPE
+
+.. raw:: html
+
+   <hr>
 
 This SOP applies to the quality control of 150bp paired-end FASTQ files generated using Illumina sequencing instruments (e.g. MiSeq, NextSeq) for microbial datasets only.  This SOP does not cover:
 

@@ -1,4 +1,8 @@
-.. rubric:: Responsibilities
+.. rubric:: RESPONSIBILITIES
+
+.. raw:: html
+
+   <hr>
 
 **Bioinformatician:**
    

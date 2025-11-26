@@ -1,4 +1,8 @@
-.. rubric:: Cross-references
+.. rubric:: CROSS-REFERENCES
+
+.. raw:: html
+
+   <hr>
 
 The following documents support or are directly related to this procedure:
 

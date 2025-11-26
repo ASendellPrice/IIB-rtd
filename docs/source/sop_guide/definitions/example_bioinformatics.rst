@@ -1,4 +1,8 @@
-.. rubric:: Definitions
+.. rubric:: DEFINITIONS
+
+.. raw:: html
+
+   <hr>
 
 .. list-table::
   :header-rows: 1
