@@ -2,7 +2,8 @@
    
 Sequencing files are automatically imported onto the staging server upon completion of an Illumina sequencing run. The bioinformatics production server checks the staging server for completed runs every 10 minutes via a scheduled cron job. When a new completed run is detected, the production server automatically imports the files from the staging server to ``/mnt/data/raw/<SEQUENCER_ID>/<RUN_ID>/`` and initiates the bioinformatics QC pipeline, which is implemented in Nextflow and maintained on `GitHub <https://github.com/lab-bioinformatics/qc-pipeline>`_.
 
-------
+.. raw:: html
+   <hr />
 
 **Executing the analysis**
    
@@ -10,6 +11,9 @@ The bioinformatics QC pipeline can be executed in two modes:
 
 1.	**Automated Mode:** The pipeline is launched automatically when a new sequencing run is copied from the staging server.
 2.	**Manual Mode:** A user can manually initiate the pipeline on a selected set of FASTQ files.
+
+.. raw:: html
+   <hr />
 
 **Manual Mode**
 
@@ -53,9 +57,14 @@ The QC pipeline will now be submitted to the production job queue. Because Nextf
    .. code-block:: bash
       squeue -u prod-user
 
-   Once sufficient compute resources become available, the job scheduler will start the pipeline. The scheduler is configured so that jobs allocated to the production queue are prioritised; therefore, the QC pipeline should normally commence within a few minutes, depending on resource availability.
+Once sufficient compute resources become available, the job scheduler will start the pipeline. The scheduler is configured so that jobs allocated to the production queue are prioritised; therefore, the QC pipeline should normally commence within a few minutes, depending on resource availability.
 
-   The bioinformatics QC pipeline completes the following steps:
+.. raw:: html
+   <hr />
+
+**Pipeline completion**
+
+The bioinformatics QC pipeline completes the following steps:
 
    1.	Pairs fastq files based on their name using pattern matching to identify which samples are “forward” and which are “reverse”.
    
