@@ -13,10 +13,9 @@ The content of the procedure section will vary considerably depending on the nat
 .. rubric:: Example content:
 
 .. dropdown:: 🧬 Bioinformatics QC Procedure
-
-   *Example SOP content for a bioinformatics QC pipeline*
    
    .. include:: sop_guide_procedure_bioinformaticsqc.rst
+
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
 
@@ -26,6 +25,7 @@ The content of the procedure section will vary considerably depending on the nat
    
    Add content
 
+
 .. dropdown:: 🧪 Laboratory Procedure
 
    *Example SOP content for a nucleic acid extraction procedure*
@@ -33,6 +33,7 @@ The content of the procedure section will vary considerably depending on the nat
    .. rubric:: Procedure
    
    Add content
+
 
 .. dropdown:: 💻 Code Update & Review Procedure
 
@@ -42,6 +43,7 @@ The content of the procedure section will vary considerably depending on the nat
    
    Add content
 
+
 .. dropdown:: ✅ Verification Procedure
 
    *Example SOP content for a verification procedure*
@@ -49,6 +51,7 @@ The content of the procedure section will vary considerably depending on the nat
    .. rubric:: Procedure
    
    Add content
+
 
 .. raw:: html
 
