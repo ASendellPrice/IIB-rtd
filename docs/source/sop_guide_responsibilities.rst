@@ -22,19 +22,15 @@ Depending on the procedure, this section should describe:
    
    .. rubric:: Roles & Responsibilities
 
-   The table below outlines the key roles and their associated responsibilities for the HIV Antiviral Resistance Pipeline SOP:
+   **Bioinformatician:**
+   
+   - Responsible for the end-to-end execution and monitoring of the QC pipeline, ensuring all steps are performed according to the SOP.
 
-   +------------------------+------------------------------------------------------------------------+
-   | **Role**               | **Responsibility**                                                     |
-   +========================+========================================================================+
-   | Bioinformatician       | Responsible for the end-to-end running and monitoring of the pipeline, |
-   |                        | ensuring all steps are completed as per the SOP.                       |
-   +------------------------+------------------------------------------------------------------------+
-   | Senior Bioinformatician| Authorises final results prior to report generation.                   |
-   +------------------------+------------------------------------------------------------------------+
-   | Head of Laboratory     | Oversees the overall process, ensuring compliance with laboratory      |
-   |                        | standards and authorising final clinical reports.                      |
-   +------------------------+------------------------------------------------------------------------+
+   - Assess sequencing data quality and generate QC reports summarising key metrics for each run.
+   
+   - Identify and escalate QC issues with sequencing runs or individual samples to senior laboratory staff for review and potential resequencing.
+   
+   - Maintain accurate documentation of QC results and pipeline performance for audit and reporting purposes.
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
 

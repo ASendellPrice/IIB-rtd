@@ -30,7 +30,7 @@ Depending on the type of procedure being documented, the scope may include:
 
    - Quality control of non-microbial datasets;
 
-   - Sequencing performed using alternative read lengths, library preparation workflows or non-Illumina platforms (e.g. Pac-Bio or Oxford Nanopore);
+   - Sequencing performed using alternative read lengths, library preparation workflows or non-Illumina platforms (e.g. Pac-Bio or Oxford Nanopore); or
 
    - Downstream bioinformatic analyses beyond the initial QC evaluation.
 

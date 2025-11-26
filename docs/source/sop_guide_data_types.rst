@@ -24,13 +24,12 @@ This section may include:
    
    .. rubric:: Data Type & Analysis Selection
    
-   This procedure is designed to process 150bp paired-end FASTQ files generated using the Illumina NextSeq platform. Each sample should have two FASTQ files (.fastq or .fastq.gz) representing the forward and reverse reads.
+   This procedure is designed to process 150bp paired-end FASTQ files generated using Illumina sequencing platforms (e.g. MiSeq, NextSeq). Each sample should have two FASTQ files (.fastq or .fastq.gz) representing the forward and reverse reads.
 
-   The pipeline is specifically optimised and validated to process this data type and read length. Samples generated using other sequencing technologies (e.g. Oxford Nanopore, PacBio) or read lengths are not validated for analysis using this procedure.
+   The QC pipeline is specifically optimised and validated to process this data type and read length. Samples generated using other sequencing technologies (e.g. Oxford Nanopore, PacBio) or read lengths are not validated for analysis using this procedure.
    
-   The input data should represent clinical HIV samples derived from patient plasma.
+   The input data should be derived from microbial samples ; this procedure is not designed or validated for human sequencing datasets. Samples containing high levels of human derived reads will not pass QC thresholds. Analysis tools and pipeline parameters have been selected to align with the anticipated characteristics of microbial data. 
 
-   The choice of analysis tools and parameters is optimised for the specified data type. For example, the read mapper is configured to handle the high mutation rate of HIV, and variant calling thresholds are set to detect low-frequency resistance mutations typical in viral populations. Long-read data from Oxford Nanopore or PacBio platforms are not supported by this procedure due to differences in error profiles and read characteristics.
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
 
