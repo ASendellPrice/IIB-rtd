@@ -15,8 +15,6 @@ The content of the procedure section will vary considerably depending on the nat
 .. dropdown:: 🧬 Bioinformatics QC Procedure
 
    *Example SOP content for a bioinformatics QC pipeline*
-
-   .. rubric:: Procedure
    
    .. include:: sop_guide_procedure_bioinformaticsqc.rst
 
