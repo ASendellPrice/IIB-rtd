@@ -61,7 +61,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    cross_references/cross_references
    definitions/definitions
    responsibilities/responsibilities
-   sop_guide_resources_tools
+   resources_tools/resources_tools
    sop_guide_equipment_reagents
    sop_guide_health_safety
    sop_guide_information_governance

@@ -1,4 +1,4 @@
-.. rubric:: Purpose
+.. rubric:: PURPOSE
 
 Bioinformatics pipelines are composed of code (software), which will require updating over time as bugs are identified and fixed and new features are added. In the cases where this involves code being produced within the Luma Genomics Unit (LGU), this should be subject to a review before updates are pushed to production systems.
 
