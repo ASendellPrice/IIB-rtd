@@ -62,7 +62,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    definitions/definitions
    responsibilities/responsibilities
    resources_tools/resources_tools
-   sop_guide_equipment_reagents
+   equipment_reagents/equipment_reagents
    sop_guide_health_safety
    sop_guide_information_governance
    sop_guide_specimen_collection_transport
