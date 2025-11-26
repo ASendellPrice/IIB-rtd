@@ -1,4 +1,4 @@
-.. rubric:: Procedure
+.. rubric:: PROCEDURE
 
 .. raw:: html
 
