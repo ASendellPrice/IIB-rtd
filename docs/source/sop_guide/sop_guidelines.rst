@@ -28,7 +28,7 @@ To overcome these challenges, we propose a modular approach to SOP writing. This
 
 The following diagram illustrates the modular structure of SOPs using this approach:
 
-.. image:: images/SOP_building_blocks.png
+.. image:: ../images/SOP_building_blocks.png
    :alt: Modular SOP Structure
    :align: center
    :width: 600px
@@ -56,25 +56,25 @@ Each section of the SOP writing guidance can be accessed via the table of conten
 .. toctree::
    :maxdepth: 2
 
-   sop_guide_purpose
-   sop_guide_scope
-   sop_guide_cross_references
-   sop_guide_definition
-   sop_guide_responsibilities
-   sop_guide_resources_tools
-   sop_guide_equipment_reagents
-   sop_guide_health_safety
-   sop_guide_information_governance
-   sop_guide_specimen_collection_transport
-   sop_guide_data_types
-   sop_guide_sample_types
-   procedure/sop_guide_procedure
-   sop_guide_quality_control_assurance
-   sop_guide_interference_limitations
-   sop_guide_results_reporting_authorisation
-   sop_guide_record_management
-   sop_guide_appendices
-   sop_guide_change_history
+   sop_guide/purpose/purpose
+   sop_guide/scope/scope
+   sop_guide/sop_guide_cross_references
+   sop_guide/sop_guide_definition
+   sop_guide/sop_guide_responsibilities
+   sop_guide/sop_guide_resources_tools
+   sop_guide/sop_guide_equipment_reagents
+   sop_guide/sop_guide_health_safety
+   sop_guide/sop_guide_information_governance
+   sop_guide/sop_guide_specimen_collection_transport
+   sop_guide/sop_guide_data_types
+   sop_guide/sop_guide_sample_types
+   sop_guide/procedure/procedure
+   sop_guide/sop_guide_quality_control_assurance
+   sop_guide/sop_guide_interference_limitations
+   sop_guide/sop_guide_results_reporting_authorisation
+   sop_guide/sop_guide_record_management
+   sop_guide/sop_guide_appendices
+   sop_guide/sop_guide_change_history
 
 ----------------
 

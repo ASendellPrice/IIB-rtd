@@ -25,7 +25,7 @@ Depending on the procedure, this may include:
 
 .. rubric:: Example content:
 
-.. dropdown:: 🧬 Bioinformatics Procedure
+.. dropdown:: 🧬 Bioinformatics QC Procedure
 
   *Example SOP content for a bioinformatics QC procedure*
 

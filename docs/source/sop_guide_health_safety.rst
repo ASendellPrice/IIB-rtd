@@ -29,7 +29,7 @@ Depending on the procedure being documented, this may include:
 
 .. rubric:: Example content:
 
-.. dropdown:: 🧬 Bioinformatics Procedure
+.. dropdown:: 🧬 Bioinformatics QC Procedure
 
    *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
    

@@ -7,7 +7,7 @@ This section of an SOP should include definitions of scientific, technical, and 
 
 .. rubric:: Example content
 
-.. dropdown:: 🧬 Bioinformatics Procedure
+.. dropdown:: 🧬 Bioinformatics QC Procedure
 
    *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
 

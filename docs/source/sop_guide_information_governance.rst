@@ -19,7 +19,7 @@ The *'Information Governance'* section of an SOP should describe how information
 
 .. rubric:: Example content:
 
-.. dropdown:: 🧬 Bioinformatics Procedure
+.. dropdown:: 🧬 Bioinformatics QC Procedure
 
    *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
    

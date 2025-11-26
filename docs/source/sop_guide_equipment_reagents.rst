@@ -27,7 +27,7 @@ Depending on the procedure, this may include:
 
 .. rubric:: Example content:
 
-.. dropdown:: 🧬 Bioinformatics Procedure
+.. dropdown:: 🧬 Bioinformatics QC Procedure
 
   This section is **not suitable** for bioinformatics procedures. Please use the :ref:`Resources & Tools <sop_guide_resources_tools>` section instead.
 

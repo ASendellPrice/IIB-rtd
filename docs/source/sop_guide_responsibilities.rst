@@ -16,7 +16,7 @@ Depending on the procedure, this section should describe:
 
 .. rubric:: Example content:
 
-.. dropdown:: 🧬 Bioinformatics Procedure
+.. dropdown:: 🧬 Bioinformatics QC Procedure
 
    *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
    
