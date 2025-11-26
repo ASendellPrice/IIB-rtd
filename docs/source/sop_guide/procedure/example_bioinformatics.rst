@@ -1,5 +1,9 @@
 .. rubric:: Procedure
 
+.. raw:: html
+
+   <hr>
+
 **1. Receipt of sequencing files**
    
 Sequencing files are automatically imported onto the staging server upon completion of an Illumina sequencing run. The bioinformatics production server checks the staging server for completed runs every 10 minutes via a scheduled cron job. When a new completed run is detected, the production server automatically imports the files from the staging server to ``/mnt/data/raw/<SEQUENCER_ID>/<RUN_ID>/`` and initiates the bioinformatics QC pipeline, which is implemented in Nextflow and maintained on `GitHub <https://github.com/lab-bioinformatics/qc-pipeline>`_.
