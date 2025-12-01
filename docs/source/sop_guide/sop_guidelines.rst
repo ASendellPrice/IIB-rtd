@@ -70,7 +70,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    sample_types/sample_types
    procedure/procedure
    quality_control_assurance/quality_control_assurance
-   interference_limitations/interference_limitations
+   interferences_limitations/interferences_limitations
    sop_guide_results_reporting_authorisation
    sop_guide_record_management
    sop_guide_appendices
