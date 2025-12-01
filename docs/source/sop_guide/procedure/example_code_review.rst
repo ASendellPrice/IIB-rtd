@@ -18,8 +18,9 @@ An overview of the procedure is given in the two schematics below. The actions s
 
 Actions in the process are performed by roles. One person may assume different roles at different stages of the process subject to constraints.
 
-.. list-table:: Roles and Responsibilities
+.. list-table::
    :header-rows: 1
+   :widths: 15 25 60
 
    * - Role
      - Team members who can assume roles
