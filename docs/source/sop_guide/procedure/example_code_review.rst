@@ -2,9 +2,9 @@
 
 *Example content from an SOP outlining the procedure for updating and reviewing code within the Luma Genomics Unit (LGU).*
 
-.. raw:: html 
-    
-    <hr />
+.. raw:: html
+
+   <hr />
 
 **Procedure**
 
@@ -14,9 +14,9 @@ An overview of the procedure is given in the two schematics below. The actions s
 
 ...
 
-.. raw:: html 
-    
-    <hr />
+.. raw:: html
+
+   <hr />
 
 **2. Roles and Actions**
 
@@ -56,13 +56,13 @@ Actions in the process are performed by roles. One person may assume different r
        - Close issues that are low priority or not needed
        - Assign reviewers to open merge requests
 
-.. raw:: html 
-    
-    <hr />
+.. raw:: html
+
+   <hr />
 
 **3. Classifying Reviewer Improvement Requests**
 
-During code review, reviewers should comment on the places where code can be improved, and distinguish between the required and suggested improvements. Those that are specified as required improvements will need to be implemented as a post-review action before the code can be merged; suggested improvements can be made at a later stage as they describe ‘good practice’ rather than  functional changes.
+During code review, reviewers should comment on the places where code can be improved, and distinguish between the required and suggested improvements. Those that are specified as required improvements will need to be implemented as a post-review action before the code can be merged; suggested improvements can be made at a later stage as they describe ‘good practice’ rather than functional changes.
 
 To distinguish between required and suggested changes, the reviewer should begin review comments with a code, as described in the following table.
 
@@ -89,18 +89,17 @@ To distinguish between required and suggested changes, the reviewer should begin
        - Refactoring suggestions which will improve readability or style where the code is already sufficiently readable
        - Future improvements which are not relevant to this update
 
+.. raw:: html
 
-.. raw:: html 
-    
-    <hr />
+   <hr />
 
-**4. Use of Gitlab in the process**
+**4. Use of GitLab in the process**
 
-The version control system (VCS) used at LMU to implement this process is Gitlab. Here we describe in detail how the roles in the process interact with Gitlab to perform the actions.
+The version control system (VCS) used at LMU to implement this process is GitLab. Here we describe in detail how the roles in the process interact with GitLab to perform the actions.
 
 **4.1 GitLab Issue Fields: Issue Types and Priorities**
 
-GitLab issue fields are used to categorise issues and form an important part of the review process. The fields/values  used at LGU are as follows: 
+GitLab issue fields are used to categorise issues and form an important part of the review process. The fields/values used at LGU are as follows:
 
 .. list-table::
    :header-rows: 1
@@ -132,6 +131,7 @@ GitLab issue fields are used to categorise issues and form an important part of 
 2. In GitLab, navigate to the required repository.
 
 3. Using the command line, clone the GitLab repository or individual branch.  
+
    First, copy the repository URL using the clone dropdown on the *Project overview* page on the GitLab website, then change directory into the location you want to store the code and type one of the following commands depending on your requirements:
 
    .. code-block:: bash
@@ -175,15 +175,23 @@ GitLab issue fields are used to categorise issues and form an important part of 
 
 10. Go to the GitLab website to submit a merge request between the edited branch and the main version.
 
-    - Select the source and target branches  
-      - Source: updated (and tested) code branch  
-      - Target: master branch  
-    - Click *Compare branches + continue*  
-    - Fill in the title for the change  
-    - Add the content of the GitLab Merge Request template from Appendix 14.2.1 to the description  
-    - Set yourself as the Assignee  
-    - Once a Reviewer has been agreed, assign them to the merge request under *Reviewer*  
-    - Edit the Merge Request description text, replacing or removing template text as appropriate  
+    - Select the source and target branches
+
+      - Source: updated (and tested) code branch
+      - Target: master branch
+
+    - Click *Compare branches + continue*
+
+    - Fill in the title for the change
+
+    - Add the content of the GitLab Merge Request template from Appendix 14.2.1 to the description
+
+    - Set yourself as the Assignee
+
+    - Once a Reviewer has been agreed, assign them to the merge request under *Reviewer*
+
+    - Edit the Merge Request description text, replacing or removing template text as appropriate
+    
     - Click *Submit merge request*
 
 11. Any line-by-line and general comments made on previous commits will be displayed on the merge request page.
@@ -202,8 +210,7 @@ GitLab issue fields are used to categorise issues and form an important part of 
 
 18. Finally, assign a new version to the master branch (which now incorporates the changes).
 
-
-**4.3 Reviewer tasks**
+**4.3 Reviewer Tasks**
 
 1. The code Reviewer will be notified of a new merge request to review by the Developer.
 
@@ -218,7 +225,9 @@ GitLab issue fields are used to categorise issues and form an important part of 
 6. Assess the request and confirm you are competent to review; notify the Team Leader if you feel you do not have the knowledge/skills for this review.
 
 7. Pull the updated development code from GitLab and run any tests as agreed.  
-   Follow the steps outlined in steps 3–5 of the Developer tasks above to clone the repository or branch.  
+
+   Follow the steps outlined in steps 3–5 of the Developer tasks above to clone the repository or branch.
+
    If the repository or branch is already cloned in a suitable testing location, checkout into the latest/finalised version of the working branch:
 
    .. code-block:: bash
@@ -227,29 +236,49 @@ GitLab issue fields are used to categorise issues and form an important part of 
 
 8. Review the code highlighting improvements according to LGU guidelines and standards (see Appendix 14.1 and supporting documents).
 
-   - If you find an improvement that relates to specific lines of code, add a GitLab comment to the related lines in the *Changes* tab of the merge request.  
-   - Start the comment with ([Type][Index]) e.g. for the third required improvement found:  
-     ``(R3) This code is unreadable …``  
-   - If making several comments at once, use the *Start a review* button to group comments with a final post.  
-   - When you have completed your review, populate the end-of-review comment using the GitLab Merge Request – Reviewer template (Appendix 14.2.2), and notify the Developer of completion.  
-   - The Developer will address improvements by pushing new changes to the code and commenting on the improvement raised.  
-   - Multiple rounds of review may be required. Continue numbering improvements sequentially (e.g. second round starts with R15).
+   If you find an improvement that relates to specific lines of code, add a GitLab comment to the related lines in the *Changes* tab of the merge request.
 
-9. Testing as part of Review:  
-   The Reviewer is responsible for reviewing test results, suggesting missing tests for the Developer to satisfy, and running tests if agreed. These may include:
+   Start the comment with ([Type][Index]) e.g. for the third required improvement found:
 
-   - A testing suite  
-   - Suggested tests provided by the Developer  
-   - Tests chosen by the Reviewer to assure code quality  
-   - Tests in an environment similar to production to confirm updated code functions as expected
+   ::
+
+      (R3) This code is unreadable …
+
+   If you are making several comments at once, use the *Start a review* button to group comments with a final post.
+
+   When you have completed your review, populate the end-of-review comment using the GitLab Merge Request – Reviewer template (Appendix 14.2.2), and notify the Developer of the completion of the review.
+
+   The Developer will address improvements by pushing new changes to the code and commenting on the improvement raised.
+
+   You may need to repeat multiple rounds of review going back and forth between Reviewer and Assignee. In each round continue numbering the code improvements from where the last round ended. For example, a second round of review might start with a new required improvement R15.
+
+**Testing as part of Review**
+
+9. The Reviewer is responsible for reviewing test results, suggesting missing tests for the Developer to satisfy, and running tests if agreed.
+
+   These may take the form of:
+
+   - A testing suite
+
+   - Suggested tests provided by the Developer
+
+   - Tests chosen by the Reviewer that they deem appropriate to assure the quality of the code
+
+   - Tests in an environment appropriately similar to that of the production environment to confirm updated code is functioning as expected prior to code review request.
 
 10. Review the checklist comments on the merge request *Merge Request Assignee Overview*.
 
-11. If the code passes code quality assurance and operational testing, state in the checklist comment box that the code was reviewed, and where appropriate tested and worked as expected. Complete all reviewer sections of the template.  
-    Click *Approve* and inform the Assignee on Slack, who will complete the merge.
+11. If the code passes code quality assurance and operational testing, state in the checklist comment box that the code was reviewed, and where appropriate tested and worked as expected. Complete all reviewer sections of the template.
 
-12. If the code fails operational testing, in the appropriate section of the merge review comment, write:  
-    ``(R#) - When testing the code, the following error occurred: <the error message>``  
-    Testing failures always result in required changes. You may provide information on the cause and possible solution if easily identifiable.
+    Click *Approve* the merge and inform the Assignee on Slack who will complete the merge.
+
+12. If the code fails operational testing, in the appropriate section of the merge review comment, write:
+
+    ::
+
+       (R#) - When testing the code, the following error occurred: <the error message>
+
+    Testing failures always result in required changes. You may provide information on what has caused the error and a possible solution if you are able to identify these easily.
 
 13. Notify the Developer so they can correct, test, and commit their code. Another review cycle will then start.
+
