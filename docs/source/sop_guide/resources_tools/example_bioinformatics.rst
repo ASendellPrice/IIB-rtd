@@ -8,7 +8,7 @@
 
 The following equipment and software are required to perform quality control of sequencing datasets:
 
-.. list-table:: System Requirements
+.. list-table::
    :header-rows: 1
 
    * - Category
