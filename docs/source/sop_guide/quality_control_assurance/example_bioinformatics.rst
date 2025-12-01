@@ -4,12 +4,8 @@
     
     <hr />
 
-**Scope**
+**Verification & Quality Control**
 
-This SOP applies to the quality control of 150bp paired-end FASTQ files generated using Illumina sequencing instruments (e.g. MiSeq, NextSeq) for microbial datasets only.  This SOP does not cover:
+The bioinformatics QC pipeline has been developed to ensure that data passed to downstream analyses is of sufficient quality to produce reliable results.
 
-- Quality control of non-microbial datasets;
-
-- Sequencing performed using alternative read lengths, library preparation workflows or non-Illumina platforms (e.g. Pac-Bio or Oxford Nanopore); or
-
-- Downstream bioinformatic analyses beyond the initial QC evaluation.
+The pipeline was validated against a multi‑project dataset consisting of paired‑end sequencing reads generated from all microorganisms supported by the laboratory (see validation document VA043). To ensure continued performance, this dataset must be periodically processed through the pipeline (every 6-months). If the pipeline is updated, the validation dataset must be rerun before deploying the updated version into production.
