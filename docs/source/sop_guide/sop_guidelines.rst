@@ -66,8 +66,8 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    sop_guide_health_safety
    information_governance/information_governance
    specimen_collection_transport/specimen_collection_transport
-   sop_guide_data_types
-   sop_guide_sample_types
+   data_types/data_types
+   sample_types/sample_types
    procedure/procedure
    sop_guide_quality_control_assurance
    sop_guide_interference_limitations
