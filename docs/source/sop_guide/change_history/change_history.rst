@@ -17,49 +17,34 @@ The 'Change History' section of an SOP consists of a list of entries detailing t
 .. note::
   Consider implementing a **threshold rule** for classifying changes. For example, if 10 minor change requests have been accumulated since the last major version, the next update must be classified as a *major change* and a new version number assigned.
 
------
+-------
 
-.. rubric:: Example content:
+**Example content:**
 
-.. dropdown:: 🧬 Bioinformatics Procedure
-
-   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
+.. dropdown:: 🧬 Bioinformatics QC Procedure
    
-   .. rubric:: Change history
-   
-   Add content
+   .. include:: example_bioinformatics.rst
+
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
-
-   *Example SOP content for a training procedure*
-
-   .. rubric:: Change history
    
-   Add content
+   .. include:: example_training.rst
+
 
 .. dropdown:: 🧪 Laboratory Procedure
-
-   *Example SOP content for a nucleic acid extraction procedure*
-
-   .. rubric:: Change history
    
-   Add content
+   .. include:: example_lab.rst
+
 
 .. dropdown:: 💻 Code Update & Review Procedure
-
-   *Example SOP content for a code update and review procedure*
-
-   .. rubric:: Change history
    
-   Add content
+   .. include:: example_code_review.rst
 
-.. dropdown:: ✅ Verification Procedure
 
-   *Example SOP content for a verification procedure*
+.. dropdown:: ✅ Validation Procedure
 
-   .. rubric:: Change history
-   
-   Add content
+   .. include:: example_validation.rst
+
 
 .. raw:: html
 

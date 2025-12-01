@@ -6,6 +6,6 @@
 
 **Record Management**
 
-For each sample included in a sequencing run, the bioinformatics QC pipeline automatically generates an entry in the QC database. This database captures both run‑level and sample‑level QC metrics, along with the sample’s QC status (PASS or FAIL).
+For each sample included in a sequencing run, the bioinformatics QC pipeline automatically generates an entry in the QC database. This database captures both run‑level and sample‑level QC metrics, along with the sample’s QC status (PASS or FAIL) and organism/workstream assigment (HIV, SARS-CoV2, TB, C.difficile, etc).
 
 Initially, records are accessible only to bioinformaticians until a manual review has been completed. Following this review, records are made available to other authorised users. During the review process, bioinformaticians must document any actions taken when a failed sample is identified (see SOP075 Bioinformatics Routine Tasks).
