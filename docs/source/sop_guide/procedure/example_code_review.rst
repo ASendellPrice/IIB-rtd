@@ -16,13 +16,13 @@ An overview of the procedure is given in the two schematics below. The actions s
 
 .. image:: code_requirements.png
    :align: center
-   :width: 600px
+   :width: 500px
 
 *Schematic 2: Process by which code changes are made, reviewed and approved*
 
 .. image:: code_change_procedure.png
    :align: center
-   :width: 600px
+   :width: 500px
 
 .. raw:: html
 
