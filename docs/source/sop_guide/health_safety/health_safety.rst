@@ -26,48 +26,32 @@ Depending on the procedure being documented, this may include:
 
 -----
 
-
-.. rubric:: Example content:
+**Example content:**
 
 .. dropdown:: 🧬 Bioinformatics QC Procedure
+   
+   .. include:: example_bioinformatics.rst
 
-   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
-   
-   .. rubric:: Health & Safety
-   
-   This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury.
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
-
-   *Example SOP content for a training procedure*
-
-   .. rubric:: Health & Safety
    
-   This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury.
+   .. include:: example_training.rst
+
 
 .. dropdown:: 🧪 Laboratory Procedure
-
-   *Example SOP content for a nucleic acid extraction procedure*
-
-   .. rubric:: Health & Safety
    
-   Add content
+   .. include:: example_lab.rst
+
 
 .. dropdown:: 💻 Code Update & Review Procedure
-
-   *Example SOP content for a code update and review procedure*
-
-   .. rubric:: Health & Safety
    
-   This procedure is performed entirely using computer-based analysis. Use of Display Screen Equipment (DSE) should be risk-assessed, and the working environment should be evaluated in accordance with Occupational Health guidance. Users must ensure ergonomic workstation setup, appropriate seating, lighting, and screen positioning to minimise the risk of strain or injury.
+   .. include:: example_code_review.rst
 
-.. dropdown:: ✅ Verification Procedure
 
-   *Example SOP content for a verification procedure*
+.. dropdown:: ✅ Validation Procedure
 
-   .. rubric:: Health & Safety
-   
-   Add content
+   .. include:: example_validation.rst
+
 
 .. raw:: html
 
