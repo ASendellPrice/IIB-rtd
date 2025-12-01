@@ -29,47 +29,32 @@ This section may include:
 
 -----
 
-.. rubric:: Example content:
+**Example content:**
 
-.. dropdown:: 🧬 Bioinformatics Procedure
+.. dropdown:: 🧬 Bioinformatics QC Procedure
+   
+   .. include:: example_bioinformatics.rst
 
-   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
-   
-   .. rubric:: Result reporting & authorisation
-   
-   Add content
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
-
-   *Example SOP content for a training procedure*
-
-   .. rubric:: Result reporting & authorisation
    
-   Add content
+   .. include:: example_training.rst
+
 
 .. dropdown:: 🧪 Laboratory Procedure
-
-   *Example SOP content for a nucleic acid extraction procedure*
-
-   .. rubric:: Result reporting & authorisation
    
-   Add content
+   .. include:: example_lab.rst
+
 
 .. dropdown:: 💻 Code Update & Review Procedure
-
-   *Example SOP content for a code update and review procedure*
-
-   .. rubric:: Result reporting & authorisation
    
-   Add content
+   .. include:: example_code_review.rst
 
-.. dropdown:: ✅ Verification Procedure
 
-   *Example SOP content for a verification procedure*
+.. dropdown:: ✅ Validation Procedure
 
-   .. rubric:: Result reporting & authorisation
-   
-   Add content
+   .. include:: example_validation.rst
+
 
 .. raw:: html
 
