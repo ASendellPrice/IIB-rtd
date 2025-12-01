@@ -28,7 +28,7 @@ The content of the procedure section will vary considerably depending on the nat
 
 
 .. dropdown:: 💻 Code Update & Review Procedure
-   
+
    .. include:: example_code_review.rst
 
 

@@ -11,8 +11,8 @@ The following documents support or are directly related to this procedure:
 .. list-table::
    :header-rows: 1
 
-   * - SOP Index
-     - Title
+   * - Document Index
+     - Document Title
    * - SOP045
      - Using the NextSeq 550
    * - SOP064

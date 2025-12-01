@@ -1,11 +1,19 @@
-.. rubric:: CROSS-REFERENCES
+*Example content from an SOP outlining the procedure for updating and reviewing code within the Luma Genomics Unit (LGU).*
+
+.. raw:: html 
+    
+    <hr />
+
+**Cross-references**
 
 The following documents support or are directly related to this procedure:
 
-+-------------------------+---------------------------------------------------------+------------+
-| SOP Index               | Title                                                   | Version    |
-+=========================+=========================================================+============+
-| DOC-ADVISOEXAMPLE-001   | LGU standards guidelines for Python                     | v1.2       |
-+-------------------------+---------------------------------------------------------+------------+
-| DOC-ADVISOEXAMPLE-002   | LGU standards guidelines for Nextflow                   | v1.2       |
-+-------------------------+---------------------------------------------------------+------------+
+.. list-table::
+   :header-rows: 1
+
+   * - Document Index
+     - Document Title
+   * - DOC-ADVISOEXAMPLE-001 
+     - LGU standards guidelines for Python 
+   * - DOC-ADVISOEXAMPLE-002
+     - LGU standards guidelines for Nextflow
