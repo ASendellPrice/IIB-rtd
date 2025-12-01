@@ -4,7 +4,6 @@
     
     <hr />
 
-Responsibilities
-================
+**Responsibilities**
 
 An overview of the responsibilities assigned to specific roles is provided in the :ref:`Procedure <procedure_code_review>` section of this SOP.
