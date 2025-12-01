@@ -12,7 +12,17 @@
 
 An overview of the procedure is given in the two schematics below. The actions surrounded by a dotted boxed line involve writing and reviewing code, and should be done with reference to the guidelines and supporting documents laid out in Appendix 1.
 
-...
+*Schematic 1:* Process by which requirements for new or modified code are raised and reviewed
+
+.. image:: code_requirements.png
+   :align: center
+   :width: 600px
+
+*Schematic 2: Process by which code changes are made, reviewed and approved*
+
+.. image:: code_change_procedure.png
+   :align: center
+   :width: 600px
 
 .. raw:: html
 
