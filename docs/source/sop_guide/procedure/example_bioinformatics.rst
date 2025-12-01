@@ -1,4 +1,10 @@
-.. rubric:: PROCEDURE
+*Example content from a bioinformatics SOP outlining the procedure for assessing the quality of Illumina sequencing data prior to downstream bioinformatics analyses.*
+
+.. raw:: html
+    
+    <hr />
+
+**Procedure**
 
 **1. Receipt of sequencing files**
    

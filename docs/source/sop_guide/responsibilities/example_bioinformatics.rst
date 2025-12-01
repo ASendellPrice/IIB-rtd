@@ -6,7 +6,9 @@
 
 **Responsibilities**
 
-.. list-table:: Role Responsibilities
+Responsibilities for the bioinformatics QC procedure are outlined below:
+
+.. list-table::
    :header-rows: 1
 
    * - Role

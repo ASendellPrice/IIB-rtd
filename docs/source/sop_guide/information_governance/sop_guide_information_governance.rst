@@ -15,49 +15,34 @@ The *'Information Governance'* section of an SOP should describe how information
 - **Ethical Use:** Ensure information is used only for its intended purpose (e.g. surveillance, diagnostics, research) and in accordance with institutional policies.
 - **Third-Party Systems:** Identify any external platforms or services used (e.g. NCBI).
 
--------
+-----
 
-.. rubric:: Example content:
+**Example content:**
 
 .. dropdown:: 🧬 Bioinformatics QC Procedure
+   
+   .. include:: example_bioinformatics.rst
 
-   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
-   
-   .. rubric:: Information governance
-   
-   Patient and sequencing data must be handled in accordance with Information Governance and Data Protection policies. Personally identifiable information (PII) must never be stored outside secure, access-controlled systems (e.g., LIMS). Data transfers must occur only via approved, encrypted connections, and users must ensure that all analysis systems and accounts are password-protected and access-controlled.
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
-
-   *Example SOP content for a training procedure*
-
-   .. rubric:: Information governance
    
-   Add content
+   .. include:: example_training.rst
+
 
 .. dropdown:: 🧪 Laboratory Procedure
-
-   *Example SOP content for a nucleic acid extraction procedure*
-
-   .. rubric:: Information governance
    
-   Add content
+   .. include:: example_lab.rst
+
 
 .. dropdown:: 💻 Code Update & Review Procedure
-
-   *Example SOP content for a code update and review procedure*
-
-   .. rubric:: Information governance
    
-   Add content
+   .. include:: example_code_review.rst
 
-.. dropdown:: ✅ Verification Procedure
 
-   *Example SOP content for a verification procedure*
+.. dropdown:: ✅ Validation Procedure
 
-   .. rubric:: Information governance
-   
-   Add content
+   .. include:: example_validation.rst
+
 
 .. raw:: html
 

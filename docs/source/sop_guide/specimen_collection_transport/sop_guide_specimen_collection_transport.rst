@@ -8,47 +8,32 @@ The *'Specimen Collection, Transport & Storage'* section of an SOP should outlin
 
 -----
 
-.. rubric:: Example content:
+**Example content:**
 
 .. dropdown:: 🧬 Bioinformatics QC Procedure
+   
+   .. include:: example_bioinformatics.rst
 
-   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
-   
-   .. rubric:: Specimen Collection & Transport
-   
-   Add content for bioinformatics procedure here.
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
+   
+   .. include:: example_training.rst
 
-   *Example SOP content for a training procedure*
-
-   .. rubric:: Specimen Collection & Transport
-
-   Add content for training procedure Specimen Collection & Transport here.
 
 .. dropdown:: 🧪 Laboratory Procedure
+   
+   .. include:: example_lab.rst
 
-   *Example SOP content for a nucleic acid extraction procedure*
-
-   .. rubric:: Specimen Collection & Transport
-
-   Add content for lab procedure Specimen Collection & Transport here.
 
 .. dropdown:: 💻 Code Update & Review Procedure
-
-   *Example SOP content for a code update and review procedure*
-
-   .. rubric:: Specimen Collection & Transport
-
-   Add content for code update procedure here.
-
-.. dropdown:: ✅ Verification Procedure
-
-   *Example SOP content for a verification procedure*
-
-   .. rubric:: Specimen Collection & Transport
    
-   Add content for verifcation procedure here.
+   .. include:: example_code_review.rst
+
+
+.. dropdown:: ✅ Validation Procedure
+
+   .. include:: example_validation.rst
+
 
 .. raw:: html
 
