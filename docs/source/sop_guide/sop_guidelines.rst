@@ -64,8 +64,8 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    resources_tools/resources_tools
    equipment_reagents/equipment_reagents
    sop_guide_health_safety
-   sop_guide_information_governance
-   sop_guide_specimen_collection_transport
+   information_governance/information_governance
+   specimen_collection_transport/specimen_collection_transport
    sop_guide_data_types
    sop_guide_sample_types
    procedure/procedure
