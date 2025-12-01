@@ -8,7 +8,7 @@
 
 The following documents support or are directly related to this procedure:
 
-.. list-table:: Example Table
+.. list-table::
    :header-rows: 1
 
    * - SOP Index
