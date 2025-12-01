@@ -14,49 +14,34 @@ This section may include:
 
 - **Responsibilities:** Define who is responsible for each step of record management.
 
------
+-------
 
-.. rubric:: Example content:
+**Example content:**
 
-.. dropdown:: 🧬 Bioinformatics Procedure
-
-   *Example SOP content for a bioinformatics pipeline for detecting HIV antiviral resistance*
+.. dropdown:: 🧬 Bioinformatics QC Procedure
    
-   .. rubric:: Record management
-   
-   Add content
+   .. include:: example_bioinformatics.rst
+
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
-
-   *Example SOP content for a training procedure*
-
-   .. rubric:: Record management
    
-   Add content
+   .. include:: example_training.rst
+
 
 .. dropdown:: 🧪 Laboratory Procedure
-
-   *Example SOP content for a nucleic acid extraction procedure*
-
-   .. rubric:: Record management
    
-   Add content
+   .. include:: example_lab.rst
+
 
 .. dropdown:: 💻 Code Update & Review Procedure
-
-   *Example SOP content for a code update and review procedure*
-
-   .. rubric:: Record management
    
-   Add content
+   .. include:: example_code_review.rst
 
-.. dropdown:: ✅ Verification Procedure
 
-   *Example SOP content for a verification procedure*
+.. dropdown:: ✅ Validation Procedure
 
-   .. rubric:: Record management
-   
-   Add content
+   .. include:: example_validation.rst
+
 
 .. raw:: html
 

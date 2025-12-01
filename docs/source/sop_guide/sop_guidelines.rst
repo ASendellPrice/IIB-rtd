@@ -72,7 +72,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    quality_control_assurance/quality_control_assurance
    interferences_limitations/interferences_limitations
    results_reporting_authorisation/results_reporting_authorisation
-   sop_guide_record_management
+   record_management/record_management
    sop_guide_appendices
    sop_guide_change_history
 
