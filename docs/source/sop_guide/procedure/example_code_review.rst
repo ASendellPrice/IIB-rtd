@@ -250,7 +250,7 @@ GitLab issue fields are used to categorise issues and form an important part of 
 
    Start the comment with ([Type][Index]) e.g. for the third required improvement found:
 
-   ::
+   .. code-block:: none
 
       (R3) This code is unreadable …
 
@@ -284,11 +284,10 @@ GitLab issue fields are used to categorise issues and form an important part of 
 
 12. If the code fails operational testing, in the appropriate section of the merge review comment, write:
 
-    ::
+   .. code-block:: none
 
-       (R#) - When testing the code, the following error occurred: <the error message>
+      (R#) - When testing the code, the following error occurred: <the error message>
 
     Testing failures always result in required changes. You may provide information on what has caused the error and a possible solution if you are able to identify these easily.
 
 13. Notify the Developer so they can correct, test, and commit their code. Another review cycle will then start.
-

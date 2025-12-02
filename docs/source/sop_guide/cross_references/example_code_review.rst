@@ -8,12 +8,5 @@
 
 The following documents support or are directly related to this procedure:
 
-.. list-table::
-   :header-rows: 1
-
-   * - Document Index
-     - Document Title
-   * - DOC-ADVISOEXAMPLE-001 
-     - LGU standards guidelines for Python 
-   * - DOC-ADVISOEXAMPLE-002
-     - LGU standards guidelines for Nextflow
+  - **DOC-ADVISOEXAMPLE-001:** LGU standards guidelines for Python
+  - **DOC-ADVISOEXAMPLE-002:** LGU standards guidelines for Nextflow
