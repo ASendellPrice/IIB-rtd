@@ -1,4 +1,10 @@
-.. rubric:: Resources & Tools
+*Example content from an SOP outlining the procedure for updating and reviewing code within the Luma Genomics Unit (LGU).*
+
+.. raw:: html 
+    
+    <hr />
+    
+**Resources & Tools**
 
 The following hardware and software are required to perform this procedure: 
 
