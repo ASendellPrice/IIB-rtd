@@ -1,4 +1,4 @@
-*Example content from a bioinformatics SOP outlining the procedure for assessing the quality of Illumina sequencing data prior to downstream bioinformatics analyses.*
+*Example content from an SOP outlining the procedure for updating and reviewing code within the Luma Genomics Unit (LGU).*
 
 .. raw:: html 
     
