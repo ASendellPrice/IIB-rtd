@@ -59,3 +59,43 @@
     As the Developer I have checked:
     - [ ] The README is useful, descriptive and includes installation instructions.
     - [ ] Functions are sufficiently documented and understandable.
+
+
+**Appendix 2:** Gitlab Merge Request - Reviewer template
+
+.. code-block:: none
+    
+    # Review Overview :to_remove_emoji:
+    All lines ending in :to_remove_emoji: should be edited/removed. There should be no aliens in the final comment :to_remove_emoji: 
+
+    Provide 2-3 overview comments that you would like to highlight to the Developer.These might include any meaningful praise about the code you would like to give.:to_remove_emoji:
+
+    # Code Improvements Summary
+    All proposed improvements have a separate comment, either in-line or on the merge request. They are all indexed at the start of the comment using the mandatory scheme [RS][0-9] e.g. R1.
+    ## Required (R)
+    - [ ] **(R1)** - link or short description if needed :to_remove_emoji:
+    - [ ] **(R2)** - link or short description if needed :to_remove_emoji:
+    ## Suggestion (S)
+    - [ ] **(S1)** - link or short description if needed :to_remove_emoji:
+    - [ ] **(S2)** - link or short description if needed :to_remove_emoji:
+
+    Give concise details of how the testing was performed that would be useful for the assignee to be aware of. These might include locations where test outputs have been saved, the date the test was performed, what version of a metadata file was used (e.g. SARS metadata file) :to_remove_emoji:
+    1. Test one with details and if results were as expected :to_remove_emoji:
+
+    # Reviewer Critical checks
+    I performed the following checks suggested by the Developer. :to_remove_emoji:
+    1. Item one :to_remove_emoji: 
+
+    # Reviewer General Checks
+    As reviewer you have highlighted improvements for items on the general check list you do not think are satisfactory. :to_remove_emoji:
+    As reviewer I have checked the following are satisfactory: :to_remove_emoji:
+    - **Fit for purpose**. Fulfils the requirements as described in the issue description :to_remove_emoji:
+    - **Style**. Meets the standards of the appropriate house style guide for the language(s) used in the project. It is readable. :to_remove_emoji:
+    - **Code duplication**. The code is free of unnecessary duplication. Standard libraries/packages or house code are being re-used. :to_remove_emoji: 
+    - **Maintainability**. The code is modular and expandable. :to_remove_emoji: 
+    - **Scalability**. No major computational bottlenecks are in the code that could be adjusted to improve performance with larger datasets. :to_remove_emoji:
+    - **Reliability**. The code is stable and fast (relative to project). Errors are handled correctly. :to_remove_emoji:
+    - Plots are readable, axes reasonable and labels clear :to_remove_emoji:
+    - Tables are logical, readable and understandable. :to_remove_emoji:
+    - There are no hardcoded paths for data input and output (should be passed as arguments or read from a config YAML file). :to_remove_emoji:
+    - There are no hardcoded secrets or variables that make testing difficult (should be passed as arguments or read from a config YAML file). :to_remove_emoji:
