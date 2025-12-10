@@ -68,6 +68,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
    specimen_collection_transport/specimen_collection_transport
    data_types/data_types
    sample_types/sample_types
+   training_requirements/training_requirements
    procedure/procedure
    quality_control_assurance/quality_control_assurance
    interferences_limitations/interferences_limitations

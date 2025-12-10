@@ -1,3 +1,5 @@
+*Example content from an SOP outlining a training procedure*
+
 .. raw:: html
     
     <hr />

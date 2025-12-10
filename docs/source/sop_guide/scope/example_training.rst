@@ -5,6 +5,7 @@
     <hr />
 
 **Scope**
+
 This SOP applies to all internal training activities conducted within ISO-in-a-Box, including skills development for staff, interns, and collaborators working under the project’s quality system. It covers: 
 
     - Planning and preparing training sessions 

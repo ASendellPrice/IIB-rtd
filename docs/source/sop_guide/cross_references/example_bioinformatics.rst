@@ -19,3 +19,5 @@ The following documents support or are directly related to this procedure:
      - A guide to bioinformatics in pathogen genomics
    * - SOP065
      - Operational testing of bioinformatics pipelines
+   * - Bioinformatics routine tasks
+     - Validation of the bioinformatics QC pipeline

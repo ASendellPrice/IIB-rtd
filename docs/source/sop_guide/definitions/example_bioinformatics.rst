@@ -5,15 +5,11 @@
 
   * - Term
     - Definition
+  * - Cron jon
+    - A scheduled task on Unix/Linux systems that runs automatically at specified intervals
+  * - Duty bioinformatician
+    - The designated member of the bioinformatics team responsible for executing and monitoring production bioinformatics pipelines and monitoring the bioinformatics inbox
   * - FASTQ
-    - A text-based file format that stores both nucleotide sequences and their associated quality scores.
-  * - FASTA
-    - A sequence file format containing nucleotide or protein sequences without quality data.
-  * - BAM/CRAM
-    - Binary and compressed alignment formats that store sequencing reads mapped to a reference genome.
-  * - VCF (Variant Call Format)
-    - A standard text file format used to store genetic variants identified in sequence data.
-  * - Minor Variant
-    - A genetic variant detected at a frequency below that of the dominant (consensus) allele, typically between 20–50%.
-  * - LIMS (Laboratory Information Management System)
-    - Software used to manage sample metadata and analytical results.
+    - A text-based file format that stores both nucleotide sequences and their associated quality scores
+  * - Magnitude
+    - The number of sequencing reads assigned to the expected organism by Centrifuge

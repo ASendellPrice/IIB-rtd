@@ -6,9 +6,13 @@
 
 **Responsibilities**
 
-Authorised members of the bioinformatics team are responsible for executing the QC procedure. Their key responsibilities include:
+The duty bioinformatician is responsible for performing the QC procedure outlined in this SOP. Responsibilities primarily consist of:
 
-- Oversee the complete execution and monitoring of the QC pipeline, ensuring all steps are performed in accordance with this SOP.  
-- Evaluate sequencing data quality and produce QC reports summarising key metrics for each run.  
-- Detect and escalate QC issues affecting sequencing runs or individual samples to senior laboratory staff for review and potential resequencing.  
-- Maintain accurate and comprehensive documentation of QC results and pipeline performance for audit and reporting purposes.  
+    - **Pipeline execution and monitoring:** Running the QC pipeline in automated or manual mode, ensuring all steps are completed according to the SOP.
+    
+    - **QC assessment:** Reviewing QC metrics via the QC database (AutoQC), confirming pass/fail flags, and validating outputs from MultiQC and Centrifuge.
+    
+    - **Database annotation:** Recording explanatory notes in AutoQC for all failed samples.
+    
+    - **Issue escalation:** Notifying the laboratory team via Slack when runs contain failed samples.
+
