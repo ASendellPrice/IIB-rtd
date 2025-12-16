@@ -4,7 +4,7 @@
 
 project = 'ISO in a Box'
 copyright = ''
-author = ''
+author = 'advISO'
 
 release = '0.1'
 version = '0.1.0'
@@ -31,7 +31,8 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_logo = '_static/advISO_logo.png'
+html_static_path = ['html/_static']
+html_logo = 'advISO_logo.png'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
