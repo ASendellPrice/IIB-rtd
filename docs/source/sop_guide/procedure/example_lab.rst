@@ -196,3 +196,12 @@ While FLEXSTOP is running:
           - 14 µl
 
     - Using a 20 µl multichannel pipette, remove all the supernatant being careful to not disturb the beads. 
+    - Remove plate from magnet and add 20 µl of PCR mix to each sample. 
+    - Add 5 µl of index to each sample. 
+    - Seal plate and place on shaker at 1600rpm for 1 minute. 
+    - Load plate into the thermocycler and skip hold to initiate FLEXPCR. 
+    - **Runtime:** 15 minutes.
+
+.. Note::
+    **Safe Stopping Point!**
+    The plate can be left on the thermocycler overnight or the plate can be sealed and stored at 2-8°C. Do not freeze.
