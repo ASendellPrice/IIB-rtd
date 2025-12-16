@@ -101,7 +101,8 @@ Vortex BLT (30s) and TB1 (pulse spin). Prepare the Tagmentation (TAG) Mix in a 	
 
 **4.3 Sample Loading**
 
-    - Label a semi-skirted plate with the run ID followed by “-TAG”. - **For viral amplicons (HIV, Flu):** Shake PCR product plate at 1800 rpm for 2 minutes using the plate shaker. Centrifuge at 3000 rpm for 30 seconds. Dilute sample 1:3 by adding 10 µl sample to 20 µl nuclease‑free water to the labelled semi-skirted plate. Mix by pipetting 10 times or shake at 1600 rpm for 1 minute.
+    - Label a semi-skirted plate with the run ID followed by “-TAG”.
+    - **For viral amplicons (HIV, Flu):** Shake PCR product plate at 1800 rpm for 2 minutes using the plate shaker. Centrifuge at 3000 rpm for 30 seconds. Dilute sample 1:3 by adding 10 µl sample to 20 µl nuclease‑free water to the labelled semi-skirted plate. Mix by pipetting 10 times or shake at 1600 rpm for 1 minute.
     - **For COVID samples:** Shake PCR plates A and B at 1800rpm for 2 minutes on using the plate shaker. Centrifuge at 3000 rpm for 30 seconds. Add 10 µl of sample from PCR Plate A, 10 µl of sample from PCR Plate B, and 10 µl nuclease‑free water to the labelled semi-skirted plate. Mix by pipetting 10 times or shake at 1600 rpm for 1 minute.
     - **For bacterial samples:** Shake extract plate at 1800rpm for 2 minutes using the plate shaker. Centrifuge at 3000rpm for 30 seconds. Place plat on magnet for 5 minutes to remove silica from the extraction. Add 30µl of neat sample to the labelled semi-skirted plate.
     - Add 10 µl TAG Mix to each sample. Pipette once to dispense, shake (1600 rpm, 1 min), then seal plate.
@@ -149,7 +150,7 @@ While FLEXSTOP is running:
 
    <hr>
 
-**6. Pre-Amplification PCR Cleanup**
+**6. Pre-Amplification Cleanup**
 
 **6.1 Post-FLEXSTOP Handling**
 
@@ -171,6 +172,27 @@ While FLEXSTOP is running:
         1. Add 100 µl of TWB, then pipette (10x) to gently mix.
         2. Place on magnet for a further 3 minutes.
     
-.. Note::
+.. Important::
     After the second wash, keep plate on magnet with supernatant on until the PCR mix is ready.
 
+.. raw:: html
+
+   <hr>
+
+**7. PCR-Amplification (FLEXPCR)**
+
+    - Start FLEXPCR programme on the Veriti thermocycler and leave on hold. 
+    - Remove EPM from fridge. Invert to mix and pulse spin. 
+    - Make up PCR mix as follows:
+
+    .. list-table::
+        :header-rows: 1
+        
+        * - 
+          - Volume per sample
+        * - EPM
+          - 14 µl
+        * - Nuclease-free water
+          - 14 µl
+
+    - Using a 20 µl multichannel pipette, remove all the supernatant being careful to not disturb the beads. 
