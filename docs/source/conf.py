@@ -1,6 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
 
-# -- Project information
+# -- Project information -----------------------------------------------------
 
 project = 'ISO in a Box'
 copyright = ''
@@ -9,7 +9,7 @@ author = 'advISO'
 release = '0.1'
 version = '0.1.0'
 
-# -- General configuration
+# -- General configuration ---------------------------------------------------
 
 extensions = [
     'sphinx.ext.duration',
@@ -28,11 +28,24 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-# -- Options for HTML output
+# -- Custom roles ------------------------------------------------------------
+
+rst_prolog = """
+.. role:: advISO
+   :class: advISO
+"""
+
+# -- Options for HTML output -------------------------------------------------
 
 html_theme = 'sphinx_rtd_theme'
+
 # Path for static files
 html_static_path = ['_static']
+
+# Load custom CSS
+html_css_files = [
+    'custom.css',
+]
 
 # Path to the logo
 html_logo = '_static/logo.png'
@@ -42,6 +55,6 @@ html_theme_options = {
     'display_version': False,
 }
 
-# -- Options for EPUB output
-epub_show_urls = 'footnote'
+# -- Options for EPUB output -------------------------------------------------
 
+epub_show_urls = 'footnote'

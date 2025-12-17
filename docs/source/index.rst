@@ -1,5 +1,5 @@
-Welcome to the advISO SOP writing guidelines
-============================================
+Welcome to the :advISO: SOP writing guidelines
+==============================================
 
 The following pages provide comprehensive guidance on the creation and implemention of Standard Operating Procedures (SOPs) that comply with ISO 15189 (medical laboratories) and ISO 17025 (testing and calibration laboratories). It is designed to support organisations in their journey towards ISO accreditation. 
 
@@ -17,7 +17,6 @@ This documentation was developed as part of the Wellcome Trust–funded project:
    :maxdepth: 2
 
    sop_guide/introduction
-   sop_guide/universal_template
    sop_guide/modular_alternative
    sop_guide/case_studies
    sop_guide/purpose/purpose
