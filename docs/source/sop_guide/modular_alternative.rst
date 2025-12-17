@@ -14,9 +14,6 @@ Each building block in the diagram represents a distinct section of an SOP. Some
 
 Using these building blocks, organisations can tailor the SOP structure to suit the specific needs of each procedure while maintaining consistency in format and style across all SOPs. Users of our approach will need to select building block sections that are relevant to the procedure being documented. This provides for flexibility and adaptability, allowing organisations to create SOPs that are better fit for purpose.
 
-SOP building block guidance & examples
---------------------------------------
-
 On the basis of the modular SOP structure outlined above, we have developed detailed writing guidance for each building block section. Each section includes:
 
     - A description of the section’s purpose and importance.
