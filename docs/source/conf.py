@@ -36,6 +36,10 @@ rst_epilog = f"""
 .. |version| replace:: {version}
 """
 
+# Use dynamic date for |today|
+today_fmt = "%Y-%m-%d"
+
+
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'sphinx_rtd_theme'
