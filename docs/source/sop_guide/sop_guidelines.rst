@@ -58,6 +58,7 @@ Each section of the SOP writing guidance can be accessed via the table of conten
 
    purpose/purpose
    scope/scope
+   underlying_principles/underlying_principles
    cross_references/cross_references
    definitions/definitions
    responsibilities/responsibilities
