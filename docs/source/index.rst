@@ -1,24 +1,24 @@
-Welcome
-=======
+Welcome to advISO's SOP writing guide!
+======================================
 
-.. toctree::
-   :hidden:
-
-   glossary
-   sop_guide/sop_guidelines
-   coding_guidelines
-
-Welcome to the ISO in a Box documentation!
-------------------------------------------
-
-This resource is designed to provide comprehensive guidance on creating and implementing Standard Operating Procedures (SOPs) for bioinformatics pipelines, ensuring compliance with ISO 15189 and ISO 17025 standards. The documentation covers key aspects of SOP structure, content, and best practices for maintaining high-quality bioinformatics analyses in clinical and research settings.
-
-Explore the sections in the sidebar to learn more about SOP structure and content, and how to align your bioinformatics practices with ISO 15189 and ISO 17025 requirements.
-
-This documentation was developed as part of the Wellcome Trust funded project "ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world" (Grant Reference: 228162/Z/23/Z).
-
-.. note::
+.. important::
 
    This project is under active development.
    
    This documentation is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the material, provided appropriate credit is given.  
+
+This resource provides comprehensive guidance on creating and implementing Standard Operating Procedures (SOPs) that comply with ISO 15189 (medical laboratories) and ISO 17025 (testing and calibration laboratories). It is designed to support organisations in their journey towards ISO accreditation. 
+
+By exploring the sections in the sidebar, you will learn how to:
+
+   - Structure SOPs effectively
+   - Define essential content requirements
+   - Align organisational processes with ISO 15189 and ISO 17025 standards
+
+This documentation was developed as part of the Wellcome Trust–funded project: “ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world” (Grant Reference: 228162/Z/23/Z)
+
+.. toctree::
+   :hidden:
+
+   sop_guide/sop_guidelines
+   glossary

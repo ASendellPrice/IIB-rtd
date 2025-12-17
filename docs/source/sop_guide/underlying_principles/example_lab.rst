@@ -12,4 +12,4 @@ Figure 1. Illustration of Illumina on-bead transposome chemistry - (A) Bead-link
 
 .. image:: bead_linked_chemistry.png
    :align: center
-   :width: 500px
+   :width: 400px
