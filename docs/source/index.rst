@@ -1,15 +1,7 @@
 Welcome to the advISO SOP writing guidelines
 ============================================
 
-.. raw:: html
-
-   <div class="funding-box">
-   This documentation was developed as part of the Wellcome Trust–funded project:<br>
-   <em>“ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world”</em><br>
-   (Grant Reference: 228162/Z/23/Z)
-   </div>
-
-**Release:** |release|
+**Release:** |release| [2025-12-17]
 
 The following pages provide comprehensive guidance on the creation and implemention of Standard Operating Procedures (SOPs) that comply with ISO 15189 (medical laboratories) and ISO 17025 (testing and calibration laboratories). It is designed to support organisations in their journey towards ISO accreditation. 
 
@@ -49,3 +41,12 @@ A :ref:`Glossary of ISO terms <glossary>` is also provided, offering definitions
    sop_guide/appendices/appendices
    sop_guide/change_history/change_history
    glossary/
+
+.. raw:: html
+
+   <div class="funding-box">
+   This documentation was developed as part of the Wellcome Trust–funded project:<br>
+   <em>“ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world”</em><br>
+   (Grant Reference: 228162/Z/23/Z)
+   </div>
+   <br>
