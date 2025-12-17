@@ -44,3 +44,14 @@ This documentation was developed as part of the Wellcome Trust–funded project:
    sop_guide/change_history/change_history
 
    glossary/
+
+.. card::
+   :title: Release 0.1
+   :subtitle: Initial release
+
+   - SOP writing guide
+   - Glossary of ISO terms
+   - Example content for:
+      - Bioinformatics QC procedure
+      - Illumina library prep procedure
+
