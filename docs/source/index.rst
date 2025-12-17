@@ -12,8 +12,6 @@ By exploring the sections in the sidebar, you will learn how to:
 
 A :ref:`Glossary of ISO terms <glossary>` is also provided, offering definitions and bioinformatics-specific translations to facilitate clear communication and shared understanding between both wet lab and dry lab teams.
 
-This documentation was developed as part of the Wellcome Trust–funded project: “ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world” (Grant Reference: 228162/Z/23/Z)
-
 .. toctree::
    :hidden:
    :maxdepth: 2
@@ -42,16 +40,14 @@ This documentation was developed as part of the Wellcome Trust–funded project:
    sop_guide/record_management/record_management
    sop_guide/appendices/appendices
    sop_guide/change_history/change_history
-
    glossary/
 
-.. card::
-   :title: Release 0.1
-   :subtitle: Initial release
 
-   - SOP writing guide
-   - Glossary of ISO terms
-   - Example content for:
-      - Bioinformatics QC procedure
-      - Illumina library prep procedure
+.. raw:: html
+
+   <div class="funding-box">
+   This documentation was developed as part of the Wellcome Trust–funded project:<br>
+   <em>“ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world”</em><br>
+   (Grant Reference: 228162/Z/23/Z)
+   </div>
 
