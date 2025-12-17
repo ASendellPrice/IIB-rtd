@@ -3,7 +3,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ISO in a Box'
-copyright = ''
+copyright = 'advISO 2025'
 author = 'advISO'
 
 release = '0.1'
