@@ -14,6 +14,7 @@ This documentation was developed as part of the Wellcome Trust–funded project:
 
 .. toctree::
    :hidden:
+   :maxdepth: 2
 
    index
    sop_guide/introduction
