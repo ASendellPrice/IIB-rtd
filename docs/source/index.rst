@@ -10,14 +10,14 @@ Welcome to the advISO SOP writing guidelines
    </div>
    <br>
 
-The following pages provide comprehensive guidance on the creation and implemention of Standard Operating Procedures (SOPs) that comply with ISO 15189 (medical laboratories) and ISO 17025 (testing and calibration laboratories). It is designed to support organisations in their journey towards ISO accreditation. 
+**Release:** |release| [|today|]
 
-By exploring the sections in the sidebar, you will learn how to:
+The following pages have been developed to provide comprehensive guidance on the writing and implementation of Standard Operating Procedures (SOPs) for organisations working toward accreditation under the ISO 15189 (medical laboratories) and ISO 17025 (testing and calibration laboratories) standards.
 
-   - Structure SOPs effectively
-   - Define essential content requirements
+This guide explains in detail how an SOP should be structured and what content must be included to meet international requirements. It offers practical advice, examples, and frameworks that enable laboratories to create SOPs which not only comply with ISO standards but also serve as clear, reliable evidence of quality and competence.
 
-A :ref:`Glossary of ISO terms <glossary>` is also provided, offering definitions and bioinformatics-specific translations to facilitate clear communication and shared understanding between both wet lab and dry lab teams.
+A :ref:`Glossary of ISO terms <glossary>` is also provided, offering definitions and bioinformatics-specific translations to facilitate clear communication and shared understanding between both wet lab and dry lab teams. This glossary is intended to bridge disciplinary language gaps and promote collaboration across different areas of expertise.
+
 
 .. toctree::
    :hidden:
@@ -48,5 +48,3 @@ A :ref:`Glossary of ISO terms <glossary>` is also provided, offering definitions
    sop_guide/appendices/appendices
    sop_guide/change_history/change_history
    glossary/
-
-**Release:** |release| [|today|]
