@@ -45,6 +45,7 @@ A :ref:`Glossary of ISO terms <glossary>` is also provided, offering definitions
 .. raw:: html
 
    <div class="funding-box">
+   <b>Funding</b>
    This documentation was developed as part of the Wellcome Trust–funded project:<br>
    <em>“ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world”</em><br>
    (Grant Reference: 228162/Z/23/Z)
