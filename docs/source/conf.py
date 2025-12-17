@@ -28,11 +28,12 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-# -- Custom roles ------------------------------------------------------------
+# -- Custom substitutions ----------------------------------------------------
 
-rst_prolog = """
-.. role:: advISO
-   :class: advISO
+# These let you use |version| and |release| in your .rst files
+rst_epilog = f"""
+.. |release| replace:: {release}
+.. |version| replace:: {version}
 """
 
 # -- Options for HTML output -------------------------------------------------
@@ -52,7 +53,7 @@ html_logo = '_static/logo.png'
 
 html_theme_options = {
     'logo_only': True,
-    'display_version': True,
+    'display_version': False,
 }
 
 # -- Options for EPUB output -------------------------------------------------
