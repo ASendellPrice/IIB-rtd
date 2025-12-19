@@ -3,7 +3,7 @@ Purpose of the Procedure
 
 .. raw:: html
 
-   <div class="box">
+   <div class="custom-box">
    This section is a fundamental building block of any SOP
    </div>
    <br>
