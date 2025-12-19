@@ -26,6 +26,11 @@ Depending on the type of procedure, the purpose may describe:
    .. include:: example_training.rst
 
 
+.. dropdown:: 🌌 Galaxy Training Procedure
+   
+   .. include:: example_galaxy.rst
+
+
 .. dropdown:: 🧪 Laboratory Procedure
    
    .. include:: example_lab.rst
