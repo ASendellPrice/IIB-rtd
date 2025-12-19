@@ -17,6 +17,11 @@ The Training Requirements section of an SOP outlines what knowledge, skills, qua
    .. include:: example_training.rst
 
 
+.. dropdown:: 🌌 Galaxy Training Procedure
+   
+   .. include:: example_galaxy.rst
+
+
 .. dropdown:: 🧪 Laboratory Procedure
    
    .. include:: example_lab.rst

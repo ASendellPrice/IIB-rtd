@@ -18,6 +18,11 @@ This section of an SOP should include definitions of scientific, technical, and 
    .. include:: example_training.rst
 
 
+.. dropdown:: 🌌 Galaxy Training Procedure
+   
+   .. include:: example_galaxy.rst
+
+
 .. dropdown:: 🧪 Laboratory Procedure
    
    .. include:: example_lab.rst
