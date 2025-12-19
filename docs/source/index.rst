@@ -1,5 +1,5 @@
-Welcome to the advISO SOP writing guidelines
-============================================
+Welcome to the advISO SOP Writing Guide
+=======================================
 
 **Release:** |release| [|today|]
 
