@@ -17,6 +17,11 @@ The underlying principles section of an SOP can be used to provide background in
    .. include:: example_training.rst
 
 
+.. dropdown:: 🌌 Galaxy Training Procedure
+   
+   .. include:: example_galaxy.rst
+
+
 .. dropdown:: 🧪 Laboratory Procedure
    
    .. include:: example_lab.rst
