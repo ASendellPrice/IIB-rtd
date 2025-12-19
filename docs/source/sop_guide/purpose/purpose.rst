@@ -1,12 +1,8 @@
 Purpose of the Procedure
 ========================
 
-.. raw:: html
-
-   <div class="custom-box">
+.. important::
    This section is a fundamental building block of any SOP
-   </div>
-   <br>
 
 The 'Purpose' section of an SOP should provide a clear and concise statement of why the procedure exists and its intended role within the organisation/laboratory. It should outline the specific goals the procedure aims to achieve, and explain how it contributes to broader workflows, services, or regulatory requirements. This helps users understand the value and relevance of the procedure in context.
 
