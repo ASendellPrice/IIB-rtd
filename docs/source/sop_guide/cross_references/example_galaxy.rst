@@ -10,8 +10,6 @@ This SOP should be read alongside:
 
 - IIB_QMS_001: Competency Assessment SOP
 - IIB_QMS_002: Training SOP
-- Ten Best Practices for Public Health Bioinformatics Pipelines
-  (`link <https://github.com/pha4ge/public-health-pipeline-best-practices/blob/main/docs/pipeline-best-practices.md>`_)
-- Galaxy Training Network (GTN) tutorials on TB variant calling workflows
-  (`link <https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/tb-variant-analysis/workflows/tb-variant-analysis.html>`_)
+- `Ten Best Practices for Public Health Bioinformatics Pipelines <https://github.com/pha4ge/public-health-pipeline-best-practices/blob/main/docs/pipeline-best-practices.md>`_
+- `Galaxy Training Network (GTN) tutorials on TB variant calling workflows <https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/tb-variant-analysis/workflows/tb-variant-analysis.html>`_
 
