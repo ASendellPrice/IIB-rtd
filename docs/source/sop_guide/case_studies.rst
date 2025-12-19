@@ -1,7 +1,7 @@
 Case studies
 ============
 
-Throughout the guidance we have focussed on five procedure case studies to illustrate how the modular SOP structure can be applied in practice:
+Throughout this guide we make use of a series of case studies to illustrate how the modular SOP structure can be applied in practice:
 
 .. dropdown:: 🧬 Bioinformatics QC Procedure
 
@@ -9,19 +9,25 @@ Throughout the guidance we have focussed on five procedure case studies to illus
 
 .. dropdown:: 🧪 Laboratory Procedure
 
-   Add description of case study
+   A laboratory procedure detailing the process for preparing Illumina sequencing libraries from DNA.
 
 .. dropdown:: 👩‍🔬 Staff Training Procedure
 
-   Add description of case study
+   A procedure for planning, delivering, and documenting staff training activities.
+
+.. dropdown:: 🌌 Galaxy Training Procedure
+  
+   A procedure for delivering standardized training on the Galaxy platform, covering workflow development, execution, and management.
 
 .. dropdown:: 💻 Code Update & Review Procedure
 
-   Add description of case study
+   A procedure outlining best practices for updating bioinformatics pipelines and performing code review.
 
 .. dropdown:: ✅ Verification Procedure
 
-   Add description of case study
+   A standard operating procedure for perfoming verification of bioinformatics pipelines prior to rollout.
+
+All of these case studies are loosely based on real procedures used within accredited laboratories.
 
 ----------------
 
