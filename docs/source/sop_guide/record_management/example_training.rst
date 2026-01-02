@@ -20,4 +20,4 @@ ISO-in-a-Box SharePoint → Training Records → [Training Topic Folder]
 
 **Retention:**
 
-Minimum of 2 years or per institutional policy. 
+Minimum of 2 years or per institutional policy.
