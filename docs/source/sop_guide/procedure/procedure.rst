@@ -22,6 +22,11 @@ The content of the procedure section will vary considerably depending on the nat
    .. include:: example_training.rst
 
 
+.. dropdown:: 🌌 Galaxy Training Procedure
+   
+   .. include:: example_galaxy.rst
+      
+
 .. dropdown:: 🧪 Laboratory Procedure
    
    .. include:: example_lab.rst
