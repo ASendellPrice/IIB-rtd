@@ -8,6 +8,12 @@
 
 This section describes the step-by-step process for delivering training on developing and executing analysis workflows using the Galaxy platform. Training is delivered using the **Show → Do → Apply** instructional model to ensure progressive skill acquisition and demonstrable competency.
 
+
+.. raw:: html
+    
+    <hr />
+
+
 **1. Preperation (Training Coordinator + Trainer)**
 
 **1.1 Training Coordinator Responsibilities**

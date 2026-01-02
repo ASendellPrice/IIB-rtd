@@ -20,6 +20,11 @@ The *'Specimen Collection, Transport & Storage'* section of an SOP should outlin
    .. include:: example_training.rst
 
 
+.. dropdown:: 🌌 Galaxy Training Procedure
+   
+   .. include:: example_galaxy.rst
+
+
 .. dropdown:: 🧪 Laboratory Procedure
    
    .. include:: example_lab.rst
