@@ -19,32 +19,28 @@ The 'Change History' section of an SOP consists of a list of entries detailing t
 
 -------
 
-**Example content:**
+.. dropdown:: Example
 
-.. dropdown:: 🧬 Bioinformatics QC Procedure
-   
-   .. include:: example_bioinformatics.rst
+  .. list-table::
+   :header-rows: 1
+   :widths: 15 60 20 15
 
-
-.. dropdown:: 👩‍🔬 Staff Training Procedure
-   
-   .. include:: example_training.rst
-
-
-.. dropdown:: 🧪 Laboratory Procedure
-   
-   .. include:: example_lab.rst
-
-
-.. dropdown:: 💻 Code Update & Review Procedure
-   
-   .. include:: example_code_review.rst
-
-
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
+   * - Date
+     - Description of change
+     - Version implemented
+     - Authorised by
+   * - 08/09/2022
+     - Major restructure to procedure section to make code review process clearer.
+     - V2.0
+     - J. Patel
+   * - 15/01/2023
+     - GitLab templates added to appendix
+     - V1.1
+     - S. Thompson
+   * - 14/01/2023
+     - Original document
+     - V1.0
+     - S. Thompson
 
 .. raw:: html
 
