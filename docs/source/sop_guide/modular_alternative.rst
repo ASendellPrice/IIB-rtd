@@ -22,4 +22,4 @@ On the basis of the modular SOP structure outlined above, we have developed deta
 
     - A description of the section’s purpose and importance.
     - Guidance on what content to include.
-    - Example content for different types of procedures (e.g., bioinformatics pipelines, laboratory procedures, training protocols) as appropriate.
+    - Example content for different types of procedures.

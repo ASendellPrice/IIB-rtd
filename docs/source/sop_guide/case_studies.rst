@@ -5,7 +5,7 @@ Throughout this guide we make use of a series of case studies to illustrate how 
 
 .. dropdown:: 🧬 Bioinformatics QC Procedure
 
-   A bioinformatics procedure for assessing the quality of sequencing reads prior to downstream analysis and reporting.
+   A bioinformatics procedure for assessing the quality of Illumina sequencing reads prior to downstream analysis and reporting.
 
 .. dropdown:: 🧪 Laboratory Procedure
 
@@ -27,7 +27,7 @@ Throughout this guide we make use of a series of case studies to illustrate how 
 
    A standard operating procedure for perfoming verification of bioinformatics pipelines prior to rollout.
 
-All of these case studies are loosely based on real procedures used within accredited laboratories.
+All of these case studies are loosely based on real procedures used within ISO accredited laboratories.
 
 ----------------
 
